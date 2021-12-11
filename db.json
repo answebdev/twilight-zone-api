@@ -39,7 +39,7 @@
             "directed_by": "Allen Reisner",
             "written_by": "Rod Serling",
             "release_year": "1959",
-            "storyline": "Mr. Denton on Doomsday.",
+            "storyline": "The town drunk in the old-west faces his past when Fate lends a hand.",
             "cast": [
                 "Dan Duryea",
                 "Martin Landau",
@@ -48,6 +48,24 @@
                 "Doug McClure",
                 "Ken Lynch",
                 "Bill Erwin"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "The Sixteen-Millimeter Shrine",
+            "season_number": "1",
+            "episode_number": "4",
+            "directed_by": "Mitchell Leisen",
+            "written_by": "Rod Serling",
+            "release_year": "1959",
+            "storyline": "Barbara Jean Trenton is a faded film star who lives in the past by constantly re-watching her old movies instead of moving on with her life, so her associates try to lure her out of her self-imposed isolation.",
+            "cast": [
+                "Ida Lupino",
+                "Ida Lupino",
+                "Jerome Cowan",
+                "John Clarke",
+                "Ted de Corsia",
+                "Alice Frost"
             ]
         }
     ]

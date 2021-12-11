@@ -14,7 +14,9 @@
                 "Earl Holliman",
                 "James Gregory",
                 "Garry Walberg"
-            ]
+            ],
+            "opening_narration": "The place is here. The time is now, and the journey into the shadows that we are about to watch, could be our journey.",
+            "closing_narration": "The barrier of loneliness: The palpable, desperate need of the human animal to be with his fellow man. Up there, up there in the vastness of space, in the void that is sky, up there is an enemy known as isolation. It sits there in the stars waiting, waiting with the patience of eons, forever waiting... in The Twilight Zone."
         },
         {
             "id": 2,
@@ -29,7 +31,9 @@
                 "Ed Wynn",
                 "Murray Hamilton",
                 "Dana Dillaway"
-            ]
+            ],
+            "opening_narration": "Street scene: Summer. The present. Man on a sidewalk named Lew Bookman, age sixtyish. Occupation: pitchman. Lew Bookman, a fixture of the summer, a rather minor component to a hot July, a nondescript, commonplace little man whose life is a treadmill built out of sidewalks. And in just a moment, Lew Bookman will have to concern himself with survival - because as of three o'clock this hot July afternoon, he'll be stalked by Mr. Death.",
+            "closing_narration": "Lewis J. Bookman, age sixtyish. Occupation: pitchman. Formerly a fixture of the summer, formerly a rather minor component to a hot July. But, throughout his life, a man beloved by the children, and therefore, a most important man. Couldn't happen, you say? Probably not in most places - but it did happen in the Twilight Zone."
         },
         {
             "id": 3,
@@ -48,7 +52,9 @@
                 "Doug McClure",
                 "Ken Lynch",
                 "Bill Erwin"
-            ]
+            ],
+            "opening_narration": "Portrait of a town drunk named Al Denton. This is a man who's begun his dying early — a long, agonizing route through a maze of bottles. Al Denton, who would probably give an arm or a leg or a part of his soul to have another chance, to be able to rise up and shake the dirt from his body and the bad dreams that infest his consciousness. In the parlance of the times, this is a peddler, a rather fanciful-looking little man in a black frock coat. And this is the third principal character of our story. Its function: perhaps to give Mr. Al Denton his second chance.",
+            "closing_narration": "Mr. Henry Fate, dealer in utensils and pots and pans, liniments and potions. A fanciful little man in a black frock coat who can help a man climbing out of a pit — or another man from falling into one. Because, you see, fate can work that way, in the Twilight Zone."
         },
         {
             "id": 4,
@@ -66,7 +72,9 @@
                 "John Clarke",
                 "Ted de Corsia",
                 "Alice Frost"
-            ]
+            ],
+            "opening_narration": "Picture of a woman looking at a picture. Movie great of another time, once-brilliant star in a firmament no longer a part of the sky, eclipsed by the movement of earth and time. Barbara Jean Trenton, whose world is a projection room, whose dreams are made out of celluloid. Barbara Jean Trenton, struck down by hit-and-run years and lying on the unhappy pavement, trying desperately to get the license number of fleeting fame.",
+            "closing_narration": "To the wishes that come true, to the strange, mystic strength of the human animal, who can take a wishful dream and give it a dimension of its own. To Barbara Jean Trenton, movie queen of another era, who has changed the blank tomb of an empty projection screen into a private world. It can happen in the Twilight Zone."
         }
     ]
 }

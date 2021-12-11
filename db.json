@@ -1,0 +1,54 @@
+{
+    "episodes":
+    [
+        {
+            "id": 1,
+            "title": "Where Is Everybody?",
+            "season_number": "1",
+            "episode_number": "1",
+            "directed_by": "Robert Stevens",
+            "written_by": "Rod Serling",
+            "release_year": "1959",
+            "storyline": "Mike Ferris finds himself alone in the small Oakwood town and without recollection about his name, where he is or who he is. Mike wanders through the town trying to find a living soul. The tension increases and Mike has a breakdown.",
+            "cast": [
+                "Earl Holliman",
+                "James Gregory",
+                "Garry Walberg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "One for the Angels",
+            "season_number": "1",
+            "episode_number": "2",
+            "directed_by": "Robert Parrish",
+            "written_by": "Rod Serling",
+            "release_year": "1959",
+            "storyline": "A pitchman is visited by Mr. Death and is forced to get his priorities in order.",
+            "cast": [
+                "Ed Wynn",
+                "Murray Hamilton",
+                "Dana Dillaway"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Mr. Denton on Doomsday",
+            "season_number": "1",
+            "episode_number": "3",
+            "directed_by": "Allen Reisner",
+            "written_by": "Rod Serling",
+            "release_year": "1959",
+            "storyline": "Mr. Denton on Doomsday.",
+            "cast": [
+                "Dan Duryea",
+                "Martin Landau",
+                "Jeanne Cooper",
+                "Malcolm Atterbury",
+                "Doug McClure",
+                "Ken Lynch",
+                "Bill Erwin"
+            ]
+        }
+    ]
+}

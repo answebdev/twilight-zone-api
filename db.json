@@ -293,7 +293,7 @@
             "episode": "14",
             "directed_by": "Richard L. Bare",
             "written_by": "Rod Serling (teleplay by)",
-            "air_year": "1959",
+            "air_year": "1960",
             "air_date": "01-08-1960",
             "storyline": "Two families of Government employees plan to steal a spaceship and travel to another planet just prior to a nuclear war. They must also deal with a stooge who wants to stop them.",
             "cast": [
@@ -315,7 +315,7 @@
             "episode": "15",
             "directed_by": "Stuart Rosenberg",
             "written_by": "Rod Serling (teleplay by)",
-            "air_year": "1959",
+            "air_year": "1960",
             "air_date": "01-15-1960",
             "storyline": "Order breaks down between three surviving crewmen whose rocket ship crashes on an unknown world with limited water and supplies.",
             "cast": [
@@ -328,6 +328,29 @@
             "opening_narration": "Her name is the Arrow 1. She represents four and a half years of planning, preparation, and training, and a thousand years of science, mathematics, and the projected dreams and hopes of not only a nation, but a world. She is the first manned aircraft into space and this is the countdown. The last five seconds before man shot an arrow into the air.",
             "closing_narration": "Practical joke perpetrated by Mother Nature and a combination of improbable events. Practical joke wearing the trappings of nightmare, of terror, and desperation. Small, human drama played out in a desert 97 miles from Reno, Nevada, U.S.A., continent of North America, the Earth and, of course, the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/7/7c/Arrow.jpg"
+        },
+        {
+            "id": 16,
+            "title": "The Hitch-Hiker",
+            "season": "1",
+            "episode": "16",
+            "directed_by": "Alvin Ganzer",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1960",
+            "air_date": "01-22-1960",
+            "storyline": "A young woman driving cross-country becomes frantic when she keeps passing the same man on the side of the road. No matter how fast she drives, the man is always up ahead, hitching her for a ride.",
+            "cast": [
+                "Inger Stevens",
+                "Leonard Strong",
+                "Adam Williams",
+                "Russ Bender",
+                "Lew Gallo",
+                "George Mitchell",
+                "Eleanor Audley"
+            ],
+            "opening_narration": "Her name is Nan Adams. She's twenty-seven years old. Her occupation: buyer at a New York department store. At present on vacation, driving cross-country to Los Angeles, California from Manhattan...Minor incident on Highway 11 in Pennsylvania. Perhaps, to be filed away under \"accidents you walk away from.\" But from this moment on, Nan Adams' companion on a trip to California will be terror. Her route: fear. Her destination: quite unknown.",
+            "closing_narration": "Nan Adams, age twenty-seven. She was driving to California; to Los Angeles. She didn't make it. There was a detour... through the Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Inger_Stevens_Twilight_Zone_1960.jpg/1024px-Inger_Stevens_Twilight_Zone_1960.jpg"
         }
     ]
 }

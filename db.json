@@ -485,6 +485,52 @@
             "opening_narration": "Maple Street, U.S.A., late summer. A tree-lined little world of front porch gliders, barbecues, the laughter of children, and the bell of an ice cream vendor. At the sound of the roar and the flash of light, it will be precisely 6:43 P.M. on Maple Street...This is Maple Street on a late Saturday afternoon. Maple Street in the last calm and reflective moment - before the monsters came.",
             "closing_narration": "The tools of conquest do not necessarily come with bombs and explosions and fallout. There are weapons that are simply thoughts, attitudes, prejudices...to be found only in the minds of men. For the record, prejudices can kill...and suspicion can destroy...and a thoughtless, frightened search for a scapegoat has a fallout all of its own - for the children and the children yet unborn. And the pity of it is that these things cannot be confined to the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2015/10/The-Twilight-Zone-The-Monsters-Are-Due-on-Maple-Street-4.jpg"
+        },
+        {
+            "id": 23,
+            "title": "A World of Difference",
+            "season": "1",
+            "episode": "23",
+            "directed_by": "Ted Post",
+            "written_by": "Richard Matheson",
+            "air_year": "1960",
+            "air_date": "03-11-1960",
+            "storyline": "A businessman sitting in his office inexplicably finds that he is on a production set and in a world where he is a movie star. Uninterested in the newfound fame, he fights to get back to his home and family.",
+            "cast": [
+                "Howard Duff",
+                "Eileen Ryan",
+                "David White",
+                "Gail Kobe",
+                "Peter Walker",
+                "Susan Dorn",
+                "Frank Maxwell",
+                "Bill Idelson",
+                "Thomas Martin",
+                "Robert McCord"
+            ],
+            "opening_narration": "You're looking at a tableau of reality, things of substance, of physical material: a desk, a window, a light. These things exist and have dimension. Now this is Arthur Curtis, age thirty-six, who also is real. He has flesh and blood, muscle and mind. But in just a moment we will see how thin a line separates that which we assume to be real with that manufactured inside of a mind.",
+            "closing_narration": "The modus operandi for the departure from life is usually a pine box of such and such dimensions, and this is the ultimate in reality. But there are other ways for a man to exit from life. Take the case of Arthur Curtis, age thirty-six. His departure was along a highway with an exit sign that reads, \"This Way To Escape\". Arthur Curtis, en route to the Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Howard_Duff_Eileen_Ryan_Twilight_Zone.JPG"
+        },
+        {
+            "id": 24,
+            "title": "Long Live Walter Jameson",
+            "season": "1",
+            "episode": "24",
+            "directed_by": "Anton Leader",
+            "written_by": "Charles Beaumont",
+            "air_year": "1960",
+            "air_date": "03-18-1960",
+            "storyline": "A father forbids a history professor from marrying his daughter when he discovers that the captivating lecturer is actually an immortal who has lived for thousands of years.",
+            "cast": [
+                "Kevin McCarthy",
+                "Edgar Stehli",
+                "Estelle Winwood",
+                "Dody Heath"
+            ],
+            "opening_narration": "You're looking at Act One, Scene One, of a nightmare, one not restricted to witching hours of dark, rainswept nights. Professor Walter Jameson, popular beyond words, who talks of the past as if it were the present, who conjures up the dead as if they were alive...In the view of this man, Professor Samuel Kittridge, Walter Jameson has access to knowledge that couldn't come out of a volume of history, but rather from a book on black magic, which is to say that this nightmare begins at noon.",
+            "closing_narration": "Last stop on a long journey, as yet another human being returns to the vast nothingness that is the beginning and into the dust that is always the end.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2015/10/The-Twilight-Zone-Long-Live-Walter-Jameson-2.jpg"
         }
     ]
 }

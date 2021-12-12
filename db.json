@@ -393,6 +393,71 @@
             "opening_narration": "Witness Flight Lieutenant William Terrance Decker, Royal Flying Corps, returning from a patrol somewhere over France. The year is 1917. The problem is that the lieutenant is hopelessly lost. Lieutenant Decker will soon discover that a man can be lost not only in terms of maps and miles, but also in time - and time in this case can be measured in eternities.",
             "closing_narration": "Dialog from a play, Hamlet to Horatio: There are more things in heaven and earth than are dreamt of in your philosophy. Dialog from a play written long before men took to the sky: There are more things in heaven and earth and in the sky than perhaps can be dreamt of. And somewhere in between heaven, the sky, and the earth, lies the Twilight Zone.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Simon_Scott-Kenneth_Haigh_in_The_Twilight_Zone.jpg"
+        },
+        {
+            "id": 19,
+            "title": "The Purple Testament",
+            "season": "1",
+            "episode": "19",
+            "directed_by": "Richard L. Bare",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "02-12-1960",
+            "storyline": "A U.S. Army lieutenant serving in the Philippines during WWII develops a harrowing ability to see in the faces of the men of his platoon, the men who will be the next ones to die.",
+            "cast": [
+                "William Reynolds",
+                "Dick York",
+                "Barney Phillips",
+                "Warren Oates",
+                "Paul Mazursky",
+                "Ron Masak",
+                "William Phipps",
+                "S. John Launer",
+                "Marc Cavell"
+            ],
+            "opening_narration": "Infantry platoon, U.S. Army, Philippine Islands, 1945. These are the faces of the young men who fight, as if some omniscient painter had mixed a tube of oils that were at one time earth brown, dust gray, blood red, beard black, and fear - yellow white, and these men were the models. For this is the province of combat, and these are the faces of war.",
+            "closing_narration": "From William Shakespeare, Richard the Third, a small excerpt. The line reads, 'He has come to open the purple testament of bleeding war.' And for Lieutenant William Fitzgerald, A Company, First Platoon, the testament is closed. Lieutenant Fitzgerald has found the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/b/b7/Purple-testiment.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Elegy",
+            "season": "1",
+            "episode": "20",
+            "directed_by": "Douglas Heyes",
+            "written_by": "Charles Beaumont",
+            "air_year": "1960",
+            "air_date": "02-19-1960",
+            "storyline": "Three astronauts touch down on an asteroid, where they discover a world of people that appear to be frozen in time. Confused, they theorize as to why everyone is motionless, until a man springs to life and explains.",
+            "cast": [
+                "Cecil Kellaway",
+                "Jeff Morrow",
+                "Kevin Hagen",
+                "Don Dubbins"
+            ],
+            "opening_narration": "The time is the day after tomorrow. The place: a far corner of the universe. A cast of characters: three men lost amongst the stars. Three men sharing the common urgency of all men lost. They're looking for home. And in a moment, they'll find home; not a home that is a place to be seen, but a strange unexplainable experience to be felt.",
+            "closing_narration": "Kirby, Webber, and Meyers, three men lost. They shared a common wish - a simple one, really. They wanted to be aboard their ship headed for home. And fate - a laughing fate - a practical jokester with a smile stretched across the stars, saw to it that they got their wish with just one reservation: the wish came true, but only in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/1/1c/119268.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Mirror Image",
+            "season": "1",
+            "episode": "21",
+            "directed_by": "John Brahm",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "02-26-1960",
+            "storyline": "While waiting in a bus station, Millicent Barnes has the strange feeling that her doppelganger is trying to take over her life.",
+            "cast": [
+                "Vera Miles",
+                "Martin Milner",
+                "Joe Hamilton",
+                "Naomi Stevens"
+            ],
+            "opening_narration": "Millicent Barnes, age twenty-five, young woman waiting for a bus on a rainy November night. Not a very imaginative type is Miss Barnes: not given to undue anxiety, or fears, or for that matter even the most temporal flights of fantasy. Like most young career women, she has a generic classification as a, quote, girl with a head on her shoulders, end of quote. All of which is mentioned now because, in just a moment, the head on Miss Barnes' shoulders will be put to a test. Circumstances will assault her sense of reality and a chain of nightmares will put her sanity on a block. Millicent Barnes, who, in one minute, will wonder if she's going mad.",
+            "closing_narration": "Obscure and metaphysical explanation to cover a phenomenon. Reasons dredged out of the shadows to explain away that which cannot be explained. Call it 'parallel planes' or just 'insanity'. Whatever it is, you'll find it in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/d/d2/Mirror_image.jpg"
         }
     ]
 }

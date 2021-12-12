@@ -351,6 +351,48 @@
             "opening_narration": "Her name is Nan Adams. She's twenty-seven years old. Her occupation: buyer at a New York department store. At present on vacation, driving cross-country to Los Angeles, California from Manhattan...Minor incident on Highway 11 in Pennsylvania. Perhaps, to be filed away under \"accidents you walk away from.\" But from this moment on, Nan Adams' companion on a trip to California will be terror. Her route: fear. Her destination: quite unknown.",
             "closing_narration": "Nan Adams, age twenty-seven. She was driving to California; to Los Angeles. She didn't make it. There was a detour... through the Twilight Zone.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Inger_Stevens_Twilight_Zone_1960.jpg/1024px-Inger_Stevens_Twilight_Zone_1960.jpg"
+        },
+        {
+            "id": 17,
+            "title": "The Fever",
+            "season": "1",
+            "episode": "17",
+            "directed_by": "Robert Florey",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "01-29-1960",
+            "storyline": "A middle-aged man catches gambling fever from a slot machine that he believes is calling his name.",
+            "cast": [
+                "Everett Sloane",
+                "Vivi Janiss"
+            ],
+            "opening_narration": "Mr. and Mrs. Franklin Gibbs, three days and two nights all expenses paid at a Las Vegas hotel, won by virtue of Mrs. Gibbs's knack with a phrase. But unbeknownst to either Mr. and Mrs. Gibbs is the fact that there's a prize in their package, neither expected nor bargained for. In just a moment, one of them will succumb to an illness worse than any virus can produce. A most inoperative, deadly life-shattering affliction known as the Fever.",
+            "closing_narration": "Mr. Franklin Gibbs, visitor to Las Vegas, who lost his money, his reason, and finally his life to an inanimate, metal machine, variously described as a \"one-armed bandit\", a \"slot machine\", or, in Mr. Franklin Gibbs' words, a \"monster with a will all of its own.\" For our purposes, we'll stick with the latter definition because we're in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/9/99/Fever.jpg"
+        },
+        {
+            "id": 18,
+            "title": "The Last Flight",
+            "season": "1",
+            "episode": "18",
+            "directed_by": "William F. Claxton",
+            "written_by": "Richard Matheson",
+            "air_year": "1960",
+            "air_date": "02-05-1960",
+            "storyline": "A World War I British fighter pilot lands at an American air base in France 42 years in the future.",
+            "cast": [
+                "Kenneth Haigh",
+                "Simon Scott",
+                "Alexander Scourby",
+                "Robert Warwick",
+                "Harry Raybould",
+                "Jerry Catron",
+                "Jack Perkins",
+                "Paul Baxley"
+            ],
+            "opening_narration": "Witness Flight Lieutenant William Terrance Decker, Royal Flying Corps, returning from a patrol somewhere over France. The year is 1917. The problem is that the lieutenant is hopelessly lost. Lieutenant Decker will soon discover that a man can be lost not only in terms of maps and miles, but also in time - and time in this case can be measured in eternities.",
+            "closing_narration": "Dialog from a play, Hamlet to Horatio: There are more things in heaven and earth than are dreamt of in your philosophy. Dialog from a play written long before men took to the sky: There are more things in heaven and earth and in the sky than perhaps can be dreamt of. And somewhere in between heaven, the sky, and the earth, lies the Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Simon_Scott-Kenneth_Haigh_in_The_Twilight_Zone.jpg"
         }
     ]
 }

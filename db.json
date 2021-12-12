@@ -124,13 +124,72 @@
                 "Thomas Gomez",
                 "Virginia Christine",
                 "Dick Wilson",
-                "Joe Flynn ",
+                "Joe Flynn",
                 "Wendell Holmes",
                 "Raymond Bailey"
             ],
             "opening_narration": "You're about to meet a hypochondriac. Witness Mr. Walter Bedeker age forty-four. Afraid of the following: death, disease, other people, germs, draft, and everything else. He has one interest in life and that's Walter Bedeker. One preoccupation, the life and well-being of Walter Bedeker. One abiding concern about society, that if Walter Bedeker should die, how will it survive without him?",
             "closing_narration": "There's a saying, \"Every man is put on Earth condemned to die, time and method of execution unknown.\" Perhaps this is as it should be. Case in point: Walter Bedeker, lately deceased. A little man with such a yearn to live. Beaten by the devil, by his own boredom, and by the scheme of things in this, the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/b/b7/Escape_Clause.jpg"
+        },
+        {
+            "id": 7,
+            "title": "The Lonely",
+            "season": "1",
+            "episode": "7",
+            "directed_by": "Jack Smight",
+            "written_by": "Rod Serling",
+            "air_year": "1959",
+            "air_date": "11-13-1959",
+            "storyline": "A convict, living alone on an asteroid, receives from the police a realistic woman-robot.",
+            "cast": [
+                "Jack Warden",
+                "John Dehner",
+                "Jean Marsh",
+                "Ted Knight",
+                "James Turley"
+            ],
+            "opening_narration": "Witness if you will, a dungeon, made out of mountains, salt flats, and sand that stretch to infinity. The dungeon has an inmate: James A. Corry. And this is his residence: a metal shack. An old touring car that squats in the sun and goes nowhere - for there is nowhere to go. For the record, let it be known that James A. Corry is a convicted criminal placed in solitary confinement. Confinement in this case stretches as far as the eye can see, because this particular dungeon is on an asteroid nine million miles from the Earth. Now witness, if you will, a man's mind and body shriveling in the sun, a man dying of loneliness.",
+            "closing_narration": "On a microscopic piece of sand that floats through space is a fragment of a man's life. Left to rust is the place he lived in and the machines he used. Without use, they will disintegrate from the wind and the sand and the years that act upon them. All of Mr. Corry's machines, including the one made in his image, kept alive by love, but now obsolete - in The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/8/8a/The_Lonely.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Time Enough at Last",
+            "season": "1",
+            "episode": "8",
+            "directed_by": "John Brahm",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1959",
+            "air_date": "11-20-1959",
+            "storyline": "A henpecked book lover finds himself blissfully alone with his books after a nuclear war.",
+            "cast": [
+                "Burgess Meredith",
+                "Jacqueline deWit",
+                "Vaughn Taylor"
+            ],
+            "opening_narration": "Witness Mr. Henry Bemis, a charter member in the fraternity of dreamers. A bookish little man whose passion is the printed page, but who is conspired against by a bank president and a wife and a world full of tongue-cluckers and the unrelenting hands of a clock. But in just a moment, Mr. Bemis will enter a world without bank presidents or wives or clocks or anything else. He'll have a world all to himself... without anyone.",
+            "closing_narration": "The best-laid plans of mice and men...and Henry Bemis, the small man in the glasses who wanted nothing but time. Henry Bemis, now just a part of a smashed landscape, just a piece of the rubble, just a fragment of what man has deeded to himself. Mr. Henry Bemis, in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/0/0e/TimeEnoughAtLast.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Perchance to Dream",
+            "season": "1",
+            "episode": "9",
+            "directed_by": "Robert Florey",
+            "written_by": "Charles Beaumont",
+            "air_year": "1959",
+            "air_date": "11-27-1959",
+            "storyline": "A fatigued man fights to stay awake as he explains to a psychiatrist that if he falls asleep it will trigger a nightmare, which will cause his heart to fail.",
+            "cast": [
+                "Richard Conte",
+                "John Larch",
+                "Suzanne Lloyd"
+            ],
+            "opening_narration": "Twelve o'clock noon. An ordinary scene, an ordinary city. Lunchtime for thousands of ordinary people. To most of them, this hour will be a rest, a pleasant break in a day's routine. To most, but not all. To Edward Hall, time is an enemy, and the hour to come is a matter of life and death.",
+            "closing_narration": "They say a dream takes only a second or so, and yet in that second a man can live a lifetime. He can suffer and die, and who's to say which is the greater reality: the one we know or the one in dreams, between heaven, the sky, the earth - in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/b/b5/Perchance_to_Dream.jpg"
         }
     ]
 }

@@ -224,7 +224,7 @@
             "season": "1",
             "episode": "11",
             "directed_by": "Douglas Heyes",
-            "written_by": "Rod Serling",
+            "written_by": "Rod Serling (teleplay by)",
             "air_year": "1959",
             "air_date": "12-11-1959",
             "storyline": "Three astronauts return to Earth after seemingly having made an encounter that dooms them and their craft to erasure from existence itself.",
@@ -249,7 +249,7 @@
             "season": "1",
             "episode": "12",
             "directed_by": "Alvin Ganzer",
-            "written_by": "Rod Serling",
+            "written_by": "Rod Serling (teleplay by)",
             "air_year": "1959",
             "air_date": "12-25-1959",
             "storyline": "A small time crook plans to exploit an old street peddler who has the uncanny knack of selling people exactly what they will shortly need.",
@@ -262,6 +262,72 @@
             "opening_narration": "You're looking at Mr. Fred Renard, who carries on his shoulder a chip the size of the national debt. This is a sour man, a friendless man, a lonely man, a grasping, compulsive, nervous man. This is a man who has lived thirty-six undistinguished, meaningless, pointless, failure-laden years and who at this moment looks for an escape - any escape, any way, anything, anybody - to get out of the rut. And this little old man is just what Mr. Renard is waiting for.",
             "closing_narration": "Street scene, night. Traffic accident. Victim named Fred Renard, gentleman with a sour face to whom contentment came with difficulty. Fred Renard, who took all that was needed - in The Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/1/11/What_You_Need.jpg"
+        },
+        {
+            "id": 13,
+            "title": "The Four of Us Are Dying",
+            "season": "1",
+            "episode": "13",
+            "directed_by": "John Brahm",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1960",
+            "air_date": "01-01-1960",
+            "storyline": "A man who can change his face to look like other people uses his ability to improve his life, regardless of his effect on others.",
+            "cast": [
+                "Harry Townes",
+                "Ross Martin",
+                "Phillip Pine",
+                "Don Gordon",
+                "Peter Brocco",
+                "Milton Frome",
+                "Beverly Garland"
+            ],
+            "opening_narration": "His name is Arch Hammer, he's 36 years old. He's been a salesman, a dispatcher, a truck driver, a con man, a bookie, and a part-time bartender. This is a cheap man, a nickel-and-dime man, with a cheapness that goes past the suit and the shirt; a cheapness of mind, a cheapness of taste, a tawdry little shine on the seat of his conscience, and a dark-room squint at a world whose sunlight has never gotten through to him. But Mr. Hammer has a talent, discovered at a very early age. This much he does have. He can make his face change. He can twitch a muscle, move a jaw, concentrate on the cast of his eyes, and he can change his face. He can change it into anything he wants. Mr. Archie Hammer, jack-of-all-trades, has just checked in at three-eighty a night, with two bags, some newspaper clippings, a most odd talent, and a master plan to destroy some lives.",
+            "closing_narration": "He was Arch Hammer, a cheap little man who just checked in. He was Johnny Foster, who played a trumpet and was loved beyond words. He was Virgil Sterig, with money in his pocket. He was Andy Marshak, who got some of his agony back on a sidewalk in front of a cheap hotel. Hammer, Foster, Sterig, Marshak - and all four of them were dying.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2015/01/The-Twilight-Zone-The-Four-of-Us-Are-Dying-3.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Third from the Sun",
+            "season": "1",
+            "episode": "14",
+            "directed_by": "Richard L. Bare",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1959",
+            "air_date": "01-08-1960",
+            "storyline": "Two families of Government employees plan to steal a spaceship and travel to another planet just prior to a nuclear war. They must also deal with a stooge who wants to stop them.",
+            "cast": [
+                "Fritz Weaver",
+                "Edward Andrews",
+                "Joe Maross",
+                "Denise Alexander",
+                "Lori March",
+                "Jeanne Evans"
+            ],
+            "opening_narration": "His name is Arch Hammer, he's 36 years old. He's been a salesman, a dispatcher, a truck driver, a con man, a bookie, and a part-time bartender. This is a cheap man, a nickel-and-dime man, with a cheapness that goes past the suit and the shirt; a cheapness of mind, a cheapness of taste, a tawdry little shine on the seat of his conscience, and a dark-room squint at a world whose sunlight has never gotten through to him. But Mr. Hammer has a talent, discovered at a very early age. This much he does have. He can make his face change. He can twitch a muscle, move a jaw, concentrate on the cast of his eyes, and he can change his face. He can change it into anything he wants. Mr. Archie Hammer, jack-of-all-trades, has just checked in at three-eighty a night, with two bags, some newspaper clippings, a most odd talent, and a master plan to destroy some lives.",
+            "closing_narration": "He was Arch Hammer, a cheap little man who just checked in. He was Johnny Foster, who played a trumpet and was loved beyond words. He was Virgil Sterig, with money in his pocket. He was Andy Marshak, who got some of his agony back on a sidewalk in front of a cheap hotel. Hammer, Foster, Sterig, Marshak - and all four of them were dying.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twilight_Zone_Third_From_the_Sun_1960.jpg/330px-Twilight_Zone_Third_From_the_Sun_1960.jpg"
+        },
+        {
+            "id": 15,
+            "title": "I Shot an Arrow into the Air",
+            "season": "1",
+            "episode": "15",
+            "directed_by": "Stuart Rosenberg",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1959",
+            "air_date": "01-15-1960",
+            "storyline": "Order breaks down between three surviving crewmen whose rocket ship crashes on an unknown world with limited water and supplies.",
+            "cast": [
+                "Dewey Martin",
+                "Edward Binns",
+                "Ted Otis",
+                "Harry Bartell",
+                "Leslie Barrett"
+            ],
+            "opening_narration": "Her name is the Arrow 1. She represents four and a half years of planning, preparation, and training, and a thousand years of science, mathematics, and the projected dreams and hopes of not only a nation, but a world. She is the first manned aircraft into space and this is the countdown. The last five seconds before man shot an arrow into the air.",
+            "closing_narration": "Practical joke perpetrated by Mother Nature and a combination of improbable events. Practical joke wearing the trappings of nightmare, of terror, and desperation. Small, human drama played out in a desert 97 miles from Reno, Nevada, U.S.A., continent of North America, the Earth and, of course, the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/7/7c/Arrow.jpg"
         }
     ]
 }

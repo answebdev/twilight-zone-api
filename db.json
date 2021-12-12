@@ -190,6 +190,78 @@
             "opening_narration": "Twelve o'clock noon. An ordinary scene, an ordinary city. Lunchtime for thousands of ordinary people. To most of them, this hour will be a rest, a pleasant break in a day's routine. To most, but not all. To Edward Hall, time is an enemy, and the hour to come is a matter of life and death.",
             "closing_narration": "They say a dream takes only a second or so, and yet in that second a man can live a lifetime. He can suffer and die, and who's to say which is the greater reality: the one we know or the one in dreams, between heaven, the sky, the earth - in the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/b/b5/Perchance_to_Dream.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Judgment Night",
+            "season": "1",
+            "episode": "10",
+            "directed_by": "John Brahm",
+            "written_by": "Rod Serling",
+            "air_year": "1959",
+            "air_date": "12-04-1959",
+            "storyline": "It's 1942, and a man finds himself on a ship in the Atlantic, not knowing who he is, nor how he got there. He does know the ship will soon be attacked by a German U-boat.",
+            "cast": [
+                "Nehemiah Persoff",
+                "Ben Wright",
+                "Patrick Macnee",
+                "James Franciscus",
+                "Hugh Sanders",
+                "Leslie Bradley",
+                "Deirdre Owens",
+                "Kendrick Huxham",
+                "Barry Bernard",
+                "Richard Peel",
+                "Donald Journeaux"
+            ],
+            "opening_narration": "Her name is the S.S. Queen of Glasgow. Her registry: British. Gross tonnage: five thousand. Age: Indeterminate. At this moment she's one day out of Liverpool, her destination New York. Duly recorded on the ship's log is the sailing time, course to destination, weather conditions, temperature, longitude and latitude. But what is never recorded in a log is the fear that washes over a deck like fog and ocean spray. Fear like the throbbing strokes of engine pistons, each like a heartbeat, parceling out of every hour into breathless minutes of watching, waiting and dreading... For the year is 1942, and this particular ship has lost its convoy. It travels alone like an aged blind thing groping through the unfriendly dark, stalked by unseen periscopes of steel killers. Yes, the Queen of Glasgow is a frightened ship, and she carries with her a premonition of death.",
+            "closing_narration": "The S.S. Queen of Glasgow, heading for New York, and the time is 1942. For one man it is always 1942 - and this man will ride the ghost ship every night for eternity. This is what is meant by paying the fiddler. This is the comeuppance awaiting every man when the ledger of his life is opened and examined, the tally made, and then the reward or the penalty paid. And in the case of Carl Lanser, former Kapitan Lieutenant, Navy of the Third Reich, this is the penalty. This is the justice meted out. This is judgment night in the Twilight Zone.",
+            "img": "https://i1.wp.com/midnitereviews.com/wp-content/uploads/2015/01/The-Twilight-Zone-Judgment-Night-2.jpg"
+        },
+        {
+            "id": 11,
+            "title": "And When the Sky Was Opened",
+            "season": "1",
+            "episode": "11",
+            "directed_by": "Douglas Heyes",
+            "written_by": "Rod Serling",
+            "air_year": "1959",
+            "air_date": "12-11-1959",
+            "storyline": "Three astronauts return to Earth after seemingly having made an encounter that dooms them and their craft to erasure from existence itself.",
+            "cast": [
+                "Rod Taylor",
+                "Charles Aidman",
+                "Jim Hutton",
+                "Maxine Cooper",
+                "Sue Randall",
+                "Paul Bryar",
+                "Joe Bassett",
+                "Gloria Pall",
+                "Elizabeth Fielding"
+            ],
+            "opening_narration": "Her name: X-20. Her type: an experimental interceptor. Recent history: a crash landing in the Mojave Desert after a thirty-one hour flight nine hundred miles into space. Incidental data: the ship, with the men who flew her, disappeared from the radar screen for twenty-four hours...But the shrouds that cover mysteries are not always made out of a tarpaulin, as this man will soon find out on the other side of a hospital door.",
+            "closing_narration": "Once upon a time, there was a man named Harrington, a man named Forbes, a man named Gart. They used to exist, but don't any longer. Someone - or something - took them somewhere. At least they are no longer a part of the memory of man. And as to the X-20 supposed to be housed here in this hangar, this, too, does not exist. And if any of you have any questions concerning an aircraft and three men who flew her, speak softly of them - and only in - The Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jim_Hutton_Sue_Randall_Twilight_Zone.JPG/375px-Jim_Hutton_Sue_Randall_Twilight_Zone.JPG"
+        },
+        {
+            "id": 12,
+            "title": "What You Need",
+            "season": "1",
+            "episode": "12",
+            "directed_by": "Alvin Ganzer",
+            "written_by": "Rod Serling",
+            "air_year": "1959",
+            "air_date": "12-25-1959",
+            "storyline": "A small time crook plans to exploit an old street peddler who has the uncanny knack of selling people exactly what they will shortly need.",
+            "cast": [
+                "Steve Cochran",
+                "Ernest Truex",
+                "Arline Sax",
+                "Boyd Red Morgan"
+            ],
+            "opening_narration": "You're looking at Mr. Fred Renard, who carries on his shoulder a chip the size of the national debt. This is a sour man, a friendless man, a lonely man, a grasping, compulsive, nervous man. This is a man who has lived thirty-six undistinguished, meaningless, pointless, failure-laden years and who at this moment looks for an escape - any escape, any way, anything, anybody - to get out of the rut. And this little old man is just what Mr. Renard is waiting for.",
+            "closing_narration": "Street scene, night. Traffic accident. Victim named Fred Renard, gentleman with a sour face to whom contentment came with difficulty. Fred Renard, who took all that was needed - in The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/1/11/What_You_Need.jpg"
         }
     ]
 }

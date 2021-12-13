@@ -731,6 +731,66 @@
             "opening_narration": "In the parlance of the twentieth century, this is an oddball. His name is James B. W. Bevis, and his tastes lean toward stuffed animals, zither music, professional football, Charles Dickens, moose heads, carnivals, dogs, children, and young ladies. Mr. Bevis is accident prone, a little vague, a little discombuberated, with a life that possesses all the security of a floating crap game. But this can be said of our Mr. Bevis: without him, without his warmth, without his kindness, the world would be a considerably poorer place, albeit perhaps a little saner...Should it not be obvious by now, James B. W. Bevis is a fixture in his own private, optimistic, hopeful little world, a world which has long ceased being surprised by him. James B. W. Bevis, on whom Dame Fortune will shortly turn her back, but not before she gives him a paste in the mouth. Mr. James B. W. Bevis, just one block away from The Twilight Zone.",
             "closing_narration": "Mr. James B. W. Bevis, who believes in a magic all his own. The magic of a child's smile, the magic of liking and being liked, the strange and wondrous mysticism that is the simple act of living. Mr. James B. W. Bevis, species of twentieth-century male, who has his own private and special Twilight Zone.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Orson_Bean_The_Twilight_Zone.jpg/800px-Orson_Bean_The_Twilight_Zone.jpg"
+        },
+        {
+            "id": 34,
+            "title": "The After Hours",
+            "season": "1",
+            "episode": "34",
+            "directed_by": "Douglas Heyes",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "06-10-1960",
+            "storyline": "A woman is treated badly by some odd salespeople on an otherwise empty department store floor.",
+            "cast": [
+                "Anne Francis",
+                "Elizabeth Allen",
+                "James Millhollin",
+                "John Conwell",
+                "Patrick Whyte",
+                "Nancy Rennick"
+            ],
+            "opening_narration": "Miss Marsha White on the ninth floor, specialties department, looking for a gold thimble. The odds are that she'll find it - but there are even better odds that she'll find something else, because this isn't just a department store. This happens to be The Twilight Zone.",
+            "closing_narration": "Marsha White, in her normal and natural state, a wooden lady with a painted face who, one month out of the year, takes on the characteristics of someone as normal and as flesh and blood as you and I. But it makes you wonder, doesn't it, just how normal are we? Just who are the people we nod our hellos to as we pass on the street? A rather good question to ask...particularly in the Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Anne_Francis_James_Milhollin_Twilight_Zone.JPG"
+        },
+        {
+            "id": 35,
+            "title": "The Mighty Casey",
+            "season": "1",
+            "episode": "35",
+            "directed_by": "Robert Parrish and Alvin Ganzer",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "06-17-1960",
+            "storyline": "A down-and-out baseball team's fortunes are lifted by a mysterious but seemingly unbeatable young player.",
+            "cast": [
+                "Jack Warden",
+                "Robert Sorrells",
+                "Abraham Sofaer"
+            ],
+            "opening_narration": "What you're looking at is a ghost, once alive but now deceased. Once upon a time, it was a baseball stadium that housed a major league ball club known as the Hoboken Zephyrs. Now it houses nothing but memories and a wind that stirs in the high grass of what was once an outfield, a wind that sometimes bears a faint, ghostly resemblance to the roar of a crowd that once sat here. We're back in time now, when the Hoboken Zephyrs were still a part of the National League, and this mausoleum of memories was an honest-to-Pete stadium. But since this is strictly a story of make believe, it has to start this way: once upon a time, in Hoboken, New Jersey, it was tryout day. And though he's not yet on the field, you're about to meet a most unusual fella, a left-handed pitcher named Casey.",
+            "closing_narration": "Once upon a time, there was a major league baseball team called the Hoboken Zephyrs, who, during the last year of their existence, wound up in last place and shortly thererafter wound up in oblivion. There's a rumor, unsubstantiated, of course, that a manager named McGarry took them to the West Coast and wound up with several pennants and a couple of world championships. This team had a pitching staff that made history. Of course, none of them smiled very much, but it happens to be a fact that they pitched like nothing human. And if you're interested as to where these gentlemen came from, you might check under 'B' for Baseball - in The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/c/c6/119283.jpg"
+        },
+        {
+            "id": 36,
+            "title": "A World of His Own",
+            "season": "1",
+            "episode": "36",
+            "directed_by": "Ralph Nelson",
+            "written_by": "Richard Matheson",
+            "air_year": "1960",
+            "air_date": "07-01-1960",
+            "storyline": "A writer demonstrates he can control reality simply by dictating changes.",
+            "cast": [
+                "Keenan Wynn",
+                "Phyllis Kirk",
+                "Mary LaRoche"
+            ],
+            "opening_narration": "The home of Mr. Gregory West, one of America's most noted playwrights. The office of Mr. Gregory West. Mr. Gregory West - shy, quiet, and at the moment, very happy. Mary - warm, affectionate...And the final ingredient: Mrs. Gregory West.",
+            "closing_narration": "Rod Serling then appears on the set and says, \"We hope you enjoyed tonight's romantic story on The Twilight Zone. At the same time, we want you to realize that it was, of course, purely fictional. In real life, such ridiculous nonsense could never—\" \"Rod, you shouldn't!\" interrupts Gregory, who walks over to his safe and pulls out a tape marked \"Rod Serling\". \"I mean, you shouldn't say such things as 'nonsense' and 'ridiculous'!\" he continues as he throws the envelope into the fire. \"Well, that's the way it goes,\" observes Serling in a resigned tone as he fades away. Nevertheless, as Gregory joins Mary in a drink, Serling's voice comes in at the epilogue as usual. Leaving Mr. Gregory West—still shy, quiet, very happy... and apparently in complete control of The Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2016/02/The-Twilight-Zone-A-World-of-His-Own-3.jpg"
         }
     ]
 }

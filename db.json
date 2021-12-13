@@ -791,6 +791,65 @@
             "opening_narration": "The home of Mr. Gregory West, one of America's most noted playwrights. The office of Mr. Gregory West. Mr. Gregory West - shy, quiet, and at the moment, very happy. Mary - warm, affectionate...And the final ingredient: Mrs. Gregory West.",
             "closing_narration": "Rod Serling appears on the set and says, \"We hope you enjoyed tonight's romantic story on The Twilight Zone. At the same time, we want you to realize that it was, of course, purely fictional. In real life, such ridiculous nonsense could never—\" \"Rod, you shouldn't!\" interrupts Gregory, who walks over to his safe and pulls out a tape marked \"Rod Serling\". \"I mean, you shouldn't say such things as 'nonsense' and 'ridiculous'!\" he continues as he throws the envelope into the fire. \"Well, that's the way it goes,\" observes Serling in a resigned tone as he fades away. Nevertheless, as Gregory joins Mary in a drink, Serling's voice comes in at the epilogue as usual. Leaving Mr. Gregory West - still shy, quiet, very happy... and apparently in complete control of The Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2016/02/The-Twilight-Zone-A-World-of-His-Own-3.jpg"
+        },
+        {
+            "id": 37,
+            "title": "King Nine Will Not Return",
+            "season": "2",
+            "episode": "1",
+            "directed_by": "Buzz Kulik",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "09-30-1960",
+            "storyline": "A pilot of a downed WW II bomber comes to in the African desert and desperately tries to find out what happened to the rest of his crew.",
+            "cast": [
+                "Bob Cummings",
+                "Gene Lyons",
+                "Paul Lambert",
+                "Jenna McMahon"
+            ],
+            "opening_narration": "This is Africa, 1943. War spits out its violence overhead, and the sandy graveyard swallows it up. Her name is King Nine, B-25, medium bomber, Twelfth Air Force. On a hot, still morning, she took off from Tunisia to bomb the southern tip of Italy. An errant piece of flak tore a hole in the wing tank and, like a wounded bird, this is where she landed, not to return on this day, or any other day.",
+            "closing_narration": "Enigma buried in the sand, a question mark with broken wings that lies in silent grace as a marker in a desert shrine. Odd how the real consorts with the shadows, how the present fuses with the past. How does it happen? The question is on file in the silent desert, and the answer? The answer is waiting for us - in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/6/6c/King_Nine.jpg"
+        },
+        {
+            "id": 38,
+            "title": "The Man in the Bottle",
+            "season": "2",
+            "episode": "2",
+            "directed_by": "Don Medford",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "10-07-1960",
+            "storyline": "A luckless couple stumbles upon fortune when a genie materializes from a bottle in their antique shop. The genie grants them four wishes but warns them, prophetically, to be careful what you wish for.",
+            "cast": [
+                "Luther Adler",
+                "Vivi Janiss",
+                "Lisa Golm",
+                "Joseph Ruskin",
+                "Olan Soule"
+            ],
+            "opening_narration": "Mr. and Mrs. Arthur Castle, gentle and infinitely patient people whose lives have been a hope chest with a rusty lock and a lost set of keys. But in just a moment that hope chest will be opened and an improbable phantom will try to bedeck the drabness of these two people's failure-laden lives with the gold and precious stones of fulfillment. Mr. and Mrs. Arthur Castle, standing on the outskirts and about to enter the Twilight Zone.",
+            "closing_narration": "A word to the wise, now, to the garbage collectors of the world, to the curio seekers, to the antique buffs, to everyone who would try to coax out a miracle from unlikely places. Check that bottle you're taking back for a two-cent deposit. The genie you save might be your own. Case in point, Mr. and Mrs. Arthur Castle, fresh from the briefest of trips into The Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2016/10/The-Twilight-Zone-The-Man-in-the-Bottle-2.jpg"
+        },
+        {
+            "id": 39,
+            "title": "Nervous Man in a Four Dollar Room",
+            "season": "2",
+            "episode": "3",
+            "directed_by": "Douglas Heyes",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "10-14-1960",
+            "storyline": "Small time criminal Jackie Rhoades must face both his past and his conscience while waiting for his next assignment.",
+            "cast": [
+                "Joe Mantell",
+                "William D. Gordon"
+            ],
+            "opening_narration": "This is Mr. Jackie Rhoades, age thirty-four, and where some men leave a mark of their lives as a record of their fragmentary existence on Earth, this man leaves a blot, a dirty, discolored blemish to document a cheap and undistinguished sojourn amongst his betters. What you're about to watch in this room is a strange mortal combat between a man and himself, for in just a moment, Mr. Jackie Rhoades, whose life has been given over to fighting adversaries, will find his most formidable opponent in a cheap hotel room that is in reality the outskirts of The Twilight Zone.",
+            "closing_narration": "Exit Mr. John Rhoades, formerly a reflection in a mirror, a fragment of someone else's conscience, a wishful thinker made out of glass, but now made out of flesh, and on his way to join the company of men. Mr. John Rhoades, with one foot through the door and one foot out of the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2016/10/The-Twilight-Zone-Nervous-Man-in-a-Four-Dollar-Room-2.jpg"
         }
     ]
 }

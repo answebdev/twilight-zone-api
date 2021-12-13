@@ -531,6 +531,92 @@
             "opening_narration": "You're looking at Act One, Scene One, of a nightmare, one not restricted to witching hours of dark, rainswept nights. Professor Walter Jameson, popular beyond words, who talks of the past as if it were the present, who conjures up the dead as if they were alive...In the view of this man, Professor Samuel Kittridge, Walter Jameson has access to knowledge that couldn't come out of a volume of history, but rather from a book on black magic, which is to say that this nightmare begins at noon.",
             "closing_narration": "Last stop on a long journey, as yet another human being returns to the vast nothingness that is the beginning and into the dust that is always the end.",
             "img": "https://midnitereviews.com/wp-content/uploads/2015/10/The-Twilight-Zone-Long-Live-Walter-Jameson-2.jpg"
+        },
+        {
+            "id": 25,
+            "title": "People Are Alike All Over",
+            "season": "1",
+            "episode": "25",
+            "directed_by": "Mitchell Leisen",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1960",
+            "air_date": "03-25-1960",
+            "storyline": "Fearing the worst, the lone survivor of a crash-landing on Mars finds the native inhabitants, to his relief, very hospitable indeed, but there's a catch.",
+            "cast": [
+                "Roddy McDowall",
+                "Susan Oliver",
+                "Paul Comi",
+                "Byron Morrow",
+                "Vic Perrin",
+                "Vernon Gray"
+            ],
+            "opening_narration": "You're looking at a specie [sic] of flimsy little two-legged animal with extremely small heads, whose name is Man. Warren Marcusson, age thirty-five. Samuel A. Conrad, age thirty-one. They're taking a highway into space, Man unshackling himself and sending his tiny, groping fingers up into the unknown. Their destination is Mars, and in just a moment we'll land there with them.",
+            "closing_narration": "Specie [sic] of animal brought back alive. Interesting similarity in physical characteristics to human beings in head, trunk, arms, legs, hands, feet. Very tiny undeveloped brain. Comes from primitive planet named Earth. Calls himself Samuel Conrad. And he will remain here in his cage with the running water and the electricity and the central heat as long as he lives. Samuel Conrad has found The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/5/55/Peoplearealike.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Execution",
+            "season": "1",
+            "episode": "26",
+            "directed_by": "David Orrick McDearmon",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1960",
+            "air_date": "04-01-1960",
+            "storyline": "When a 20th-century scientist tests out his time machine he accidentally retrieves a murderer from 1880, saving him from the hangman's noose. Unaware of the man's history, the scientist attempts to acclimatize him to his new surroundings.",
+            "cast": [
+                "Albert Salmi",
+                "Russell Johnson",
+                "Than Wyenn",
+                "Jon Lormer",
+                "George Mitchell",
+                "Fay Roope",
+                "Richard Karlan",
+                "Joe Haworth"
+            ],
+            "opening_narration": "Commonplace - if somewhat grim - unsocial event known as a necktie party, the guest of dishonor a cowboy named Joe Caswell, just a moment away from a rope, a short dance several feet off the ground, and then the dark eternity of all evil men. Mr. Joe Caswell, who, when the good Lord passed out a conscience, a heart, a feeling for fellow men, must have been out for a beer and missed out. Mr. Joe Caswell, in the last, quiet moment of a violent life.",
+            "closing_narration": "This is November 1880, the aftermath of a necktie party. The victim's name - Paul Johnson, a minor-league criminal and the taker of another human life. No comment on his death save this: justice can span years. Retribution is not subject to a calendar. Tonight's case in point in The Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2015/11/The-Twilight-Zone-Execution-3.jpg"
+        },
+        {
+            "id": 27,
+            "title": "The Big Tall Wish",
+            "season": "1",
+            "episode": "27",
+            "directed_by": "Ron Winston",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "04-08-1960",
+            "storyline": "An aging boxer finds himself the winner of a match he thought he had lost, the result a six-year-old's frantic wish. But can a world-weary, embittered man still believe in miracles, or will he turn his back on them?",
+            "cast": [
+                "Ivan Dixon",
+                "Stephen Perry",
+                "Kim Hamilton",
+                "Walter Burke",
+                "Charles Horvath",
+                "Carl McIntire"
+            ],
+            "opening_narration": "In this corner of the universe, a prizefighter named Bolie Jackson, 183 pounds and an hour and a half away from a comeback at St. Nick's Arena. Mr. Bolie Jackson, who, by the standards of his profession is an aging, over-the-hill relic of what was, and who now sees a reflection of a man who has left too many pieces of his youth in too many stadiums for too many years before too many screaming people. Mr. Bolie Jackson, who might do well to look for some gentle magic in the hard-surfaced glass that stares back at him.",
+            "closing_narration": "Mr. Bolie Jackson, 183 pounds, who left a second chance lying in a heap on a rosin-spattered canvas at St. Nick's Arena. Mr. Bolie Jackson, who shares the most common ailment of all men, the strange and perverse disinclination to believe in a miracle, the kind of miracle to come from the mind of a little boy, perhaps only to be found in the Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ivan_Dixon_Steven_Perry_Kim_Hamilton_Twilight_Zone_1960.JPG"
+        },
+        {
+            "id": 28,
+            "title": "A Nice Place to Visit",
+            "season": "1",
+            "episode": "28",
+            "directed_by": "John Brahm",
+            "written_by": "Charles Beaumont",
+            "air_year": "1960",
+            "air_date": "04-15-1960",
+            "storyline": "When bad guy Henry Francis Valentine dies in a shootout with police, he wakes up in the next world where his every wish is granted forever, and ever.",
+            "cast": [
+                "Larry Blyden",
+                "Sebastian Cabot"
+            ],
+            "opening_narration": "Portrait of a man at work, the only work he's ever done, the only work he knows. His name is Henry Francis Valentine, but he calls himself \"Rocky\", because that's the way his life has been - rocky and perilous and uphill at a dead run all the way. He's tired now, tired of running or wanting, of waiting for the breaks that come to others but never to him, never to Rocky Valentine. A scared, angry little man. He thinks it's all over now but he's wrong. For Rocky Valentine, it's just the beginning.",
+            "closing_narration": "A scared, angry little man who never got a break. Now he has everything he's ever wanted - and he's going to have to live with it for eternity - in The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/0/02/Nice_place_to_visit.jpg"
         }
     ]
 }

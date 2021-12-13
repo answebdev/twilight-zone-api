@@ -663,6 +663,74 @@
             "opening_narration": "This is Gart Williams, age thirty-eight, a man protected by a suit of armor all held together by one bolt. Just a moment ago, someone removed the bolt, and Mr. Williams' protection fell away from him, and left him a naked target. He's been cannonaded this afternoon by all the enemies of his life. His insecurity has shelled him, his sensitivity has straddled him with humiliation, his deep-rooted disquiet about his own worth has zeroed in on him, landed on target, and blown him apart. Mr. Gart Williams, ad agency exec, who in just a moment, will move into the Twilight Zone - in a desperate search for survival.",
             "closing_narration": "Willoughby? Maybe it's wishful thinking nestled in a hidden part of a man's mind, or maybe it's the last stop in the vast design of things - or perhaps, for a man like Mr. Gart Williams, who climbed on a world that went by too fast, it's a place around the bend where he could jump off. Willoughby? Whatever it is, it comes with sunlight and serenity, and is a part of The Twilight Zone.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/James_Daly_Twilight_Zone_1960.JPG"
+        },
+        {
+            "id": 31,
+            "title": "The Chaser",
+            "season": "1",
+            "episode": "31",
+            "directed_by": "Douglas Heyes",
+            "written_by": "Robert Presnell, Jr. (teleplay by)",
+            "air_year": "1960",
+            "air_date": "05-13-1960",
+            "storyline": "A young man obsessed with winning over an uninterested beauty gets more than he bargained for when he buys a love potion to gain her affection.",
+            "cast": [
+                "George Grizzard",
+                "John McIntire",
+                "Patricia Barry",
+                "J. Pat O'Malley",
+                "Marjorie Bennett",
+                "Barbara Perry"
+            ],
+            "opening_narration": "Mr. Roger Shackelforth. Age: youthful twenties. Occupation: being in love. Not just in love, but madly, passionately, illogically, miserably, all-consumingly in love - with a young woman named Leila, who has a vague recollection of his face and even less than a passing interest. In a moment, you'll see a switch, because Mr. Roger Shackelforth, the young gentleman so much in love, will take a short, but very meaningful journey into the Twilight Zone.",
+            "closing_narration": "Mr. Roger Shackelforth, who has discovered at this late date that love can be as sticky as a vat of molasses, as unpalatable as a hunk of spoiled yeast, and as all-consuming as a six-alarm fire in a bamboo and canvas tent. Case history of a lover boy, who should never have entered the Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/George_Grizzard_Patricia_Barry_The_Twilight_Zone_1960.JPG"
+        },
+        {
+            "id": 32,
+            "title": "A Passage for Trumpet",
+            "season": "1",
+            "episode": "32",
+            "directed_by": "Don Medford",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "05-20-1960",
+            "storyline": "A suicidally despondent trumpet player finds himself in a bizarre world where he seems to be invisible to everyone, except for one helpful other musician.",
+            "cast": [
+                "Jack Klugman",
+                "Frank Wolff",
+                "John Anderson",
+                "Mary Webster",
+                "Ned Glass",
+                "James Flavin"
+            ],
+            "opening_narration": "Joey Crown, musician with an odd, intense face, whose life is a quest for impossible things like flowers in concrete or like trying to pluck a note of music out of the air and put it under glass to treasure...Joey Crown, musician with an odd, intense face, who, in a moment, will try to leave the Earth and discover the middle ground - the place we call The Twilight Zone.",
+            "closing_narration": "Joey Crown, who makes music, and who discovered something about life; that it can be rich and rewarding and full of beauty, just like the music he played, if a person would only pause to look and to listen. Joey Crown, who got his clue in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2016/01/The-Twilight-Zone-A-Passage-for-Trumpet-4.jpg"
+        },
+        {
+            "id": 33,
+            "title": "Mr. Bevis",
+            "season": "1",
+            "episode": "33",
+            "directed_by": "William Asher",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "06-03-1960",
+            "storyline": "After losing his job, his car and his apartment on the same day, an eccentric loser gets a new life from his guardian angel, but there is a price to keeping it.",
+            "cast": [
+                "Orson Bean",
+                "Henry Jones",
+                "Charles Lane",
+                "Florence MacMichael",
+                "William Schallert",
+                "Dorothea Neumann",
+                "Vito Scotti",
+                "Horace McMahon"
+            ],
+            "opening_narration": "In the parlance of the twentieth century, this is an oddball. His name is James B. W. Bevis, and his tastes lean toward stuffed animals, zither music, professional football, Charles Dickens, moose heads, carnivals, dogs, children, and young ladies. Mr. Bevis is accident prone, a little vague, a little discombuberated, with a life that possesses all the security of a floating crap game. But this can be said of our Mr. Bevis: without him, without his warmth, without his kindness, the world would be a considerably poorer place, albeit perhaps a little saner...Should it not be obvious by now, James B. W. Bevis is a fixture in his own private, optimistic, hopeful little world, a world which has long ceased being surprised by him. James B. W. Bevis, on whom Dame Fortune will shortly turn her back, but not before she gives him a paste in the mouth. Mr. James B. W. Bevis, just one block away from The Twilight Zone.",
+            "closing_narration": "Mr. James B. W. Bevis, who believes in a magic all his own. The magic of a child's smile, the magic of liking and being liked, the strange and wondrous mysticism that is the simple act of living. Mr. James B. W. Bevis, species of twentieth-century male, who has his own private and special Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Orson_Bean_The_Twilight_Zone.jpg/800px-Orson_Bean_The_Twilight_Zone.jpg"
         }
     ]
 }

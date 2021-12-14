@@ -914,45 +914,43 @@
         },
         {
             "id": 43,
-            "title": "TEST",
+            "title": "Nick of Time",
             "season": "2",
-            "episode": "6",
-            "directed_by": "Douglas Heyes",
-            "written_by": "Rod Serling",
+            "episode": "7",
+            "directed_by": "Richard L. Bare",
+            "written_by": "Richard Matheson",
             "air_year": "1960",
-            "air_date": "11-11-1960",
-            "storyline": "A young woman lying in a hospital bed, her head wrapped in bandages, awaits the outcome of a surgical procedure performed by the State in a last-ditch attempt to make her look \"normal.\"",
+            "air_date": "11-18-1960",
+            "storyline": "A pair of newlyweds stopping in a small town are trapped by their own superstition when playing a fortune telling machine in a local diner.",
             "cast": [
-                "Maxine Stuart",
-                "Donna Douglas",
-                "William D. Gordon",
-                "Jennifer Howard",
-                "Edson Stroll"
+                "William Shatner",
+                "Patricia Breslin",
+                "Stafford Repp",
+                "Guy Wilkerson",
+                "Walter Reed"
             ],
-            "opening_narration": "Suspended in time and space for a moment, your introduction to Miss Janet Tyler, who lives in a very private world of darkness. A universe whose dimensions are the size, thickness, length of the swath of bandages that cover her face. In a moment we will go back into this room, and also in a moment we will look under those bandages. Keeping in mind of course that we are not to be surprised by what we see, because this isn't just a hospital, and this patient 307 is not just a woman. This happens to be the Twilight Zone, and Miss Janet Tyler, with you, is about to enter it.",
-            "closing_narration": "Now the questions that come to mind: \"Where is this place and when is it?\" \"What kind of world where ugliness is the norm and beauty the deviation from that norm?\" You want an answer? The answer is it doesn't make any difference, because the old saying happens to be true. Beauty is in the eye of the beholder, in this year or a hundred years hence. On this planet or wherever there is human life - perhaps out amongst the stars - beauty is in the eye of the beholder. Lesson to be learned in the Twilight Zone.",
-            "img": "https://i.postimg.cc/pd0yJJsZ/time-enough-at-last-test.png"
+            "opening_narration": "The hand belongs to Mr. Don S. Carter, male member of a honeymoon team on route across the Ohio countryside to New York City. In one moment, they will be subjected to a gift most humans never receive in a lifetime. For one penny, they will be able to look into the future. The time is now, the place is a little diner in Ridgeview, Ohio, and what this young couple doesn't realize is that this town happens to lie on the outskirts of the Twilight Zone.",
+            "closing_narration": "Counterbalance in the little town of Ridgeview, Ohio. Two people permanently enslaved by the tyranny of fear and superstition, facing the future with a kind of helpless dread. Two others facing the future with confidence - having escaped one of the darker places of the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/3/36/222.jpg"
         },
         {
             "id": 44,
-            "title": "TEST 2",
+            "title": "The Lateness of the Hour",
             "season": "2",
-            "episode": "6",
-            "directed_by": "Douglas Heyes",
+            "episode": "8",
+            "directed_by": "Jack Smight",
             "written_by": "Rod Serling",
             "air_year": "1960",
-            "air_date": "11-11-1960",
-            "storyline": "A young woman lying in a hospital bed, her head wrapped in bandages, awaits the outcome of a surgical procedure performed by the State in a last-ditch attempt to make her look \"normal.\"",
+            "air_date": "12-02-1960",
+            "storyline": "The daughter of an inventor objects to their \"perfect\" home where they are waited on by mechanical servants.",
             "cast": [
-                "Maxine Stuart",
-                "Donna Douglas",
-                "William D. Gordon",
-                "Jennifer Howard",
-                "Edson Stroll"
+                "Inger Stevens",
+                "John Hoyt",
+                "Irene Tedrow"
             ],
-            "opening_narration": "Suspended in time and space for a moment, your introduction to Miss Janet Tyler, who lives in a very private world of darkness. A universe whose dimensions are the size, thickness, length of the swath of bandages that cover her face. In a moment we will go back into this room, and also in a moment we will look under those bandages. Keeping in mind of course that we are not to be surprised by what we see, because this isn't just a hospital, and this patient 307 is not just a woman. This happens to be the Twilight Zone, and Miss Janet Tyler, with you, is about to enter it.",
-            "closing_narration": "Now the questions that come to mind: \"Where is this place and when is it?\" \"What kind of world where ugliness is the norm and beauty the deviation from that norm?\" You want an answer? The answer is it doesn't make any difference, because the old saying happens to be true. Beauty is in the eye of the beholder, in this year or a hundred years hence. On this planet or wherever there is human life - perhaps out amongst the stars - beauty is in the eye of the beholder. Lesson to be learned in the Twilight Zone.",
-            "img": "https://i.postimg.cc/pd0yJJsZ/time-enough-at-last-test.png"
+            "opening_narration": "The residence of Dr. William Loren, which is in reality a menagerie for machines. We're about to discover that sometimes the product of man's talent and genius can walk amongst us untouched by the normal ravages of time. These are Dr. Loren's robots, built to functional as well as artistic perfection. But in a moment Dr. William Loren, wife and daughter will discover that perfection is relative, that even robots have to be paid for, and very shortly will be shown exactly what is the bill.",
+            "closing_narration": "Let this be the postscript - Should you be worn out by the rigors of competing in a very competitive world, if you're distraught from having to share your existence with the noises and neuroses of the twentieth century, if you crave serenity but want it full time and with no strings attached, get yourself a workroom in the basement, and then drop a note to Dr. and Mrs. William Loren. They're a childless couple who made comfort a life's work, and maybe there are a few do-it-yourself pamphlets still available... in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/4/44/Lateness_of_the_Hour.jpg"
         }
     ]
 }

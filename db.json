@@ -1102,6 +1102,78 @@
             "opening_narration": "This is one of the out-of-the-way places, the unvisited places, bleak, wasted, dying. This is a farmhouse, handmade, crude, a house without electricity or gas, a house untouched by progress. This is the woman who lives in the house, a woman who's been alone for many years, a strong, simple woman whose only problem up until this moment has been that of acquiring enough food to eat, a woman about to face terror, which is even now coming at her from - the Twilight Zone.",
             "closing_narration": "These are the invaders, the tiny beings from the tiny place called Earth, who would take the giant step across the sky to the question marks that sparkle and beckon from the vastness of the universe only to be imagined. The invaders...who found out that a one-way ticket to the stars beyond has the ultimate price tag...and we have just seen it entered in a ledger that covers all the transactions in the universe...a bill stamped \"Paid in Full\" and to be found unfiled in the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2017/01/The-Twilight-Zone-The-Invaders-2.jpg"
+        },
+        {
+            "id": 52,
+            "title": "A Penny for Your Thoughts",
+            "season": "2",
+            "episode": "16",
+            "directed_by": "James Sheldon",
+            "written_by": "George Clayton Johnson",
+            "air_year": "1961",
+            "air_date": "02-03-1961",
+            "storyline": "Gaining telepathic abilities when his coin lands on its edge, bank clerk Hector B. Poole learns about the difference between other people's plans and fantasies.",
+            "cast": [
+                "Dick York",
+                "June Dayton",
+                "Dan Tobin",
+                "Hayden Rorke",
+                "Cyril Delevanti"
+            ],
+            "opening_narration": "Mr. Hector B. Poole, resident of the Twilight Zone. Flip a coin and keep flipping it. What are the odds? Half the time it will come up heads, half the time tails. But in one freakish chance in a million, it'll land on its edge. Mr. Hector B. Poole, a bright human coin - on his way to the bank.",
+            "closing_narration": "One time in a million, a coin will land on its edge, but all it takes to knock it over is a vagrant breeze, a vibration, or a slight blow. Hector B. Poole, a human coin, on edge for a brief time - in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/3/31/Penny.jpg"
+        },
+        {
+            "id": 53,
+            "title": "Twenty Two",
+            "season": "2",
+            "episode": "17",
+            "directed_by": "Jack Smight",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1961",
+            "air_date": "02-10-1961",
+            "storyline": "While in the hospital recovering from overwork, Liz Powell keeps dreaming about going down to the hospital morgue.",
+            "cast": [
+                "Barbara Nichols",
+                "Jonathan Harris",
+                "Fredd Wayne",
+                "Arline Sax",
+                "Mary Adams",
+                "Norma Connolly",
+                "Wesley Lau",
+                "Angus Duncan"
+            ],
+            "opening_narration": "This is Miss Liz Powell. She's a professional dancer and she's in the hospital as a result of overwork and nervous fatigue. And at this moment we have just finished walking with her in a nightmare. In a moment she'll wake up and we'll remain at her side. The problem here is that both Miss Powell and you will reach a point where it might be difficult to decide which is reality and which is nightmare, a problem uncommon perhaps but rather peculiar to the Twilight Zone.",
+            "closing_narration": "Miss Elizabeth Powell, professional dancer. Hospital diagnosis: acute anxiety brought on by overwork and fatigue. Prognosis: with rest and care, she'll probably recover. But the cure to some nightmares is not to be found in known medical journals. You look for it under 'potions for bad dreams' - to be found in the Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Barbara_Nichols_Fredd_Wayne_Twilight_Zone_1961.jpg"
+        },
+        {
+            "id": 54,
+            "title": "The Odyssey of Flight 33",
+            "season": "2",
+            "episode": "18",
+            "directed_by": "Justus Addiss",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "02-24-1961",
+            "storyline": "Passing through the sound barrier, a commercial airliner inadvertently travels back in time.",
+            "cast": [
+                "John Anderson",
+                "Paul Comi",
+                "Sandy Kenyon",
+                "Harp McGuire",
+                "Beverly Brown",
+                "Wayne Heffley",
+                "Betty Garde",
+                "Jay Overholts",
+                "Nancy Rennick",
+                "Lester Fletcher",
+                "Robert McCord"
+            ],
+            "opening_narration": "You're riding on a jet airliner on route from London to New York. You're at 35,000 feet atop an overcast and roughly fifty-five minutes from Idlewild Airport. But what you've seen occur inside the cockpit of this plane is no reflection on the aircraft or the crew. It's a safe, well-engineered, perfectly designed machine. And the men you've just met are a trained, cool, highly efficient team. The problem is simply that the plane is going too fast, and there is nothing within the realm of knowledge or at least logic to explain it. Unbeknownst to passenger and crew, this airplane is heading into an uncharted region well off the beaten track of commercial travelers - it's moving into The Twilight Zone. What you're about to see we call \"The Odyssey of Flight 33.\"",
+            "closing_narration": "A Global jet airliner, en route from London to New York on an uneventful afternoon in the year 1961, but now reported overdue and missing, and by now, searched for on land, sea, and air by anguished human beings, fearful of what they'll find. But you and I know where she is. You and I know what's happened. So if some moment, any moment, you hear the sound of jet engines flying atop the overcast - engines that sound searching and lost - engines that sound desperate - shoot up a flare or do something. That would be Global 33 trying to get home - from The Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/02/The-Twilight-Zone-The-Odyssey-of-Flight-33-3.jpg"
         }
     ]
 }

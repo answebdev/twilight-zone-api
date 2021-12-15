@@ -1245,6 +1245,75 @@
             "opening_narration": "Portrait of a man who thinks and thereby gets things done. Mr. Jimbo Cobb might be called a prime mover, a talent which has to be seen to be believed. In just a moment he'll show his friends, and you, how he keeps both feet on the ground, and his head in the Twilight Zone.",
             "closing_narration": "Some people possess talent, others are possessed by it. When that happens, the talent becomes a curse. Jimbo Cobb knew, right from the beginning, but before Ace Larsen learned that simple truth, he had to take a short trip - through The Twilight Zone.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Prime_Mover_Twilight_Zone_1961.jpg/800px-Prime_Mover_Twilight_Zone_1961.jpg"
+        },
+        {
+            "id": 58,
+            "title": "Long Distance Call",
+            "season": "2",
+            "episode": "22",
+            "directed_by": "James Sheldon",
+            "written_by": "Maxwell Sanford",
+            "air_year": "1961",
+            "air_date": "03-31-1961",
+            "storyline": "A toy telephone becomes the link between a young boy and his dead grandmother.",
+            "cast": [
+                "Philip Abbott",
+                "Lili Darvas",
+                "Patricia Smith",
+                "Bill Mumy",
+                "Jenny Maxwell",
+                "Reid Hammond",
+                "Henry Hunter",
+                "Lew Brown",
+                "Arch Johnson"
+            ],
+            "opening_narration": "As must be obvious, this is a house hovered over by Mr. Death, an omnipresent player to the third and final act of every life. And it's been said, and probably rightfully so, that what follows this life is one of the unfathomable mysteries, an area of darkness which we, the living, reserve for the dead - or so it is said. For in a moment, a child will try to cross that bridge which separates light and shadow, and, of course, he must take the only known route, that indistinct highway through the region we call The Twilight Zone.",
+            "closing_narration": "A toy telephone, an act of faith, a set of improbable circumstances, all combine to probe a mystery, to fathom a depth, to send a facet of light into a dark after-region, to be believed or disbelieved, depending on your frame of reference. A fact or a fantasy, a substance or a shadow - but all of it very much a part of The Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Twilight_Zone_Lili_Darvas_Billy_Mumy_1961.jpg/800px-The_Twilight_Zone_Lili_Darvas_Billy_Mumy_1961.jpg"
+        },
+        {
+            "id": 59,
+            "title": "A Hundred Yards Over the Rim",
+            "season": "2",
+            "episode": "23",
+            "directed_by": "Buzz Kulik",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "04-07-1961",
+            "storyline": "A pioneer from a wagon train in 1847 sets off to find something for his ill son and stumbles into present-day New Mexico.",
+            "cast": [
+                "Cliff Robertson",
+                "John Crawford",
+                "Miranda Jones",
+                "Evans Evans",
+                "John Astin",
+                "Edward Platt"
+            ],
+            "opening_narration": "The year is 1847, the place is the territory of New Mexico, the people are a tiny handful of men and women with a dream. Eleven months ago, they started out from Ohio and headed west. Someone told them about a place called California, about a warm sun and a blue sky, about rich land and fresh air, and at this moment, almost a year later, they've seen nothing but cold, heat, exhaustion, hunger, and sickness. This man's name is Christian Horn. He has a dying eight-year-old son and a heartsick wife, and he's the only one remaining who has even a fragment of the dream left. Mr. Chris Horn, who's going over the top of a rim to look for water and sustenance and in a moment will move into the Twilight Zone.",
+            "closing_narration": "Mr. Christian Horn, one of the hearty breed of men who headed west during a time when there were no concrete highways or the solace of civilization. Mr. Christian Horn, and family and party, heading west, after a brief detour to The Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/04/The-Twilight-Zone-A-Hundred-Yards-Over-the-Rim-2.jpg"
+        },
+        {
+            "id": 60,
+            "title": "The Rip Van Winkle Caper",
+            "season": "2",
+            "episode": "24",
+            "directed_by": "Justus Addiss",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "04-21-1961",
+            "storyline": "After successfully stealing a gold shipment, a group of criminals and their scientist accomplice put themselves in suspended animation in a remote desert cave. When they awaken decades later, complications ensue when their truck is destroyed.",
+            "cast": [
+                "Simon Oakland",
+                "Oscar Beregi, Jr.",
+                "Lew Gallo",
+                "John Mitchum",
+                "Wallace Rooney",
+                "Shirley O'Hara"
+            ],
+            "opening_narration": "Introducing, four experts in the questionable art of crime: Mr. Farwell, expert on noxious gases, former professor, with a doctorate in both chemistry and physics; Mr. Erbie, expert in mechanical engineering; Mr. Brooks, expert in the use of firearms and other weaponry; and Mr. De Cruz, expert in demolition and various forms of destruction. The time is now, and the place is a mountain cave in Death Valley, U.S.A. In just a moment, these four men will utilize the services of a truck placed in cosmoline, loaded with a hot heist cooled off by a century of sleep, and then take a drive into The Twilight Zone.",
+            "closing_narration": "The last of four Rip Van Winkles, who all died precisely the way they lived, chasing an idol across the sand to wind up bleached dry in the hot sun as so much desert flotsam, worthless as the gold bullion they built a shrine to. Tonight's lesson - in The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/4/48/Oscarberegi.jpg"
         }
     ]
 }

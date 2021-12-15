@@ -975,6 +975,72 @@
             "opening_narration": "Pleased to present for your consideration, Mr. Booth Templeton; serious and successful star of over thirty Broadway plays, who is not quite all right today. Yesterday and its memories is what he wants, and yesterday is what he'll get. Soon his years and his troubles will descend on him in an avalanche. In order not to be crushed Mr. Booth Templeton will escape from his theater and his world, and make his debut on another stage, in another world, that we call the Twilight Zone.",
             "closing_narration": "Mr. Booth Templeton, who shared with most human beings the hunger to recapture the past moments, the ones that soften with the years. But in his case, the characters of his past blocked him out and sent him back to his own time, which is where we find him now. Mr. Booth Templeton, who had a round-trip ticket - into The Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/7/73/Twilight-zone-season-2-9-the-trouble-with-templeton.jpg"
+        },
+        {
+            "id": 46,
+            "title": "A Most Unusual Camera",
+            "season": "2",
+            "episode": "10",
+            "directed_by": "John Rich",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "12-16-1960",
+            "storyline": "When three unintelligent crooks get ahold of a camera that takes pictures of the future, they set out to make a quick fortune with their new toy.",
+            "cast": [
+                "Fred Clark",
+                "Jean Carson",
+                "Adam Williams",
+                "Marcel Hillaire"
+            ],
+            "opening_narration": "A hotel suite that, in this instance, serves as a den of crime, the aftermath of a rather minor event to be noted on a police blotter, an insurance claim, perhaps a three-inch box on page twelve of the evening paper. Small addenda to be added to the list of the loot: a camera, a most unimposing addition to the flotsam and jetsam that it came with, hardly worth mentioning really, because cameras are cameras, some expensive, some purchasable at five-and-dime stores. But this camera, this one's unusual because in just a moment we'll watch it inject itself into the destinies of three people. It happens to be a fact that the pictures that it takes can only be developed in The Twilight Zone.",
+            "closing_narration": "Object known as a camera, vintage uncertain, origin unknown. But for the greedy, the avaricious, the fleet of foot, who can run a four-minute mile so long as they're chasing a fast buck, it makes believe that it's an ally, but it isn't at all. It's a beckoning come-on for a quick walk around the block - in The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/6/6a/Camera.jpg"
+        },
+        {
+            "id": 47,
+            "title": "The Night of the Meek",
+            "season": "2",
+            "episode": "11",
+            "directed_by": "Jack Smight",
+            "written_by": "Rod Serling",
+            "air_year": "1960",
+            "air_date": "12-23-1960",
+            "storyline": "After a derelict Santa Claus is fired on Christmas Eve, he finds a mysterious bag that gives out presents. With this bag he sets out to fulfill his one wish - to see the less fortunate inherit the bounties of Christmas.",
+            "cast": [
+                "Art Carney",
+                "John Fiedler",
+                "Val Avery",
+                "Meg Wyllie",
+                "Kay Cousins Johnson",
+                "Burt Mustin"
+            ],
+            "opening_narration": "This is Mr. Henry Corwin, normally unemployed, who once a year takes the lead role in the uniquely popular American institution, that of the department-store Santa Claus in a road-company version of 'The Night Before Christmas'. But in just a moment Mr. Henry Corwin, ersatz Santa Claus, will enter a strange kind of North Pole which is one part the wondrous spirit of Christmas and one part the magic that can only be found... in the Twilight Zone.",
+            "closing_narration": "A word to the wise to all the children of the twentieth century, whether their concern be pediatrics or geriatrics, whether they crawl on hands and knees and wear diapers or walk with a cane and comb their beards. There's a wondrous magic to Christmas and there's a special power reserved for little people. In short, there's nothing mightier than the meek. And a Merry Christmas to each and all.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/5/50/Night_of_the_Meek.jpg"
+        },
+        {
+            "id": 48,
+            "title": "Dust",
+            "season": "2",
+            "episode": "12",
+            "directed_by": "Douglas Heyes",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "01-06-1961",
+            "storyline": "A sympathetic sheriff and a callous con man are among the many who gather in a desert town on a hot day to see a man hanged for killing a child while drunk.",
+            "cast": [
+                "Thomas Gomez",
+                "Vladimir Sokoloff",
+                "John Larch",
+                "John Alonzo",
+                "Paul Genge",
+                "Dorothy Adams",
+                "Duane Grey",
+                "Andrea Darvi"
+            ],
+            "opening_narration": "There was a village. Built of crumbling clay and rotting wood. And it squatted ugly under a broiling sun like a sick and mangy animal wanting to die. This village had a virus, shared by its people. It was the germ of squalor, of hopelessness, of a loss of faith. With the faithless, the hopeless, the misery-laden, there is time, ample time, to engage in one of the other pursuits of men. They began to destroy themselves.",
+            "closing_narration": "It was a very small, misery-laden village. On the day of a hanging. And of little historical consequence. And if there's any moral to it at all, let's say that in any quest for magic, and any search for sorcery, witchery, legerdemain, first check the human heart. For inside this deep place is a wizardry that costs far more than a few pieces of gold. Tonight's case in point - in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/01/The-Twilight-Zone-Dust.jpg"
         }
     ]
 }

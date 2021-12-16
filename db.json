@@ -1314,6 +1314,74 @@
             "opening_narration": "Introducing, four experts in the questionable art of crime: Mr. Farwell, expert on noxious gases, former professor, with a doctorate in both chemistry and physics; Mr. Erbie, expert in mechanical engineering; Mr. Brooks, expert in the use of firearms and other weaponry; and Mr. De Cruz, expert in demolition and various forms of destruction. The time is now, and the place is a mountain cave in Death Valley, U.S.A. In just a moment, these four men will utilize the services of a truck placed in cosmoline, loaded with a hot heist cooled off by a century of sleep, and then take a drive into The Twilight Zone.",
             "closing_narration": "The last of four Rip Van Winkles, who all died precisely the way they lived, chasing an idol across the sand to wind up bleached dry in the hot sun as so much desert flotsam, worthless as the gold bullion they built a shrine to. Tonight's lesson - in The Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/4/48/Oscarberegi.jpg"
+        },
+        {
+            "id": 61,
+            "title": "The Silence",
+            "season": "2",
+            "episode": "25",
+            "directed_by": "Boris Sagal",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "04-28-1961",
+            "storyline": "Annoyed by a club member's constant chatter, a man bets him he cannot remain silent for a year, living in a glass enclosure in the club basement.",
+            "cast": [
+                "Franchot Tone",
+                "Liam Sullivan",
+                "Jonathan Harris",
+                "Cyril Delevanti",
+                "Everett Glass",
+                "Felix Locher"
+            ],
+            "opening_narration": "The note that this man is carrying across a club room is in the form of a proposed wager, but it's the kind of wager that comes without precedent. It stands alone in the annals of bet-making as the strangest game of chance ever offered by one man to another. In just a moment, we'll see the terms of the wager and what young Mr. Tennyson does about it. And in the process, we'll witness all parties spin a wheel of chance in a very bizarre casino called the Twilight Zone.",
+            "closing_narration": "Mr. Jamie Tennyson, who almost won a bet, but who discovered somewhat belatedly that gambling can be a most unproductive pursuit, even with loaded dice, marked cards, or, as in his case, some severed vocal cords. For somewhere beyond him, a wheel was turned, and his number came up black thirteen. If you don't believe it, ask the croupier, the very special one who handles roulette - in The Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Franchot_Tone_Twilight_Zone_1961.jpg"
+        },
+        {
+            "id": 62,
+            "title": "Shadow Play",
+            "season": "2",
+            "episode": "26",
+            "directed_by": "John Brahm",
+            "written_by": "Charles Beaumont",
+            "air_year": "1961",
+            "air_date": "05-05-1961",
+            "storyline": "Adam Grant is trapped in a recurring nightmare, in which he is sentenced to death by execution. He tries to convince the people around him that they are imaginary and that they will cease to exist if the execution is carried out.",
+            "cast": [
+                "Dennis Weaver",
+                "Harry Townes",
+                "Wright King",
+                "Bernie Hamilton",
+                "William Edmonson",
+                "Anne Barton",
+                "Tommy Nello",
+                "Mack Williams",
+                "Gene Roth"
+            ],
+            "opening_narration": "Adam Grant, a nondescript kind of man, found guilty of murder and sentenced to the electric chair. Like every other criminal caught in the wheels of justice, he's scared, right down to the marrow of his bones. But it isn't prison that scares him, the long, silent nights of waiting, the slow walk to the little room, or even death itself. It's something else that holds Adam Grant in the hot, sweaty grip of fear, something worse than any punishment this world has to offer, something found only in - The Twilight Zone.",
+            "closing_narration": "We know that a dream can be real, but who ever thought that reality could be a dream? We exist, of course, but how, in what way? As we believe, as flesh-and-blood human beings, or are we simply parts of someone's feverish, complicated nightmare? Think about it, and then ask yourself, do you live here, in this country, in this world, or do you live, instead, - in The Twilight Zone?",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/4/4e/Twilight-zone-season-2-26-shadow-play.jpg"
+        },
+        {
+            "id": 63,
+            "title": "The Mind and the Matter",
+            "season": "2",
+            "episode": "27",
+            "directed_by": "Buzz Kulik",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "05-12-1961",
+            "storyline": "Using the power of mind over matter, Archibald Beechcroft remakes the world to his own specifications.",
+            "cast": [
+                "Shelley Berman",
+                "Jack Grinnage",
+                "Chet Stratton",
+                "Robert McCord",
+                "Jeane Wood"
+            ],
+            "opening_narration": "A brief if frenetic introduction to Mr. Archibald Beechcroft. A child of the 20th century, a product of the population explosion, and one of the inheritors of the legacy of progress. Mr. Beechcroft again, this time Act Two of his daily battle for survival, and in just a moment our hero will begin his personal one-man rebellion against the mechanics of his age, and to do so he will enlist certain aides available only in the Twilight Zone.",
+            "closing_narration": "Mr. Archibald Beechcroft, a child of the twentieth century, who has found out through trial and error - and mostly error - that with all its faults, it may well be that this is the best of all possible worlds. People notwithstanding, it has much to offer. Tonight's case in point - in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/8/8e/Twilight-zone-season-2-27-the-mind-and-the-matter.jpg"
         }
     ]
 }

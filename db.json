@@ -1446,6 +1446,73 @@
             "opening_narration": "This is a jungle, a monument built by nature honoring disuse, commemorating a few years of nature being left to its own devices. But it's another kind of jungle, the kind that comes in the aftermath of man's battles against himself. Hardly an important battle, not a Gettysburg, or a Marne, or an Iwo Jima; more like one insignificant corner patch in the crazy quilt of combat. But it was enough to end the existence of this little city. It's been five years since a human being walked these streets. This is the first day of the sixth year, as man used to measure time. The time: perhaps 100 years from now, or sooner - or perhaps it already happened 2 million years ago. The place: the signposts are in English so that we may read them more easily, but the place is the Twilight Zone.",
             "closing_narration": "This has been...a love story, about two lonely people who found each other...in the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2017/06/The-Twilight-Zone-Two-2.jpg"
+        },
+        {
+            "id": 67,
+            "title": "The Arrival",
+            "season": "3",
+            "episode": "2",
+            "directed_by": "Boris Sagal",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "09-22-1961",
+            "storyline": "Federal aviation investigator Grant Sheckly must deal with a mystery when a plane lands at an airport without pilots, passengers or luggage.",
+            "cast": [
+                "Harold J. Stone",
+                "Fredd Wayne",
+                "Noah Keen",
+                "Robert Karnes",
+                "Bing Russell",
+                "Jim Boles",
+                "Robert Brubaker"
+            ],
+            "opening_narration": "This object, should any of you have lived underground for the better parts of your lives and never had occasion to look toward the sky, is an airplane, its official designation a DC-3. We offer this rather obvious comment because this particular airplane, the one you're looking at, is a freak. Now, most airplanes take off and land as per scheduled. On rare occasions they crash. But all airplanes can be counted on doing one or the other. Now, yesterday morning this particular airplane ceased to be just a commercial carrier. As of its arrival it became an enigma, a seven-ton puzzle made out of aluminum, steel, wire and a few thousand other component parts, none of which add up to the right thing. In just a moment, we're going to show you the tail end of its history. We're going to give you ninety percent of the jigsaw pieces and you and Mr. Sheckly here of the Federal Aviation Agency will assume the problem of putting them together along with finding the missing pieces. This we offer as an evening's hobby, a little extracurricular diversion which is really the national pastime in the Twilight Zone.",
+            "closing_narration": "Picture of a man with an Achilles' heel, a mystery that landed in his life and then turned into a heavy weight, dragged across the years to ultimately take the form of an illusion. Now, that's the clinical answer that they put on the tag as they take him away. But if you choose to think that the explanation has to do with an airborne Flying Dutchman, a ghost ship on a fog-enshrouded night on a flight that never ends, then you're doing your business in an old stand in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/06/The-Twilight-Zone-The-Arrival.jpg"
+        },
+        {
+            "id": 68,
+            "title": "The Shelter",
+            "season": "3",
+            "episode": "3",
+            "directed_by": "Lamont Johnson",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "09-29-1961",
+            "storyline": "A suburban dinner party is interrupted by a bulletin warning of an impending nuclear attack. As the neighbors scramble to prepare themselves, they turn against the one family that installed a permanent bomb shelter.",
+            "cast": [
+                "Larry Gates",
+                "Jack Albertson",
+                "Sandy Kenyon",
+                "Peggy Stewart",
+                "Michael Burns",
+                "Joseph Bernard"
+            ],
+            "opening_narration": "What you are about to watch is a nightmare. It is not meant to be prophetic, it need not happen, it's the fervent and urgent prayer of all men of good will that it never shall happen. But in this place, in this moment, it does happen. This is the Twilight Zone.",
+            "closing_narration": "No moral, no message, no prophetic tract, just a simple statement of fact: for civilization to survive, the human race has to remain civilized. Tonight's very small exercise in logic from the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/06/The-Twilight-Zone-The-Shelter-2.jpg"
+        },
+        {
+            "id": 69,
+            "title": "The Passersby",
+            "season": "3",
+            "episode": "4",
+            "directed_by": "Elliot Silverstein",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "10-06-1961",
+            "storyline": "While headed home, a Confederate soldier meets an anguished woman at the end of the Civil War.",
+            "cast": [
+                "James Gregory",
+                "Joanne Linville",
+                "Warren Kemmerling",
+                "Rex Holman",
+                "David Garcia",
+                "Austin Green"
+            ],
+            "opening_narration": "This road is the afterwards of the Civil War. It began at Fort Sumter, South Carolina, and ended at a place called Appomattox. It's littered with the residue of broken battles and shattered dreams. In just a moment, you will enter a strange province that knows neither North nor South, a place we call - The Twilight Zone.",
+            "closing_narration": "Incident on a dirt road during the month of April, the year 1865. As we've already pointed out, it's a road that won't be found on a map, but it's one of many that lead in and out of the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/3/32/Passerby.jpg"
         }
     ]
 }

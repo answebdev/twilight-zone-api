@@ -1840,6 +1840,78 @@
             "opening_narration": "An old man and a hound-dog named Rip, off for an evening's pleasure in quest of raccoon. Usually, these evenings end with one tired old man, one battle-scarred hound dog, and one or more extremely dead raccoons, but as you may suspect, that will not be the case tonight. These hunters won't be coming home from the hill. They're headed for the backwoods - of The Twilight Zone.",
             "closing_narration": "Travelers to unknown regions would be well advised to take along the family dog. He could just save you from entering the wrong gate. At least, it happened that way once - in a mountainous area of the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2017/10/The-Twilight-Zone-The-Hunt-5.jpg"
+        },
+        {
+            "id": 85,
+            "title": "Showdown with Rance McGrew",
+            "season": "3",
+            "episode": "20",
+            "directed_by": "Christian Nyby",
+            "written_by": "Rod Serling",
+            "air_year": "1962",
+            "air_date": "02-02-1962",
+            "storyline": "The star of a Western TV series suddenly finds himself transported back in time to the real Wild West, and face-to-face with the real Jesse James.",
+            "cast": [
+                "Larry Blyden",
+                "Arch Johnson",
+                "Robert Cornthwaite",
+                "Robert J. Stevenson",
+                "William McLean",
+                "Troy Melton",
+                "Jay Overholts"
+            ],
+            "opening_narration": "Some one-hundred-odd years ago, a motley collection of tough mustaches galloped across the West and left behind a raft of legends and legerdemains, and it seems a reasonable conjecture that if there are any television sets up in cowboy heaven and any of these rough-and-wooly nail-eaters could see with what careless abandon their names and exploits are being bandied about, they're very likely turning over in their graves - or worse, getting out of them. Which gives you a clue as to the proceedings that will begin in just a moment, when one Mr. Rance McGrew, a 3,000-buck-a-week phoney-baloney discovers that this week's current edition of make-believe is being shot on location - and that location is the Twilight Zone.",
+            "closing_narration": "The evolution of the so-called 'adult' western, and the metamorphosis of one Rance McGrew, formerly phony-baloney, now upright citizen with a preoccupation with all things involving tradition, truth and cowpoke predecessors. It's the way the cookie crumbles and the six-gun shoots in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/e/e8/Showdown_with_Rance_McGrew.jpg"
+        },
+        {
+            "id": 86,
+            "title": "Kick the Can",
+            "season": "3",
+            "episode": "21",
+            "directed_by": "Lamont Johnson",
+            "written_by": "George Clayton Johnson",
+            "air_year": "1962",
+            "air_date": "02-09-1962",
+            "storyline": "An old man living in a rest home thinks he's found the secret of youth in children's games.",
+            "cast": [
+                "Ernest Truex",
+                "Barry Truex",
+                "Russell Collins",
+                "John Marley",
+                "Burt Mustin",
+                "Earle Hodgins",
+                "Hank Patterson",
+                "Marjorie Bennett",
+                "Lenore Shanewise",
+                "Eve McVeagh",
+                "Anne O'Neal"
+            ],
+            "opening_narration": "Sunnyvale Rest, a home for the aged - a dying place and a common children's game called kick-the-can, that will shortly become a refuge for a man who knows he will die in this world, if he doesn't escape into - The Twilight Zone.",
+            "closing_narration": "Sunnyvale Rest, a dying place for ancient people, who have forgotten the fragile magic of youth. A dying place for those who have forgotten that childhood, maturity, and old age are curiously intertwined and not separate. A dying place for those who have grown too stiff in their thinking - to visit - The Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/10/The-Twilight-Zone-Kick-the-Can-4.jpg"
+        },
+        {
+            "id": 87,
+            "title": "A Piano in the House",
+            "season": "3",
+            "episode": "22",
+            "directed_by": "David Greene",
+            "written_by": "Earl Hamner, Jr.",
+            "air_year": "1962",
+            "air_date": "02-16-1962",
+            "storyline": "Sadistic and hated theater critic Fitzgerald Fortune buys a player piano that has the power to reveal the souls of all who hear it.",
+            "cast": [
+                "Barry Morse",
+                "Joan Hackett",
+                "Don Durant",
+                "Muriel Landers",
+                "Philip Coolidge",
+                "Cyril Delevanti"
+            ],
+            "opening_narration": "Mr. Fitzgerald Fortune, theater critic and cynic at large, on his way to a birthday party. If he knew what is in store for him he probably wouldn't go, because before this evening is over that cranky old piano is going to play \"Those Piano Roll Blues\" with some effects that could happen only in the Twilight Zone.",
+            "closing_narration": "Mr. Fitzgerald Fortune, a man who went searching for concealed persons and found himself in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/1/18/Piano.jpg"
         }
     ]
 }

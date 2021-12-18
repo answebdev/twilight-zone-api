@@ -1912,6 +1912,83 @@
             "opening_narration": "Mr. Fitzgerald Fortune, theater critic and cynic at large, on his way to a birthday party. If he knew what is in store for him he probably wouldn't go, because before this evening is over that cranky old piano is going to play \"Those Piano Roll Blues\" with some effects that could happen only in the Twilight Zone.",
             "closing_narration": "Mr. Fitzgerald Fortune, a man who went searching for concealed persons and found himself in the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/1/18/Piano.jpg"
+        },
+        {
+            "id": 88,
+            "title": "The Last Rites of Jeff Myrtlebank",
+            "season": "3",
+            "episode": "23",
+            "directed_by": "Montgomery Pittman",
+            "written_by": "Montgomery Pittman",
+            "air_year": "1962",
+            "air_date": "02-23-1962",
+            "storyline": "A young man wakes up at his own funeral and wants to know what the heck is going on. The townfolk are glad to see him back, but they begin to wonder if he's a man... or something else?",
+            "cast": [
+                "James Best",
+                "Sherry Jackson",
+                "Edgar Buchanan",
+                "Lance Fuller",
+                "Dub Taylor",
+                "Ralph Moody",
+                "Ezelle Poule",
+                "Helen Wallace",
+                "Vickie Barnes",
+                "Jon Lormer",
+                "James Houghton",
+                "William Fawcett"
+            ],
+            "opening_narration": "Time, the mid-twenties. Place, the Midwest, the southernmost section of the Midwest. We were just witnessing a funeral, a funeral that didn't come off exactly as planned, due to a slight fallout from the Twilight Zone.",
+            "closing_narration": "Jeff and Comfort are still alive today, and their only son is a United States senator. He's noted as an uncommonly shrewd politician, and some believe he must have gotten his education in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/10/The-Twilight-Zone-The-Last-Rites-of-Jeff-Myrtlebank.jpg"
+        },
+        {
+            "id": 89,
+            "title": "To Serve Man",
+            "season": "3",
+            "episode": "24",
+            "directed_by": "Richard L. Bare",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1962",
+            "air_date": "03-02-1962",
+            "storyline": "An alien race comes to Earth, promising peace and sharing technology. A linguist and his team set out to translate the aliens' language, using a book whose title they deduce is \"To Serve Man.\"",
+            "cast": [
+                "Lloyd Bochner",
+                "Richard Kiel",
+                "Susan Cummings",
+                "Joseph Ruskin",
+                "Hardie Albright",
+                "Theodore Marcuse",
+                "Bartlett Robinson",
+                "Carleton Young",
+                "Nelson Olmsted"
+            ],
+            "opening_narration": "Respectfully submitted for your perusal - a Kanamit. Height: a little over nine feet. Weight: in the neighborhood of three hundred and fifty pounds. Origin: unknown. Motives? Therein hangs the tale, for in just a moment, we're going to ask you to shake hands, figuratively, with a Christopher Columbus from another galaxy and another time. This is the Twilight Zone.",
+            "closing_narration": "The recollections of one Michael Chambers, with appropriate flashbacks and soliloquy. Or, more simply stated, the evolution of man. The cycle of going from dust to dessert. The metamorphosis from being the ruler of a planet to an ingredient in someone's soup. It's tonight's bill of fare from the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/5/53/To_serve_man.jpg"
+        },
+        {
+            "id": 90,
+            "title": "The Fugitive",
+            "season": "3",
+            "episode": "25",
+            "directed_by": "Richard L. Bare",
+            "written_by": "Charles Beaumont",
+            "air_year": "1962",
+            "air_date": "03-09-1962",
+            "storyline": "Jenny and the other kids don't realize that the kindly yet magical old duffer they play with in the park is really an intergalactic fugitive hiding out till two serious men come looking for him, asking questions that test their friendship.",
+            "cast": [
+                "J. Pat O'Malley",
+                "Susan Gordon",
+                "Nancy Kulp",
+                "Wesley Lau",
+                "Paul Tripp",
+                "Russ Bender",
+                "Stephen Talbot",
+                "Johnny Eiman"
+            ],
+            "opening_narration": "It's been said that science fiction and fantasy are two different things: science fiction, the improbable made possible; fantasy, the impossible made probable. What would you have if you put these two different things together? Well, you'd have an old man named Ben who knows a lot of tricks most people don't know and a little girl named Jenny who loves him - and a journey into the heart of the Twilight Zone.",
+            "closing_narration": "Mrs. Gann will be in for a big surprise when she finds this under Jenny's pillow, because Mrs. Gann has more temper than imagination. She'll never dream that this is a picture of Old Ben, as he really looks, and it will never occur to her that eventually her niece will grow up to be an honest-to-goodness queen - somewhere in The Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/J._Pat_O%27Malley_Susan_Gordon_Twilight_Zone_1962.jpg"
         }
     ]
 }

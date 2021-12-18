@@ -2125,6 +2125,80 @@
             "opening_narration": "Mr. and Mrs. John Holt, aging people who slowly and with trembling fingers turn the last pages of a book of life and hope against logic and the preordained that some magic printing press will add to this book another limited edition. But these two senior citizens happen to live in a time of the future where nothing is impossible, even the trading of old bodies for new. Mr. and Mrs. John Holt, in their twilight years, who are about to find that there happens to be a zone with the same name.",
             "closing_narration": "From Kahlil Gibran's The Prophet: \"Love gives not but itself and takes not from itself, love possesses not nor would it be possessed, for love is sufficient unto love.\" Not a lesson, just a reminder, from all the sentimentalists in the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/5/52/Trade_ins.jpg"
+        },
+        {
+            "id": 97,
+            "title": "The Gift",
+            "season": "3",
+            "episode": "32",
+            "directed_by": "Allen H. Miner",
+            "written_by": "Rod Serling",
+            "air_year": "1962",
+            "air_date": "04-27-1962",
+            "storyline": "A man from the stars comes with a gift to a small Mexican village whose residents do not welcome this stranger.",
+            "cast": [
+                "Geoffrey Horne",
+                "Nico Minardos",
+                "Edmund Vargas",
+                "Cliff Osmond",
+                "Paul Mazursky",
+                "Vladimir Sokoloff",
+                "Vito Scotti",
+                "Carmen D'Antonio",
+                "Henry Corden",
+                "Lea Marmer",
+                "Joe Perry",
+                "David Fresco"
+            ],
+            "opening_narration": "The place is Mexico, just across the Texas border, a mountain village held back in time by its remoteness and suddenly intruded upon by the twentieth century. And this is Pedro, nine years old, a lonely, rootless little boy, who will soon make the acquaintance of a traveler from a distant place. We are at present forty miles from the Rio Grande, but any place and all places can be the Twilight Zone.",
+            "closing_narration": "Madeiro, Mexico, the present. The subject: fear. The cure: a little more faith. An Rx off a shelf in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/11/The-Twilight-Zone-The-Gift-3.jpg"
+        },
+        {
+            "id": 98,
+            "title": "The Dummy",
+            "season": "3",
+            "episode": "33",
+            "directed_by": "Abner Biberman",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1962",
+            "air_date": "05-04-1962",
+            "storyline": "Ventriloquist Jerry Etherson is convinced that his dummy, Willie, is alive and evil. He locks Willie in a trunk and makes plans for a new act with a new dummy. Too bad he didn't clear those plans with Willie first.",
+            "cast": [
+                "Cliff Robertson",
+                "Frank Sutton",
+                "George Murdock",
+                "John Harmon",
+                "Sandra Warner",
+                "Rudy Dolan",
+                "Ralph Manza",
+                "Bethelynn Grey",
+                "Edy Williams"
+            ],
+            "opening_narration": "You're watching a ventriloquist named Jerry Etherson, a voice-thrower par excellence. His alter ego, sitting atop his lap, is a brash stick of kindling with the sobriquet 'Willy.' In a moment, Mr. Etherson and his knotty-pine partner will be booked in one of the out-of-the-way bistros, that small, dark, intimate place known as the Twilight Zone.",
+            "closing_narration": "What's known in the parlance of the times as the old switcheroo, from boss to blockhead in a few uneasy lessons. And if you're given to nightclubbing on occasion, check this act. It's called Willy and Jerry, and they generally are booked into some of the clubs along the 'Gray Night Way' known as the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/11/The-Twilight-Zone-The-Dummy-7.jpg"
+        },
+        {
+            "id": 99,
+            "title": "Young Man's Fancy",
+            "season": "3",
+            "episode": "34",
+            "directed_by": "John Brahm",
+            "written_by": "Richard Matheson",
+            "air_year": "1962",
+            "air_date": "05-11-1962",
+            "storyline": "Newlywed Alex Walker finds himself being pulled back to his childhood and back to his widowed mother in the house where he grew up.",
+            "cast": [
+                "Phyllis Thaxter",
+                "Alex Nicol",
+                "Wallace Rooney",
+                "Helen Brown",
+                "Rickey Kelman"
+            ],
+            "opening_narration": "You're looking at the house of the late Mrs. Henrietta Walker. This is Mrs. Walker herself, as she appeared twenty-five years ago. And this, except for isolated objects, is the living room of Mrs. Walker's house, as it appeared in that same year. The other rooms upstairs and down are pretty much the same. The time, however, is not twenty-five years ago but now. The house of the late Mrs. Henrietta Walker is, you see, a house which belongs almost entirely to the past, a house which, like Mrs. Walker's clock here, has ceased to recognize the passage of time. Only one element is missing now, one remaining item in the estate of the late Mrs. Walker: her son, Alex, thirty-four years of age and, up till twenty minutes ago, the so-called perennial bachelor. With him is his bride, the former Miss Virginia Lane. They're returning from the city hall in order to get Mr. Walker's clothes packed, make final arrangements for the sale of the house, lock it up and depart on their honeymoon. Not a complicated set of tasks, it would appear, and yet the newlywed Mrs. Walker is about to discover that the old adage 'You can't go home again' has little meaning in the Twilight Zone.",
+            "closing_narration": "Exit Miss Virginia Lane, formerly and most briefly Mrs. Alex Walker. She has just given up a battle and in a strange way retreated, but this has been a retreat back to reality. Her opponent, Alex Walker, will now and forever hold a line that exists in the past. He has put a claim on a moment in time and is not about to relinquish it. Such things do happen in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/3/3b/Mother11.jpg"
         }
     ]
 }

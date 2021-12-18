@@ -1713,6 +1713,67 @@
             "opening_narration": "Mr. Mulligan, a rather dour critic of his times, is shortly to discover the import of that old phrase, 'Out of the frying pan, into the fire' - said fire burning brightly at all times - in The Twilight Zone.",
             "closing_narration": "'To each his own' - so goes another old phrase to which Mr. Woodrow Mulligan would heartily subscribe, for he has learned - definitely the hard way - that there's much wisdom in a third old phrase, which goes as follows: 'Stay in your own backyard.' To which it might be added, 'and, if possible, assist others to stay in theirs' - via, of course, The Twilight Zone.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Buster_Keaton_Twilight_Zone_1961.JPG"
+        },
+        {
+            "id": 79,
+            "title": "Five Characters in Search of an Exit",
+            "season": "3",
+            "episode": "14",
+            "directed_by": "Lamont Johnson",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1961",
+            "air_date": "12-22-1961",
+            "storyline": "An Army major awakens in a small room with no idea of who he is or how he got there. He finds four other people in the same room, and they all begin to question how they each arrived there, and more importantly, how to escape.",
+            "cast": [
+                "William Windom",
+                "Murray Matheson",
+                "Susan Harrison",
+                "Kelton Garwood",
+                "Clark Allen"
+            ],
+            "opening_narration": "Clown, hobo, ballet dancer, bagpiper, and an army major - a collection of question marks. Five improbable entities stuck together into a pit of darkness. No logic, no reason, no explanation; just a prolonged nightmare in which fear, loneliness, and the unexplainable walk hand in hand through the shadows. In a moment, we'll start collecting clues as to the whys, the whats, and the wheres. We will not end the nightmare, we'll only explain it - because this is the Twilight Zone.",
+            "closing_narration": "Just a barrel, a dark depository where are kept the counterfeit, make-believe pieces of plaster and cloth, wrought in a distorted image of human life. But this added hopeful note: perhaps they are unloved only for the moment. In the arms of children, there can be nothing but love. A clown, a tramp, a bagpipe player, a ballet dancer, and a Major. Tonight's cast of players on the odd stage - known as - The Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/09/The-Twilight-Zone-Five-Characters-in-Search-of-an-Exit-3.jpg"
+        },
+        {
+            "id": 80,
+            "title": "A Quality of Mercy",
+            "season": "3",
+            "episode": "15",
+            "directed_by": "Buzz Kulik",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1961",
+            "air_date": "12-29-1961",
+            "storyline": "Hot-shot new Lieutenant Katell tries to make his mark on the last day of World War II in the Pacific and gets a unique perspective on his actions.",
+            "cast": [
+                "Dean Stockwell",
+                "Albert Salmi",
+                "Leonard Nimoy",
+                "Rayford Barnes",
+                "Dale Ishimoto"
+            ],
+            "opening_narration": "It's August, 1945, the last grimy pages of a dirty, torn book of war. The place is the Philippine Islands. The men are what's left of a platoon of American Infantry, whose dulled and tired eyes set deep in dulled and tired faces can now look toward a miracle, that moment when the nightmare appears to be coming to an end. But they've got one more battle to fight, and in a moment we'll observe that battle. August, 1945, Philippine Islands. But in reality, it's high noon in the Twilight Zone.",
+            "closing_narration": "'The quality of mercy is not strained, it droppeth as the gentle rain from heaven upon the place beneath. It blesseth him that gives and him that takes.' Shakespeare, The Merchant of Venice, but applicable to any moment in time, to any group of soldiery, to any nation on the face of the Earth - or, as in this case, to the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/a/a8/Hqdefault.jpg"
+        },
+        {
+            "id": 81,
+            "title": "Nothing in the Dark",
+            "season": "3",
+            "episode": "16",
+            "directed_by": "Lamont Johnson",
+            "written_by": "George Clayton Johnson",
+            "air_year": "1962",
+            "air_date": "01-05-1962",
+            "storyline": "An old woman has fought with death a thousand times and has always won. But now she finds herself afraid to let a wounded policeman in her door for fear he is Mr. Death. Is he?",
+            "cast": [
+                "Gladys Cooper",
+                "Robert Redford",
+                "R. G. Armstrong"
+            ],
+            "opening_narration": "An old woman living in a nightmare, an old woman who has fought a thousand battles with death and always won. Now she's faced with a grim decision - whether or not to open a door. And in some strange and frightening way she knows that this seemingly ordinary door leads to the Twilight Zone.",
+            "closing_narration": "There was an old woman who lived in a room. And, like all of us, was frightened of the dark. But who discovered in a minute last fragment of her life that there was nothing in the dark that wasn't there when the lights were on. Object lesson for the more frightened amongst us in, or out of, the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/c/cb/Nothing_in_the_Dark.jpg"
         }
     ]
 }

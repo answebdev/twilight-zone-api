@@ -1644,6 +1644,75 @@
             "opening_narration": "The word that Mrs. Bronson is unable to put into the hot, still, sodden air is 'doomed,' because the people you've just seen have been handed a death sentence. One month ago, the Earth suddenly changed its elliptical orbit and in doing so began to follow a path which gradually, moment by moment, day by day, took it closer to the sun. And all of man's little devices to stir up the air are now no longer luxuries - they happen to be pitiful and panicky keys to survival. The time is five minutes to twelve, midnight. There is no more darkness. The place is New York City and this is the eve of the end, because even at midnight it's high noon, the hottest day in history, and you're about to spend it in the Twilight Zone.",
             "closing_narration": "The poles of fear, the extremes of how the Earth might conceivably be doomed. Minor exercise in the care and feeding of a nightmare, respectfully submitted by all the thermometer-watchers in the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2017/08/The-Twilight-Zone-The-Midnight-Sun.jpg"
+        },
+        {
+            "id": 76,
+            "title": "Still Valley",
+            "season": "3",
+            "episode": "11",
+            "directed_by": "James Sheldon",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1961",
+            "air_date": "11-24-1961",
+            "storyline": "In June 1863, Confederate soldiers come across a warlock who can help bring victory to the Southern cause.",
+            "cast": [
+                "Gary Merrill",
+                "Vaughn Taylor",
+                "Ben Cooper",
+                "Mark Tapscott",
+                "Jack Mann"
+            ],
+            "opening_narration": "The time is 1863, the place the state of Virginia. The event is a mass blood-letting known as the Civil War, a tragic moment in time when a nation was split into two fragments, each fragment deeming itself a nation. This is Joseph Paradine, Confederate cavalry, as he heads down toward a small town in the middle of a valley. But very shortly, Joseph Paradine will make contact with the enemy. He will also make contact with an outpost not found on a military map - an outpost called the Twilight Zone.",
+            "closing_narration": "On the following morning, Sergeant Paradine and the rest of these men were moved up north to a little town in Pennsylvania, an obscure little place where a battle was brewing, a town called Gettysburg, and this one was fought without the help of the Devil. Small historical note not to be found in any known books, but part of the records in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/08/The-Twilight-Zone-Still-Valley-3.jpg"
+        },
+        {
+            "id": 77,
+            "title": "The Jungle",
+            "season": "3",
+            "episode": "12",
+            "directed_by": "William F. Claxton",
+            "written_by": "Charles Beaumont",
+            "air_year": "1961",
+            "air_date": "12-01-1961",
+            "storyline": "A businessman who has recently returned from Africa is stalked by the superstitions and warnings of a witch doctor.",
+            "cast": [
+                "John Dehner",
+                "Emily McLaughlin",
+                "Walter Brooke",
+                "Jay Adler",
+                "Hugh Sanders",
+                "Howard Wright",
+                "Donald Foster"
+            ],
+            "opening_narration": "The carcass of a goat, a dead finger, a few bits of broken glass and stone, and Mr. Alan Richards, a modern man of a modern age, hating with all his heart something in which he cannot believe and preparing - although he doesn't know it - to take the longest walk of his life, right down to the center - of The Twilight Zone.",
+            "closing_narration": "Some superstitions, kept alive by the long night of ignorance, have their own special power. You'll hear of it through a jungle grapevine in a remote corner of the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/09/The-Twilight-Zone-The-Jungle.jpg"
+        },
+        {
+            "id": 78,
+            "title": "Once Upon a Time",
+            "season": "3",
+            "episode": "13",
+            "directed_by": "Norman Z. McLeod",
+            "written_by": "Richard Matheson",
+            "air_year": "1961",
+            "air_date": "12-15-1961",
+            "storyline": "Janitor Woodrow Mulligan gets a trip from 1890 to 1962 courtesy of his employer's time helmet.",
+            "cast": [
+                "Buster Keaton",
+                "Stanley Adams",
+                "Jesse White",
+                "James Flavin",
+                "Gil Lamb",
+                "Milton Parsons",
+                "Warren Parker",
+                "Harry Fleer",
+                "George E. Stone"
+            ],
+            "opening_narration": "Mr. Mulligan, a rather dour critic of his times, is shortly to discover the import of that old phrase, 'Out of the frying pan, into the fire' - said fire burning brightly at all times - in The Twilight Zone.",
+            "closing_narration": "'To each his own' - so goes another old phrase to which Mr. Woodrow Mulligan would heartily subscribe, for he has learned - definitely the hard way - that there's much wisdom in a third old phrase, which goes as follows: 'Stay in your own backyard.' To which it might be added, 'and, if possible, assist others to stay in theirs' - via, of course, The Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Buster_Keaton_Twilight_Zone_1961.JPG"
         }
     ]
 }

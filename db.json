@@ -1989,6 +1989,74 @@
             "opening_narration": "It's been said that science fiction and fantasy are two different things: science fiction, the improbable made possible; fantasy, the impossible made probable. What would you have if you put these two different things together? Well, you'd have an old man named Ben who knows a lot of tricks most people don't know and a little girl named Jenny who loves him - and a journey into the heart of the Twilight Zone.",
             "closing_narration": "Mrs. Gann will be in for a big surprise when she finds this under Jenny's pillow, because Mrs. Gann has more temper than imagination. She'll never dream that this is a picture of Old Ben, as he really looks, and it will never occur to her that eventually her niece will grow up to be an honest-to-goodness queen - somewhere in The Twilight Zone.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/J._Pat_O%27Malley_Susan_Gordon_Twilight_Zone_1962.jpg"
+        },
+        {
+            "id": 91,
+            "title": "Little Girl Lost",
+            "season": "3",
+            "episode": "26",
+            "directed_by": "Paul Stewart",
+            "written_by": "Richard Matheson",
+            "air_year": "1962",
+            "air_date": "03-16-1962",
+            "storyline": "Awakened in the middle of the night by the cries of his daughter, a father enters the girl's room to find that she has vanished - even though he can still hear her crying out for help.",
+            "cast": [
+                "Sarah Marshall",
+                "Robert Sampson",
+                "Charles Aidman",
+                "Tracy Stratford",
+                "Rhoda Williams"
+            ],
+            "opening_narration": "Missing: one frightened little girl. Name: Bettina Miller. Description: six years of age, average height and build, light brown hair, quite pretty. Last seen being tucked in bed by her mother a few hours ago. Last heard: 'ay, there's the rub,' as Hamlet put it. For Bettina Miller can be heard quite clearly, despite the rather curious fact that she can't be seen at all. Present location? Let's say for the moment... in the Twilight Zone.",
+            "closing_narration": "The other half where? The fourth dimension? The fifth? Perhaps. They never found the answer. Despite a battery of research physicists equipped with every device known to man, electronic and otherwise, no result was ever achieved, except perhaps a little more respect for and uncertainty about the mechanisms of the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/11/The-Twilight-Zone-Little-Girl-Lost-3.jpg"
+        },
+        {
+            "id": 92,
+            "title": "Person or Persons Unknown",
+            "season": "3",
+            "episode": "27",
+            "directed_by": "John Brahm",
+            "written_by": "Charles Beaumont",
+            "air_year": "1962",
+            "air_date": "03-23-1962",
+            "storyline": "David Gurney wakes up to another ordinary day. Except today, nobody knows who he is.",
+            "cast": [
+                "Richard Long",
+                "Frank Silvera",
+                "Shirley Ballard",
+                "Julie van Zandt",
+                "Betty Harford",
+                "Edmund Glover",
+                "Michael Keep",
+                "Joe Higgins",
+                "John Newton",
+                "Robert McCord",
+                "John Brahm"
+            ],
+            "opening_narration": "Cameo of a man who has just lost his most valuable possession. He doesn't know about the loss yet. In fact, he doesn't even know about the possession. Because, like most people, David Gurney has never really thought about the matter of his identity. But he's going to be thinking a great deal about it from now on, because that is what he's lost. And his search for it is going to take him into the darkest corners of the Twilight Zone.",
+            "closing_narration": "A case of mistaken identity or a nightmare turned inside out? A simple loss of memory or the end of the world? David Gurney may never find the answer, but you can be sure he's looking for it in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/11/The-Twilight-Zone-Person-or-Persons-Unknown.jpg"
+        },
+        {
+            "id": 93,
+            "title": "The Little People",
+            "season": "3",
+            "episode": "28",
+            "directed_by": "William F. Claxton",
+            "written_by": "Rod Serling",
+            "air_year": "1962",
+            "air_date": "03-30-1962",
+            "storyline": "On a desolate planet, two astronauts discover an entire society populated by incredibly small beings. One of the astronauts decides to rule the society as a god.",
+            "cast": [
+                "Joe Maross",
+                "Claude Akins",
+                "Michael Ford",
+                "Robert Eaton"
+            ],
+            "opening_narration": "The time is the space age, the place is a barren landscape of a rock-walled canyon that lies millions of miles from the planet Earth. The cast of characters? You've met them: William Fletcher, commander of the spaceship; his copilot, Peter Craig. The other characters who inhabit this place you may never see, but they're there, as these two gentlemen will soon find out. Because they're about to partake in a little exploration into that gray, shaded area in space and time that's known as the Twilight Zone.",
+            "closing_narration": "The case of navigator Peter Craig, a victim of a delusion. In this case, the dream dies a little harder than the man. A small exercise in space psychology that you can try on for size in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/11/The-Twilight-Zone-The-Little-People-4.jpg"
         }
     ]
 }

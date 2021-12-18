@@ -2057,6 +2057,74 @@
             "opening_narration": "The time is the space age, the place is a barren landscape of a rock-walled canyon that lies millions of miles from the planet Earth. The cast of characters? You've met them: William Fletcher, commander of the spaceship; his copilot, Peter Craig. The other characters who inhabit this place you may never see, but they're there, as these two gentlemen will soon find out. Because they're about to partake in a little exploration into that gray, shaded area in space and time that's known as the Twilight Zone.",
             "closing_narration": "The case of navigator Peter Craig, a victim of a delusion. In this case, the dream dies a little harder than the man. A small exercise in space psychology that you can try on for size in the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2017/11/The-Twilight-Zone-The-Little-People-4.jpg"
+        },
+        {
+            "id": 94,
+            "title": "Four O'Clock",
+            "season": "3",
+            "episode": "29",
+            "directed_by": "Lamont Johnson",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1962",
+            "air_date": "04-06-1962",
+            "storyline": "A very obsessed man wants to expose evil in the world, investigating people he sees as murderers, subversives, perverts and communists, then attempting to ruin their lives.",
+            "cast": [
+                "Theodore Bikel",
+                "Moyna Macgill",
+                "Phyllis Love",
+                "Linden Chiles"
+            ],
+            "opening_narration": "That's Oliver Crangle, a dealer in petulance and poison. He's rather arbitrarily chosen four o'clock as his personal Götterdämmerung, and we are about to watch the metamorphosis of a twisted fanatic, poisoned by the gangrene of prejudice, to the status of an avenging angel, upright and omniscient, dedicated and fearsome. Whatever your clocks say, it's four o'clock, and wherever you are it happens to be the Twilight Zone.",
+            "closing_narration": "At four o'clock, an evil man made his bed and lay in it, a pot called a kettle black, a stone-thrower broke the windows of his glass house. You look for this one under 'F' for fanatic and 'J' for justice in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/11/The-Twilight-Zone-Four-O-Clock.jpg"
+        },
+        {
+            "id": 95,
+            "title": "Hocus-Pocus and Frisby",
+            "season": "3",
+            "episode": "30",
+            "directed_by": "Lamont Johnson",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1962",
+            "air_date": "04-13-1962",
+            "storyline": "A rural gas station attendant given to telling tall tales about himself is kidnapped by aliens who believe him to be one of Earth's leading intellects.",
+            "cast": [
+                "Andy Devine",
+                "Milton Selzer",
+                "Larry Breitman",
+                "Peter Brocco",
+                "Howard McNear",
+                "Dabbs Greer",
+                "Clem Bevans"
+            ],
+            "opening_narration": "The reluctant gentleman with the sizable mouth is Mr. Frisby. He has all the drive of a broken camshaft and the aggressive vinegar of a corpse. As you've no doubt gathered, his big stock in trade is the tall tale. Now, what he doesn't know is that the visitors out front are a very special breed, destined to change his life beyond anything even his fertile imagination could manufacture. The place is Pitchville Flats, the time is the present. But Mr. Frisby's on the first leg of a rather fanciful journey into the place we call the Twilight Zone.",
+            "closing_narration": "Mr. Somerset Frisby, who might have profited by reading an Aesop fable about a boy who cried wolf. Tonight's tall tale from the timberlands of the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/c/cf/Hocus_Pocus_And_Frisby.jpg"
+        },
+        {
+            "id": 96,
+            "title": "The Trade-Ins",
+            "season": "3",
+            "episode": "31",
+            "directed_by": "Elliot Silverstein",
+            "written_by": "Rod Serling",
+            "air_year": "1962",
+            "air_date": "04-20-1962",
+            "storyline": "An elderly couple shop for younger replacement bodies, then resort to desperate measures to cover the cost.",
+            "cast": [
+                "Joseph Schildkraut",
+                "Noah Keen",
+                "Alma Platt",
+                "Ted Marcuse",
+                "Edson Stroll",
+                "Terence De Marney",
+                "Billy Vincent",
+                "Mary McMahon",
+                "David Armstrong"
+            ],
+            "opening_narration": "Mr. and Mrs. John Holt, aging people who slowly and with trembling fingers turn the last pages of a book of life and hope against logic and the preordained that some magic printing press will add to this book another limited edition. But these two senior citizens happen to live in a time of the future where nothing is impossible, even the trading of old bodies for new. Mr. and Mrs. John Holt, in their twilight years, who are about to find that there happens to be a zone with the same name.",
+            "closing_narration": "From Kahlil Gibran's The Prophet: \"Love gives not but itself and takes not from itself, love possesses not nor would it be possessed, for love is sufficient unto love.\" Not a lesson, just a reminder, from all the sentimentalists in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/5/52/Trade_ins.jpg"
         }
     ]
 }

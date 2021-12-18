@@ -1774,6 +1774,72 @@
             "opening_narration": "An old woman living in a nightmare, an old woman who has fought a thousand battles with death and always won. Now she's faced with a grim decision - whether or not to open a door. And in some strange and frightening way she knows that this seemingly ordinary door leads to the Twilight Zone.",
             "closing_narration": "There was an old woman who lived in a room. And, like all of us, was frightened of the dark. But who discovered in a minute last fragment of her life that there was nothing in the dark that wasn't there when the lights were on. Object lesson for the more frightened amongst us in, or out of, the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/c/cb/Nothing_in_the_Dark.jpg"
+        },
+        {
+            "id": 82,
+            "title": "One More Pallbearer",
+            "season": "3",
+            "episode": "17",
+            "directed_by": "Lamont Johnson",
+            "written_by": "Rod Serling",
+            "air_year": "1962",
+            "air_date": "01-12-1962",
+            "storyline": "Wealthy Paul Radin tries to get three people from his past to apologize to him by offering them shelter from a staged and phony nuclear war scenario.",
+            "cast": [
+                "Joseph Wiseman",
+                "Gage Clarke",
+                "Katherine Squire",
+                "Trevor Bardette"
+            ],
+            "opening_narration": "What you have just looked at takes place three hundred feet underground, beneath the basement of a New York City skyscraper. It's owned and lived in by one Paul Radin. Mr. Radin is rich, eccentric and single-minded. How rich we can already perceive; how eccentric and single-minded we shall see in a moment, because all of you have just entered the Twilight Zone.",
+            "closing_narration": "Mr. Paul Radin, a dealer in fantasy, who sits in the rubble of his own making and imagines that he's the last man on Earth, doomed to a perdition of unutterable loneliness because a practical joke has turned into a nightmare. Mr. Paul Radin, pallbearer at a funeral that he manufactured himself in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/10/The-Twilight-Zone-One-More-Pallbearer-3.jpg"
+        },
+        {
+            "id": 83,
+            "title": "Dead Man's Shoes",
+            "season": "3",
+            "episode": "18",
+            "directed_by": "Montgomery Pittman",
+            "written_by": "Charles Beaumont",
+            "air_year": "1962",
+            "air_date": "01-19-1962",
+            "storyline": "A homeless man takes the shoes off a dead gangster and steps into his life.",
+            "cast": [
+                "Warren Stevens",
+                "Richard Devon",
+                "Joan Marshall",
+                "Ben Wright",
+                "Harry Swoger",
+                "Ron Hagerthy",
+                "Florence Marly"
+            ],
+            "opening_narration": "Nathan Edward Bledsoe, of the Bowery Bledsoes, a man once, a specter now. One of those myriad modern-day ghosts that haunt the reeking nights of the city in search of a flop, a handout, a glass of forgetfulness. Nate doesn't know it but his search is about to end, because those shiny new shoes are going to carry him right into the capital of the Twilight Zone.",
+            "closing_narration": "There's an old saying that goes, 'If the shoe fits, wear it.' But be careful. If you happen to find a pair of size nine black and gray loafers, made to order in the old country, be very careful. You might walk right into the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/10/The-Twilight-Zone-Dead-Mans-Shoes-3.jpg"
+        },
+        {
+            "id": 84,
+            "title": "The Hunt",
+            "season": "3",
+            "episode": "19",
+            "directed_by": "Harold D. Schuster",
+            "written_by": "Earl Hamner Jr.",
+            "air_year": "1962",
+            "air_date": "01-26-1962",
+            "storyline": "Upon returning from a coon hunt, Hyder Simpson discovers that no one can see or hear him because he has passed on.",
+            "cast": [
+                "Arthur Hunnicutt",
+                "Jeanette Nolan",
+                "Titus Moede",
+                "Orville Sherman",
+                "Charles Seel",
+                "Robert Foulk",
+                "Dexter Dupont"
+            ],
+            "opening_narration": "An old man and a hound-dog named Rip, off for an evening's pleasure in quest of raccoon. Usually, these evenings end with one tired old man, one battle-scarred hound dog, and one or more extremely dead raccoons, but as you may suspect, that will not be the case tonight. These hunters won't be coming home from the hill. They're headed for the backwoods - of The Twilight Zone.",
+            "closing_narration": "Travelers to unknown regions would be well advised to take along the family dog. He could just save you from entering the wrong gate. At least, it happened that way once - in a mountainous area of the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2017/10/The-Twilight-Zone-The-Hunt-5.jpg"
         }
     ]
 }

@@ -1513,6 +1513,69 @@
             "opening_narration": "This road is the afterwards of the Civil War. It began at Fort Sumter, South Carolina, and ended at a place called Appomattox. It's littered with the residue of broken battles and shattered dreams. In just a moment, you will enter a strange province that knows neither North nor South, a place we call - The Twilight Zone.",
             "closing_narration": "Incident on a dirt road during the month of April, the year 1865. As we've already pointed out, it's a road that won't be found on a map, but it's one of many that lead in and out of the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/3/32/Passerby.jpg"
+        },
+        {
+            "id": 70,
+            "title": "A Game of Pool",
+            "season": "3",
+            "episode": "5",
+            "directed_by": "Buzz Kulik",
+            "written_by": "George Clayton Johnson",
+            "air_year": "1961",
+            "air_date": "10-13-1961",
+            "storyline": "A frustrated pool champ has beaten everyone. Everyone except one man; the legend, Fats Brown. Brown is dead, and the champ can only curse his name. But guess who just walked in.",
+            "cast": [
+                "Jack Klugman",
+                "Jonathan Winters"
+            ],
+            "opening_narration": "Jesse Cardiff, pool shark, the best on Randolph Street, who will soon learn that trying to be the best at anything carries its own special risks. In or out of the Twilight Zone.",
+            "closing_narration": "Mr. Jesse Cardiff, who became a legend by beating one, but who has found out after his funeral that being the best of anything carries with it a special obligation to keep on proving it. Mr. Fats Brown, on the other hand, having relinquished the champion's mantle, has gone fishing. These are the ground rules in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/7/74/Johnathan-Winters-and-Jack-Klugman-Twilight-Zone-2.jpg"
+        },
+        {
+            "id": 71,
+            "title": "The Mirror",
+            "season": "3",
+            "episode": "6",
+            "directed_by": "Don Medford",
+            "written_by": "Rod Serling",
+            "air_year": "1961",
+            "air_date": "10-20-1961",
+            "storyline": "A Central American revolutionary comes into the possession of a mirror that shows him his potential assassins.",
+            "cast": [
+                "Peter Falk",
+                "Will Kuluva",
+                "Richard Karlan",
+                "Vladimir Sokoloff",
+                "Antony Carbone",
+                "Rodolfo Hoyos Jr.",
+                "Arthur Batanides"
+            ],
+            "opening_narration": "This is the face of Ramos Clemente, a year ago a beardless, nameless worker of the dirt who plodded behind a mule, furrowing someone else's land. And he looked up at a hot Central American sun and he pledged the impossible. He made a vow that he would lead an avenging army against the tyranny that put the ache in his back and the anguish in his eyes, and now one year later the dream of the impossible has become a fact. In just a moment we will look deep into this mirror and see the aftermath of a rebellion in the Twilight Zone.",
+            "closing_narration": "Ramos Clemente, a would-be god in dungarees, strangled by an illusion, that will-o'-the-wisp mirage that dangles from the sky in front of the eyes of all ambitious men, all tyrants - and any resemblance to tyrants living or dead is hardly coincidental, whether it be here or in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/9/95/Mirror61.jpg"
+        },
+        {
+            "id": 72,
+            "title": "The Grave",
+            "season": "3",
+            "episode": "7",
+            "directed_by": "Montgomery Pittman",
+            "written_by": "Montgomery Pittman",
+            "air_year": "1961",
+            "air_date": "10-27-1961",
+            "storyline": "Old West lawman Conny Miller visits the grave of a man who he failed to track down to prove he was never afraid of him but gets more than he bargained for.",
+            "cast": [
+                "Lee Marvin",
+                "James Best",
+                "Lee Van Cleef",
+                "Strother Martin",
+                "Stafford Repp",
+                "Elen Willard"
+            ],
+            "opening_narration": "Normally, the old man would be correct. This would be the end of the story. We've had the traditional shoot-out on the street and the badman will soon be dead. But some men of legend and folk tale have been known to continue having their way even after death. The outlaw and killer Pinto Sykes was such a person, and shortly we'll see how he introduces the town and a man named Conny Miller, in particular, to the Twilight Zone.",
+            "closing_narration": "Final comment: you take this with a grain of salt or a shovelful of earth, as shadow or substance, we leave it up to you. And for any further research, check under 'G,' for 'ghosts'...in the Twilight Zone.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lee_Marvin_Twilight_Zone_1961.JPG/800px-Lee_Marvin_Twilight_Zone_1961.JPG"
         }
     ]
 }

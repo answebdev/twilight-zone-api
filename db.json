@@ -2429,6 +2429,83 @@
             "opening_narration": "Picture of the spaceship E-89, cruising above the 13th planet of star system 51, the year 1997. In a little while, supposedly, the ship will be landed and specimens taken: vegetable, mineral, and if any, animal. These will be brought back to overpopulated Earth, where technicians will evaluate them, and if everything is satisfactory, stamp their findings with the word 'inhabitable' and open up yet another planet for colonization. These are the things that are supposed to happen. Picture of the crew of the spaceship E-89: Captain Ross, Lieutenant Mason, Lieutenant Carter. Three men who have just reached a place which is as far from home as they will ever be. Three men who in a matter of minutes will be plunged into the darkest nightmare reaches of the Twilight Zone.",
             "closing_narration": "Picture of a man who will not see anything he does not choose to see, including his own death. A man of such indomitable will that even the two men beneath his command are not allowed to see the truth; which truth is, that they are no longer among the living, that the movements they make and the words they speak have all been made and spoken countless times before, and will be made and spoken countless times again, perhaps even unto eternity. Picture of a latter-day Flying Dutchman, sailing into the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/e/e7/Deathship.jpg"
+        },
+        {
+            "id": 109,
+            "title": "Jess-Belle",
+            "season": "4",
+            "episode": "7",
+            "directed_by": "Buzz Kulik",
+            "written_by": "Earl Hamner, Jr.",
+            "air_year": "1963",
+            "air_date": "02-14-1963",
+            "storyline": "Appalachian beauty Jess-Belle can't bear to lose the object of her passion to the local rich girl, so she turns to the local witch for aid. The results bring unexpected and tragic consequences.",
+            "cast": [
+                "Anne Francis",
+                "James Best",
+                "Laura Devon",
+                "Jeanette Nolan",
+                "Virginia Gregg",
+                "Jon Lormer",
+                "George Mitchell",
+                "Helen Kleeb",
+                "Jim Boles"
+            ],
+            "opening_narration": "The Twilight Zone has existed in many lands in many times. It has its roots in history, in something that happened long, long ago and got told about and handed down from one generation of folk to the other. In the telling the story gets added to and embroidered on, so that what might have happened in the time of the Druids is told as if it took place yesterday in the Blue Ridge Mountains. Such stories are best told by an elderly grandfather on a cold winter's night by the fireside in the southern hills of the Twilight Zone.",
+            "closing_narration": "[no closing narration]",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/James_Best_Laura_Devon_Anne_Francis_Twilight_Zone_Jess_Belle.JPG/800px-James_Best_Laura_Devon_Anne_Francis_Twilight_Zone_Jess_Belle.JPG"
+        },
+        {
+            "id": 110,
+            "title": "Miniature",
+            "season": "4",
+            "episode": "8",
+            "directed_by": "Walter Grauman",
+            "written_by": "Charles Beaumont",
+            "air_year": "1963",
+            "air_date": "02-21-1963",
+            "storyline": "Mousey misfit Charley Parkes finds the world unfolding before him in a museum doll house to be more real than his boring job and overbearing mother.",
+            "cast": [
+                "Robert Duvall",
+                "Pert Kelton",
+                "Barbara Barrie",
+                "William Windom",
+                "John McLiam",
+                "Barney Phillips",
+                "Claire Griswold",
+                "Lennie Weinrib",
+                "Joan Chambers",
+                "Chet Stratton",
+                "Nina Roman",
+                "Richard Angarola",
+                "Sally Kellerman"
+            ],
+            "opening_narration": "To the average person, a museum is a place of knowledge, a place of beauty and truth and wonder. Some people come to study, others to contemplate, others to look for the sheer joy of looking. Charley Parkes has his own reasons. He comes to the museum to get away from the world. It isn't really the sixty-cent cafeteria meal that has drawn him here every day, it's the fact that here in these strange, cool halls he can be alone for a little while, really and truly alone. Anyway, that's how it was before he got lost and wandered into the Twilight Zone.",
+            "closing_narration": "They never found Charley Parkes because the guard didn't tell them what he saw in the glass case. He knew what they'd say and he knew they'd be right too because seeing is not always believing, especially if what you see happens to be an odd corner of the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2018/02/The-Twilight-Zone-Miniature-2.jpg"
+        },
+        {
+            "id": 111,
+            "title": "Printer's Devil",
+            "season": "4",
+            "episode": "9",
+            "directed_by": "Ralph Senensky",
+            "written_by": "Charles Beaumont",
+            "air_year": "1963",
+            "air_date": "02-28-1963",
+            "storyline": "A man sells his soul to the Devil to save his failing newspaper and gets more than he bargained for.",
+            "cast": [
+                "Burgess Meredith",
+                "Robert Sterling",
+                "Pat Crowley",
+                "Ray Teal",
+                "Charles P. Thompson",
+                "Doris Kemper",
+                "Camille Franklin"
+            ],
+            "opening_narration": "Take away a man's dream, fill him with whiskey and despair, send him to a lonely bridge, let him stand there all by himself looking down at the black water, and try to imagine the thoughts that are in his mind. You can't, I can't. But there's someone who can - and that someone is seated next to Douglas Winter right now. The car is headed back toward town, but its real destination is the Twilight Zone.",
+            "closing_narration": "Exit the infernal machine, and with it his satanic majesty, Lucifer, prince of darkness - otherwise known as Mr. Smith. He's gone, but not for good; that wouldn't be like him - he's gone for bad. And he might be back, with another ticket....to The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/0/07/TWILIGHT_ZONE_VOL32-10.jpg"
         }
     ]
 }

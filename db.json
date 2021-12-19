@@ -2506,6 +2506,82 @@
             "opening_narration": "Take away a man's dream, fill him with whiskey and despair, send him to a lonely bridge, let him stand there all by himself looking down at the black water, and try to imagine the thoughts that are in his mind. You can't, I can't. But there's someone who can - and that someone is seated next to Douglas Winter right now. The car is headed back toward town, but its real destination is the Twilight Zone.",
             "closing_narration": "Exit the infernal machine, and with it his satanic majesty, Lucifer, prince of darkness - otherwise known as Mr. Smith. He's gone, but not for good; that wouldn't be like him - he's gone for bad. And he might be back, with another ticket....to The Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/0/07/TWILIGHT_ZONE_VOL32-10.jpg"
+        },
+        {
+            "id": 112,
+            "title": "No Time Like the Past",
+            "season": "4",
+            "episode": "10",
+            "directed_by": "Justus Addiss",
+            "written_by": "Rod Serling",
+            "air_year": "1963",
+            "air_date": "03-07-1963",
+            "storyline": "A scientist attempts to use a time machine to prevent tragedies, both in world history and in his own past.",
+            "cast": [
+                "Dana Andrews",
+                "Patricia Breslin",
+                "Robert F. Simon",
+                "Malcolm Atterbury",
+                "Marjorie Bennett",
+                "James Yagi",
+                "Tudor Owen",
+                "John Zaremba",
+                "Robert O. Cornthwaite",
+                "Lindsay Workman"
+            ],
+            "opening_narration": "Exit one Paul Driscoll, a creature of the twentieth century. He puts to a test a complicated theorem of space-time continuum, but he goes a step further, or tries to. Shortly, he will seek out three moments of the past in a desperate attempt to alter the present, one of the odd and fanciful functions in a shadowland known as the Twilight Zone.",
+            "closing_narration": "Incident on a July afternoon, 1881. A man named Driscoll who came and went and, in the process, learned a simple lesson, perhaps best said by a poet named Lathbury, who wrote, 'Children of yesterday, heirs of tomorrow, what are you weaving? Labor and sorrow? Look to your looms again, faster and faster fly the great shuttles prepared by the master. Life's in the loom, room for it. Room.' Tonight's tale of clocks and calendars in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2018/02/The-Twilight-Zone-No-Time-Like-the-Past-4.jpg"
+        },
+        {
+            "id": 113,
+            "title": "The Parallel",
+            "season": "4",
+            "episode": "11",
+            "directed_by": "Alan Crosland, Jr.",
+            "written_by": "Rod Serling",
+            "air_year": "1963",
+            "air_date": "03-14-1963",
+            "storyline": "Astronaut Robert Gaines returns from space to a world that is not exactly the one he left from.",
+            "cast": [
+                "Steve Forrest",
+                "Jacqueline Scott",
+                "Shari Lee Bernath",
+                "Frank Aletter",
+                "Philip Abbott",
+                "Morgan Jones",
+                "William Sargent",
+                "Paul Comi"
+            ],
+            "opening_narration": "In the vernacular of space, this is T minus one hour. Sixty minutes before a human being named Major Robert Gaines is lifted off from the Mother Earth and rocketed into the sky, farther and longer than any man ahead of him. Call this one of the first faltering steps of man to sever the umbilical cord of gravity and stretch out a fingertip toward an unknown. Shortly, we'll join this astronaut named Gaines and embark on an adventure, because the environs overhead - the stars, the sky, the infinite space - are all part of a vast question mark known as the Twilight Zone.",
+            "closing_narration": "Major Robert Gaines, a latter-day voyager just returned from an adventure. Submitted to you without any recommendations as to belief or disbelief. You can accept or reject; you pay your money and you take your choice. But credulous or incredulous, don't bother to ask anyone for proof that it could happen. The obligation is a reverse challenge: prove that it couldn't. This happens to be the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/5/52/Tumblr_m03sldbwDL1qz9ut1o1_500.jpg"
+        },
+        {
+            "id": 114,
+            "title": "I Dream of Genie",
+            "season": "4",
+            "episode": "12",
+            "directed_by": "Robert Gist",
+            "written_by": "John Furia Jr.",
+            "air_year": "1963",
+            "air_date": "03-21-1963",
+            "storyline": "A wiseacre genie appears from a lamp to a meek man, George P. Hanley. Hanley is so used to bad luck, he imagines how each of three possible wishes could go very wrong - but the genie will grant him only one wish!",
+            "cast": [
+                "Howard Morris",
+                "Molly Dodd",
+                "Milton Parsons",
+                "Patricia Barry",
+                "Jack Albertson",
+                "Mark Miller",
+                "James Millhollin",
+                "Loring Smith",
+                "Bob Hastings",
+                "Joyce Jameson"
+            ],
+            "opening_narration": "Meet Mr. George P. Hanley, a man life treats without deference, honor or success. Waiters serve his soup cold. Elevator operators close doors in his face. Mothers never bother to wait up for the daughters he dates. George is a creature of humble habits and tame dreams. He's an ordinary man, Mr. Hanley, but at this moment the accidental possessor of a very special gift, the kind of gift that measures men against their dreams, the kind of gift most of us might ask for first and possibly regret to the last, if we, like Mr. George P. Hanley, were about to plunge head-first and unaware into our own personal Twilight Zone.",
+            "closing_narration": "Mr. George P. Hanley, former vocation; jerk. Present vocation; genie. George P. Hanley, a most ordinary man whom life treated without deference, honor, or success, but a man wise enough to decide on a most extraordinary wish, that makes him the contented, permanent master of his own altruistic Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2018/03/The-Twilight-Zone-I-Dream-of-Genie.jpg"
         }
     ]
 }

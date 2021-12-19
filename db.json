@@ -2295,6 +2295,56 @@
             "opening_narration": "What you have just witnessed could be the end of a particularly terrifying nightmare. It isn't - it's the beginning. Although Alan Talbot doesn't know it, he's about to enter a strange new world, too incredible to be real, too real to be a dream. It's called The Twilight Zone.",
             "closing_narration": "In a way, it can be said that Walter Ryder succeeded in his life's ambition, even though the man he created was, after all, himself. There may be easier ways to self-improvement, but sometimes it happens that the shortest distance between two points is a crooked line - through the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/6/60/In_His_Image%28The_Twilight_Zone%29.jpg"
+        },
+        {
+            "id": 104,
+            "title": "The Thirty-Fathom Grave",
+            "season": "4",
+            "episode": "2",
+            "directed_by": "Perry Lafferty",
+            "written_by": "Rod Serling",
+            "air_year": "1963",
+            "air_date": "01-10-1963",
+            "storyline": "As a U.S. Navy destroyer cruises near Guadalcanal in the South Pacific, its sonar detects muted but constant hammering on metal undersea. The eerie sounds emanate from a submarine on the ocean floor, apparently there since World War II. The ship's chief boatswain's mate becomes very nervous, having served aboard that sub - and he was its sole survivor.",
+            "cast": [
+                "Mike Kellin",
+                "Simon Oakland",
+                "David Sheiner",
+                "John Considine",
+                "Bill Bixby",
+                "Conlan Carter"
+            ],
+            "opening_narration": "Incident one hundred miles off the coast of Guadalcanal. Time: the present. The United States naval destroyer on what has been a most uneventful cruise. In a moment, they're going to send a man down thirty fathoms and check on a noise maker - someone or something tapping on metal. You may or may not read the results in a naval report, because Captain Beecham and his crew have just set a course that will lead this ship and everyone on it into the Twilight Zone.",
+            "closing_narration": "Small naval engagement, the month of April, 1963. Not to be found in any historical annals. Look for this one filed under 'H' for haunting in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/2/2a/Thirtyfathom.png"
+        },
+        {
+            "id": 105,
+            "title": "Valley of the Shadow",
+            "season": "4",
+            "episode": "3",
+            "directed_by": "Perry Lafferty",
+            "written_by": "Charles Beaumont",
+            "air_year": "1963",
+            "air_date": "01-17-1963",
+            "storyline": "A reporter stumbles into a peaceful town where miracles seem to occur due to technology and the townsfolk won't let him leave.",
+            "cast": [
+                "Ed Nelson",
+                "Natalie Trundy",
+                "David Opatoshu",
+                "Dabbs Greer",
+                "Jacques Aubuchon",
+                "James Doohan",
+                "Morgan Brittany",
+                "Sandy Kenyon",
+                "Henry Beckman",
+                "Bart Burns",
+                "King Calder",
+                "Pat O'Hara"
+            ],
+            "opening_narration": "You've seen them. Little towns, tucked away far from the main roads. You've seen them, but have you thought about them? What do the people in these places do? Why do they stay? Philip Redfield never thought about them. If his dog hadn't gone after that cat, he would have driven through Peaceful Valley and put it out of his mind forever. But he can't do that now, because whether he knows it or not his friend's shortcut has led him right into the capital of the Twilight Zone.",
+            "closing_narration": "You've seen them. Little towns, tucked away far from the main roads. You've seen them, but have you thought about them? Have you wondered what the people do in such places, why they stay? Philip Redfield thinks about them now and he wonders, but only very late at night, when he's between wakefulness and sleep in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/8/88/119353.jpg"
         }
     ]
 }

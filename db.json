@@ -2869,6 +2869,67 @@
             "opening_narration": "Talky Tina, a doll that does everything, a lifelike creation of plastic and springs and painted smile. To Erich Streator, she is the most unwelcome addition to his household - but without her, he'd never enter the Twilight Zone.",
             "closing_narration": "Of course, we all know dolls can't really talk, and they certainly can't commit murder. But to a child caught in the middle of turmoil and conflict, a doll can become many things: friend, defender, guardian. Especially a doll like Talky Tina, who did talk and did commit murder - in the misty region of the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/7/7c/Talky_Tina.jpg"
+        },
+        {
+            "id": 127,
+            "title": "The Old Man in the Cave",
+            "season": "5",
+            "episode": "7",
+            "directed_by": "Alan Crosland, Jr.",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1963",
+            "air_date": "11-08-1963",
+            "storyline": "In a post-apocalyptic settlement in 1974, the inhabitants' survival is dependent on the advice of an unseen man living in a nearby cave. This dependence is tested when a band of soldiers descends on their town.",
+            "cast": [
+                "James Coburn",
+                "John Anderson",
+                "Josie Lloyd",
+                "John Craven",
+                "John Marley"
+            ],
+            "opening_narration": "What you're looking at is a legacy that man left to himself. A decade previous he pushed his buttons and a nightmarish moment later woke up to find that he had set the clock back a thousand years. His engines, his medicines, his science were buried in a mass tomb, covered over by the biggest gravedigger of them all - a bomb. And this is the earth 10 years later, a fragment of what was once a whole, a remnant of what was once a race. The year is 1974 and this is The Twilight Zone.",
+            "closing_narration": "Mr. Goldsmith, survivor. An eyewitness to man's imperfection. An observer of the very human trait of greed. And a chronicler of the last chapter - the one reading \"suicide\". Not a prediction of what is to be, just a projection of what could be. This has been The Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2018/05/The-Twilight-Zone-The-Old-Man-in-the-Cave.jpg"
+        },
+        {
+            "id": 128,
+            "title": "Uncle Simon",
+            "season": "5",
+            "episode": "8",
+            "directed_by": "Don Siegel",
+            "written_by": "Rod Serling",
+            "air_year": "1963",
+            "air_date": "11-15-1963",
+            "storyline": "Caregiver Barbara Polk receives a surprise after her uncle's death.",
+            "cast": [
+                "Cedric Hardwicke",
+                "Constance Ford",
+                "Ian Wolfe",
+                "Robby the Robot"
+            ],
+            "opening_narration": "Dramatis personae: Mr. Simon Polk, a gentleman who has lived out his life in a gleeful rage; and the young lady who's just beat the hasty retreat is Mr. Polk's niece, Barbara. She has lived her life as if during each ensuing hour she had a dentist appointment. There is yet a third member of the company soon to be seen. He now resides in the laboratory and he is the kind of character to be found only in the Twilight Zone.",
+            "closing_narration": "Dramatis personae, a metal man who'll go by the name of Simon, whose life as well as his body has been stamped out for him; and the woman who tends to him, the lady Barbara, who's discovered belatedly that all bad things don't come to an end, and that once a bed is made, it's quite necessary that you sleep in it. Tonight's uncomfortable little exercise in avarice and automatons, from the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/0/03/Uncle_Simon.jpg"
+        },
+        {
+            "id": 129,
+            "title": "Probe 7, Over and Out",
+            "season": "5",
+            "episode": "9",
+            "directed_by": "Ted Post",
+            "written_by": "Rod Serling",
+            "air_year": "1963",
+            "air_date": "11-29-1963",
+            "storyline": "Colonel Cook, stranded on another planet with no hope for rescue, meets a woman who is the sole survivor from another planet.",
+            "cast": [
+                "Richard Basehart",
+                "Antoinette Bower",
+                "Harold Gould",
+                "Barton Heyman"
+            ],
+            "opening_narration": "One Colonel Cook, a traveler in space. He's landed on a remote planet several million miles from his point of departure. He can make an inventory of his plight by just one 360-degree movement of head and eyes. Colonel Cook has been set adrift in an ocean of space in a metal lifeboat that has been scorched and destroyed and will never fly again. He survived the crash but his ordeal is yet to begin. Now he must give battle to loneliness. Now Colonel Cook must meet the unknown. It's a small planet set deep in space. But for Colonel Cook, it's the Twilight Zone.",
+            "closing_narration": "Do you know these people? Names familiar, are they? They lived a long time ago. Perhaps they're part fable, perhaps they're part fantasy. And perhaps the place they're walking to now is not really called 'Eden.' We offer it only as a presumption. This has been the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2018/06/The-Twilight-Zone-Probe-7-Over-and-Out-4.jpg"
         }
     ]
 }

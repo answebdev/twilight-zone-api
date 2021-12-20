@@ -3351,6 +3351,45 @@
             "opening_narration": "Jonathan West, ventriloquist, a master of voice manipulation. A man, late of Ireland, with a talent for putting words into other peoples' mouths. In this case, the other person is a dummy, aptly named Caesar, a small splinter with large ideas, a wooden tyrant with a mind and a voice of his own, who is about to talk Jonathan West - into the Twilight Zone.",
             "closing_narration": "A little girl and a wooden doll. A lethal dummy in the shape of a man. But everybody knows dummies can't talk - unless, of course, they learn their vocabulary in the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/5/5d/Nope.png"
+        },
+        {
+            "id": 149,
+            "title": "The Jeopardy Room",
+            "season": "5",
+            "episode": "29",
+            "directed_by": "Richard Donner",
+            "written_by": "Rod Serling",
+            "air_year": "1964",
+            "air_date": "04-17-1964",
+            "storyline": "A defector is trapped in a hotel room and given three hours to find a hidden bomb.",
+            "cast": [
+                "Martin Landau",
+                "John van Dreelen",
+                "Robert Kelljan"
+            ],
+            "opening_narration": "The cast of characters - a cat and a mouse, this is the latter. The intended victim who may or may not know that he is to die, be it by butchery or ballet. His name is Major Ivan Kuchenko. He has, if events go according to certain plans, perhaps three or four more hours of living. But an ignorance shared by both himself and his executioner, is of the fact that both of them have taken the first step into the Twilight Zone.",
+            "closing_narration": "Major Ivan Kuchenko, on his way West. On his way to freedom: a freedom bought and paid for by a most stunning ingenuity. And exit one Commissar Vassiloff, who forgot that there are two sides to an argument - and two parties on the line. This has been the Twilight Zone.",
+            "img": "https://i.postimg.cc/3wpQKyQQ/the-jeopardy-room.png"
+        },
+        {
+            "id": 150,
+            "title": "Stopover in a Quiet Town",
+            "season": "5",
+            "episode": "30",
+            "directed_by": "Ron Winston",
+            "written_by": "Earl Hamner, Jr.",
+            "air_year": "1964",
+            "air_date": "04-24-1964",
+            "storyline": "A hung-over couple awaken to find themselves not only in a strange house, but in a deserted town, where nothing is as it should be.",
+            "cast": [
+                "Barry Nelson",
+                "Nancy Malone",
+                "Denise Lynn",
+                "Karen Norris"
+            ],
+            "opening_narration": "Bob and Millie Frazier, average young New Yorkers who attended a party in the country last night and on the way home took a detour. Most of us on waking in the morning know exactly where we are; the rooster or the alarm clock brings us out of sleep into the familiar sights, sounds, aromas of home and the comfort of a routine day ahead. Not so with our young friends. This will be a day like none they've ever spent - and they'll spend it in the Twilight Zone.",
+            "closing_narration": "The moral of what you've just seen is clear. If you drink, don't drive. And if your wife has had a couple, she shouldn't drive either. You might both just wake up with a whale of a headache in a deserted village in the Twilight Zone.",
+            "img": "https://m.media-amazon.com/images/M/MV5BYmE2MTFjMzQtZWNkYi00YjExLThmMDEtNzI0NWRmMjliYjdjXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg"
         }
     ]
 }

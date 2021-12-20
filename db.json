@@ -3390,6 +3390,73 @@
             "opening_narration": "Bob and Millie Frazier, average young New Yorkers who attended a party in the country last night and on the way home took a detour. Most of us on waking in the morning know exactly where we are; the rooster or the alarm clock brings us out of sleep into the familiar sights, sounds, aromas of home and the comfort of a routine day ahead. Not so with our young friends. This will be a day like none they've ever spent - and they'll spend it in the Twilight Zone.",
             "closing_narration": "The moral of what you've just seen is clear. If you drink, don't drive. And if your wife has had a couple, she shouldn't drive either. You might both just wake up with a whale of a headache in a deserted village in the Twilight Zone.",
             "img": "https://m.media-amazon.com/images/M/MV5BYmE2MTFjMzQtZWNkYi00YjExLThmMDEtNzI0NWRmMjliYjdjXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg"
+        },
+        {
+            "id": 151,
+            "title": "The Encounter",
+            "season": "5",
+            "episode": "31",
+            "directed_by": "Robert Butler",
+            "written_by": "Martin M. Goldsmith",
+            "air_year": "1964",
+            "air_date": "05-01-1964",
+            "storyline": "Post-WWII Hawaii. Two men of once-opposing races are stuck in an attic full of war trophies, including a samurai sword waiting to dutifully avenge its slain master.",
+            "cast": [
+                "Neville Brand",
+                "George Takei"
+            ],
+            "opening_narration": "Two men alone in an attic, a young Japanese-American and a seasoned veteran of yesterday's war. It's twenty odd years since Pearl Harbor, but two ancient opponents are moving into position for a battle in an attic crammed with skeletons, souvenirs, mementos, old uniforms, and rusted medals. Ghosts from the dim reaches of the past, that will lead us into the Twilight Zone.",
+            "closing_narration": "Two men in an attic, locked in mortal embrace. Their common bond, and their common enemy: guilt. A disease all too prevalent amongst men both in and out of The Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/d/da/The-Twilight-Zone-The-Encounter-Taro-2.jpg"
+        },
+        {
+            "id": 152,
+            "title": "Mr. Garrity and the Graves",
+            "season": "5",
+            "episode": "32",
+            "directed_by": "Ted Post",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1964",
+            "air_date": "05-08-1964",
+            "storyline": "Mr. Garrity comes into town of Happiness, Arizona offering to resurrect the dead and reunite the townsfolk with their departed loved ones out of the goodness of his heart. Do the town-folks want these miracles to occur?",
+            "cast": [
+                "John Dehner",
+                "J. Pat O'Malley",
+                "Stanley Adams",
+                "John Mitchum",
+                "Percy Helton",
+                "Norman Leavitt",
+                "Edgar Dearing",
+                "Kate Murtagh",
+                "Patrick O'Moore",
+                "John Cliff",
+                "Robert McCord",
+                "Cosmo Sardo"
+            ],
+            "opening_narration": "Introducing Mr. Jared Garrity, a gentleman of commerce, who in the latter half of the nineteenth century plied his trade in the wild and wooly hinterlands of the American West. And Mr. Garrity, if one can believe him, is a resurrecter of the dead - which, on the face of it, certainly sounds like the bull is off the nickel. But to the scoffers amongst you, and you ladies and gentlemen from Missouri, don't laugh this one off entirely, at least until you've seen a sample of Mr. Garrity's wares, and an example of his services. The place is Happiness, Arizona, the time around 1890. And you and I have just entered a saloon where the bar whiskey is brewed, bottled and delivered from the Twilight Zone.",
+            "closing_narration": "Exit Mr. Garrity, a would-be charlatan, a make-believe con man and a sad misjudger of his own talents. Respectfully submitted from an empty cemetery on a dark hillside that is one of the slopes leading to the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/0/09/Zombie1962.jpg"
+        },
+        {
+            "id": 153,
+            "title": "The Brain Center at Whipple's",
+            "season": "5",
+            "episode": "33",
+            "directed_by": "Richard Donner",
+            "written_by": "Rod Serling",
+            "air_year": "1964",
+            "air_date": "05-15-1964",
+            "storyline": "A heartless CEO completely automates his factory and lays off almost all of his workers over the objections of his employees.",
+            "cast": [
+                "Richard Deacon",
+                "Paul Newlan",
+                "Ted de Corsia",
+                "Thalmus Rasulala",
+                "Robby the Robot"
+            ],
+            "opening_narration": "These are the players - with or without a scorecard. In one corner a machine; in the other, one Wallace V. Whipple, man. And the game? It happens to be the historical battle between flesh and steel, between the brain of man and the product of man's brain. We don't make book on this one and predict no winner...but we can tell you for this particular contest, there is standing room only - in the Twilight Zone.",
+            "closing_narration": "There are many bromides applicable here: 'too much of a good thing', 'tiger by the tail', 'as you sow so shall you reap'. The point is that, too often, Man becomes clever instead of becoming wise; he becomes inventive and not thoughtful; and sometimes, as in the case of Mr. Whipple, he can create himself right out of existence. As in tonight's tale of oddness and obsolescence, in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/6/6b/Robby64b.jpg"
         }
     ]
 }

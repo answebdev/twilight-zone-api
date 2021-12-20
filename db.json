@@ -3128,6 +3128,70 @@
             "opening_narration": "Three strangers arrive in a small town; three men in black leather jackets in an empty, rented house. We'll call them Steve, and Scott, and Fred, but their names are not important; their mission is, as three men on motorcycles lead us into the Twilight Zone.",
             "closing_narration": "Portrait of an American family on the eve of invasion from outer space. Of course, we know it's merely fiction - and yet, think twice when you drink your next glass of water. Find out if it's from your local reservoir, or possibly it came direct to you...from the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/0/08/Black_Leather_Jackets.jpg"
+        },
+        {
+            "id": 139,
+            "title": "Night Call",
+            "season": "5",
+            "episode": "19",
+            "directed_by": "Jacques Tourneur",
+            "written_by": "Richard Matheson",
+            "air_year": "1964",
+            "air_date": "02-07-1964",
+            "storyline": "Telephone calls begin to haunt a disabled elderly woman.",
+            "cast": [
+                "Gladys Cooper",
+                "Nora Marlowe",
+                "Martine Bartlett"
+            ],
+            "opening_narration": "Miss Elva Keene lives alone on the outskirts of London Flats, a tiny rural community in Maine. Up until now, the pattern of Miss Keene's existence has been that of lying in her bed or sitting in her wheelchair, reading books, listening to a radio, eating, napping, taking medication - and waiting for something different to happen. Miss Keene doesn't know it yet, but her period of waiting has just ended, for something different is about to happen to her, has in fact already begun to happen, via two most unaccountable telephone calls in the middle of a stormy night, telephone calls routed directly through - the Twilight Zone.",
+            "closing_narration": "According to the Bible, God created the Heavens and the Earth. It is man's prerogative - and woman's - to create their own particular and private Hell. Case in point, Miss Elva Keene, who in every sense has made her own bed and now must lie in it, sadder, but wiser, by dint of a rather painful lesson in responsibility, transmitted from the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/6/65/Telephone1964b.jpg"
+        },
+        {
+            "id": 140,
+            "title": "From Agnes - With Love",
+            "season": "5",
+            "episode": "20",
+            "directed_by": "Richard Donner",
+            "written_by": "Bernard C. Schoenfeld",
+            "air_year": "1964",
+            "air_date": "02-14-1964",
+            "storyline": "A computer technician begins to take advice for his love life from Agnes, the computer he works with.",
+            "cast": [
+                "Wally Cox",
+                "Sue Randall",
+                "Raymond Bailey",
+                "Ralph Taeger",
+                "Don Keefer",
+                "Byron Kane",
+                "Nan Peterson"
+            ],
+            "opening_narration": "James Elwood: master programmer. In charge of Mark 502-741, commonly known as Agnes, the world's most advanced electronic computer. Machines are made by men for man's benefit and progress, but when man ceases to control the products of his ingenuity and imagination he not only risks losing the benefit, but he takes a long and unpredictable step into... the Twilight Zone.",
+            "closing_narration": "Advice to all future male scientists: be sure you understand the opposite sex, especially if you intend being a computer expert. Otherwise, you may find yourself like poor Elwood, defeated by a jealous machine, a most dangerous sort of female, whose victims are forever banished... to the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2019/02/The-Twilight-Zone-From-Agnes-With-Love.jpg"
+        },
+        {
+            "id": 141,
+            "title": "Spur of the Moment",
+            "season": "5",
+            "episode": "21",
+            "directed_by": "Elliot Silverstein",
+            "written_by": "Richard Matheson",
+            "air_year": "1964",
+            "air_date": "02-21-1964",
+            "storyline": "An engaged heiress is terrorized by a middle-aged woman on a horse pleading with her not to go through with her impending marriage.",
+            "cast": [
+                "Diana Hyland",
+                "Robert J. Hogan",
+                "Philip Ober",
+                "Marsha Hunt",
+                "Roger Davis",
+                "Jack Raine"
+            ],
+            "opening_narration": "This is the face of terror. Anne Marie Henderson, 18 years of age, her young existence suddenly marred by a savage and wholly unanticipated pursuit by a strange, nightmarish figure of a woman in black, who has appeared as if from nowhere and now, at driving gallop, chases the terrified girl across the countryside, as if she means to ride her down and kill her, and then suddenly and inexplicably stops to watch in malignant silence as her prey takes flight. Miss Henderson has no idea whatever as to the motive for this pursuit. Worse, not the vaguest notion regarding the identity of her pursuer. Soon enough, she will be given the solution to this twofold mystery, but in a manner far beyond her present capacity to understand, a manner enigmatically bizarre in terms of time and space - which is to say, an answer from... the Twilight Zone.",
+            "closing_narration": "This is the face of terror. Anne Marie Mitchell, 43 years of age, her desolate existence once more afflicted by the hope of altering her past mistake - a hope which is unfortunately doomed to disappointment. For warnings from the future to the past must be taken in the past. Today may change tomorrow but once today is gone, tomorrow can only look back in sorrow that the warning was ignored. Said warning as of now stamped 'Not Accepted' - and stored away in the dead file, in the recording office... of the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2019/05/The-Twilight-Zone-Spur-of-the-Moment.jpg"
         }
     ]
 }

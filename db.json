@@ -2996,6 +2996,70 @@
             "opening_narration": "Each man measures his time; some with hope, some with joy, some with fear. But Sam Forstmann measures his allotted time with a grandfather's clock, a unique mechanism whose pendulum swings between life and death, a very special clock that keeps a special kind of time - in the Twilight Zone.",
             "closing_narration": "Clocks are made by men, God creates time. No man can prolong his allotted hours, he can only live them to the fullest - in this world or in the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2018/08/The-Twilight-Zone-Ninety-Years-Without-Slumbering-4.jpg"
+        },
+        {
+            "id": 133,
+            "title": "Ring-a-Ding Girl",
+            "season": "5",
+            "episode": "13",
+            "directed_by": "Alan Crosland, Jr.",
+            "written_by": "Earl Hamner, Jr.",
+            "air_year": "1963",
+            "air_date": "12-27-1963",
+            "storyline": "Movie star Bunny Blake receives a ring from her hometown which is giving her warnings to come home while she flies cross country.",
+            "cast": [
+                "Maggie McNamara",
+                "Mary Munday",
+                "David Macklin",
+                "Betty Lou Gerson",
+                "Vic Perrin",
+                "George Mitchell",
+                "Bing Russell",
+                "Hank Patterson"
+            ],
+            "opening_narration": "Introduction to Bunny Blake. Occupation: film actress. Residence: Hollywood, California, or anywhere in the world that cameras happen to be grinding. Bunny Blake is a public figure; what she wears, eats, thinks, says is news. But underneath the glamour, the makeup, the publicity, the buildup, the costuming, is a flesh-and-blood person, a beautiful girl about to take a long and bizarre journey into The Twilight Zone.",
+            "closing_narration": "We are all travelers. The trip starts in a place called birth, and ends in that lonely town called death. And that's the end of the journey, unless you happen to exist for a few hours, like Bunny Blake, in the misty regions of the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/f/f2/Ring_a_Ding_Girl.jpg"
+        },
+        {
+            "id": 134,
+            "title": "You Drive",
+            "season": "5",
+            "episode": "14",
+            "directed_by": "John Brahm",
+            "written_by": "Earl Hamner, Jr.",
+            "air_year": "1964",
+            "air_date": "01-03-1964",
+            "storyline": "After being involved with a hit-and-run accident, which resulted in killing a child, Mr. Oliver Pope is haunted by his car.",
+            "cast": [
+                "Edward Andrews",
+                "Helen Westcott",
+                "Kevin Hagen",
+                "Totty Ames"
+            ],
+            "opening_narration": "Portrait of a nervous man: Oliver Pope by name, office manager by profession. A man beset by life's problems: his job, his salary, the competition to get ahead. Obviously, Mr. Pope's mind is not on his driving. Oliver Pope, businessman-turned-killer, on a rain-soaked street in the early evening of just another day during just another drive home from the office. The victim, a kid on a bicycle, lying injured, near death. But Mr. Pope hasn't time for the victim, his only concern is for himself. Oliver Pope, hit-and-run driver, just arrived at a crossroad in his life, and he's chosen the wrong turn. The hit occurred in the world he knows, but the run will lead him straight into - the Twilight Zone.",
+            "closing_narration": "All persons attempting to conceal criminal acts involving their cars are hereby warned: check first to see that underneath that chrome there does not lie a conscience, especially if you're driving along a rain-soaked highway in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/6/6f/TZ_you_drive.jpg"
+        },
+        {
+            "id": 135,
+            "title": "The Long Morrow",
+            "season": "5",
+            "episode": "15",
+            "directed_by": "Robert Florey",
+            "written_by": "Rod Serling",
+            "air_year": "1964",
+            "air_date": "01-10-1964",
+            "storyline": "Before leaving on a decades-long mission, astronaut Douglas Stansfield meets a woman and falls in love.",
+            "cast": [
+                "Robert Lansing",
+                "Mariette Hartley",
+                "George Macready",
+                "Ed Binns"
+            ],
+            "opening_narration": "It may be said with a degree of assurance that not everything that meets the eye is as it appears. Case in point, the scene you're watching. This is not a hospital, not a morgue, not a mausoleum, not an undertaker's parlor of the future. What it is is the belly of a spaceship. It is en route to another planetary system, an incredible distance from the Earth. This is the crux of our story - a flight into space. It is also the story of the things that might happen to human beings who take a step beyond, unable to anticipate everything that might await them out there. Commander Douglas Stansfield, astronaut, a man about to embark on one of history's longest journeys: forty years out into endless space and hopefully back again. This is the beginning, the first step towards man's longest leap into the unknown. Science has solved the mechanical details and now it's up to one human being to breathe life into blueprints and computers, to prove once and for all that man can live half a lifetime in the total void of outer space, forty years alone in the unknown. This is Earth. Ahead lies a planetary system. The vast region in between is the Twilight Zone.",
+            "closing_narration": "Commander Douglas Stansfield, one of the forgotten pioneers of the space age. He's been pushed aside by the flow of progress and the passage of years, and the ferocious travesty of fate. Tonight's tale of the ionosphere and irony, delivered from the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2019/01/The-Twilight-Zone-The-Long-Morrow.jpg"
         }
     ]
 }

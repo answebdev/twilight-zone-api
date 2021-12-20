@@ -2335,7 +2335,7 @@
                 "Dabbs Greer",
                 "Jacques Aubuchon",
                 "James Doohan",
-                "Morgan Brittany",
+                "Suzanne Cupito (Morgan Brittany)",
                 "Sandy Kenyon",
                 "Henry Beckman",
                 "Bart Burns",
@@ -3328,6 +3328,29 @@
             "opening_narration": "This is Roswell G. Flemington, two hundred and twenty pounds of gristle, lung tissue and sound decibels. He is, as you have perceived, a noisy man, one of a breed who substitutes volume for substance, sound for significance, and shouting to cover up the readily apparent phenomenon that he is nothing more than an overweight and aging perennial Sea Scout whose noise-making is in inverse ratio to his competence and to his character. But soon our would-be admiral of the fleet will embark on another voyage. This one is an unchartered and twisting stream that heads for a distant port called the Twilight Zone.",
             "closing_narration": "When last heard from, Mr. Roswell G. Flemington was in a sanitarium pleading with the medical staff to make some noise. They, of course, believe the case to be a rather tragic aberration - a man's mind becoming unhinged. And for this they'll give him pills, therapy, and rest. Little do they realize that all Mr. Flemington is suffering from is a case of poetic justice. Tonight's tale of sounds and silences from the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/9/94/5sounds.jpg"
+        },
+        {
+            "id": 148,
+            "title": "Caesar and Me",
+            "season": "5",
+            "episode": "28",
+            "directed_by": "Robert Butler",
+            "written_by": "Adele T. Strassfield",
+            "air_year": "1964",
+            "air_date": "04-10-1964",
+            "storyline": "When Irish ventriloquist Jonathan West cannot find any work, his dummy Caesar suggests that he turn to burglary.",
+            "cast": [
+                "Jackie Cooper",
+                "Suzanne Cupito (Morgan Brittany)",
+                "Sarah Selby",
+                "Stafford Repp",
+                "Don Gazzaniga",
+                "Kenneth Konopka",
+                "Olan Soule"
+            ],
+            "opening_narration": "Jonathan West, ventriloquist, a master of voice manipulation. A man, late of Ireland, with a talent for putting words into other peoples' mouths. In this case, the other person is a dummy, aptly named Caesar, a small splinter with large ideas, a wooden tyrant with a mind and a voice of his own, who is about to talk Jonathan West - into the Twilight Zone.",
+            "closing_narration": "A little girl and a wooden doll. A lethal dummy in the shape of a man. But everybody knows dummies can't talk - unless, of course, they learn their vocabulary in the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/5/5d/Nope.png"
         }
     ]
 }

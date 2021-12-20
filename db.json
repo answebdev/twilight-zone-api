@@ -2833,6 +2833,42 @@
             "opening_narration": "Submitted for your approval or at least your analysis: one Patrick Thomas McNulty, who, at age forty-one, is the biggest bore on Earth. He holds a ten-year record for the most meaningless words spewed out during a coffee break. And it's very likely that, as of this moment, he would have gone through life in precisely this manner, a dull, argumentative bigmouth who sets back the art of conversation a thousand years. I say he very likely would have except for something that will soon happen to him, something that will considerably alter his existence - and ours. Now you think about that now, because this is The Twilight Zone.",
             "closing_narration": "Mr. Patrick Thomas McNulty, who had a gift of time. He used it and he misused it, and now he's just been handed the bill. Tonight's tale of motion and McNulty - in the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2018/05/The-Twilight-Zone-A-Kind-of-a-Stopwatch-3.jpg"
+        },
+        {
+            "id": 125,
+            "title": "The Last Night of a Jockey",
+            "season": "5",
+            "episode": "5",
+            "directed_by": "Joseph M. Newman",
+            "written_by": "Rod Serling",
+            "air_year": "1963",
+            "air_date": "10-25-1963",
+            "storyline": "A washed-up jockey gets his wish while waiting for the results of his race fixing hearing.",
+            "cast": [
+                "Mickey Rooney"
+            ],
+            "opening_narration": "The name is Grady, five feet short in stockings and boots, a slightly distorted offshoot of a good breed of humans who race horses. He happens to be one of the rotten apples, bruised and yellowed by dealing in dirt, a short man with a short memory who's forgotten that he's worked for the sport of kings and helped turn it into a cesspool, used and misused by the two-legged animals who've hung around sporting events since the days of the Coliseum. So this is Grady, on his last night as a jockey. Behind him are Hialeah, Hollywood Park and Saratoga. Rounding the far turn and coming up fast on the rail - is the Twilight Zone.",
+            "closing_narration": "The name is Grady, ten feet tall, a slightly distorted offshoot of a good breed of humans who race horses. Unfortunately for Mr. Grady, he learned too late that you don't measure size with a ruler, you don't figure height with a yardstick, and you never judge a man by how tall he looks in a mirror. The giant is as he does. You can make a parimutuel bet on this, win, place, or show, in or out of the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/4/40/Tz-last-night-of-a-jockey.jpg"
+        },
+        {
+            "id": 126,
+            "title": "Living Doll",
+            "season": "5",
+            "episode": "6",
+            "directed_by": "Richard C. Sarafian",
+            "written_by": "Jerry Sohl (Credited to Charles Beaumont)",
+            "air_year": "1963",
+            "air_date": "11-01-1963",
+            "storyline": "A frustrated father does battle with his stepdaughter's talking doll, whose vocabulary includes such phrases as \"I hate you\" and \"I'm going to kill you\".",
+            "cast": [
+                "Telly Savalas",
+                "Mary La Roche",
+                "Tracy Stratford"
+            ],
+            "opening_narration": "Talky Tina, a doll that does everything, a lifelike creation of plastic and springs and painted smile. To Erich Streator, she is the most unwelcome addition to his household - but without her, he'd never enter the Twilight Zone.",
+            "closing_narration": "Of course, we all know dolls can't really talk, and they certainly can't commit murder. But to a child caught in the middle of turmoil and conflict, a doll can become many things: friend, defender, guardian. Especially a doll like Talky Tina, who did talk and did commit murder - in the misty region of the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/7/7c/Talky_Tina.jpg"
         }
     ]
 }

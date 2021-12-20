@@ -2767,6 +2767,72 @@
             "opening_narration": "Submitted for your approval: one Max Phillips. A slightly-the-worse-for-wear maker of book, whose life has been as drab and undistinguished as a bundle of dirty clothes. And though it's very late in his day, he has an errant wish that the rest of his life might be sent out to a laundry, to come back shiny and clean. This to be a gift of love to a son named Pip. Mr. Max Phillips, homo sapiens, who is soon to discover that man is not as wise as he thinks. Said lesson to be learned in the Twilight Zone.",
             "closing_narration": "Very little comment here, save for this small aside: that the ties of flesh are deep and strong; that the capacity to love is a vital, rich, and all-consuming function of the human animal. And that you can find nobility and sacrifice and love wherever you may seek it out: down the block, in the heart or in the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/d/d3/119369.jpg"
+        },
+        {
+            "id": 122,
+            "title": "Steel",
+            "season": "5",
+            "episode": "2",
+            "directed_by": "Don Weis",
+            "written_by": "Richard Matheson",
+            "air_year": "1963",
+            "air_date": "10-04-1963",
+            "storyline": "In 1974, boxing has been outlawed and is performed by mechanical robots. With his next and possibly last fight approaching and his robot in need of repair, he resorts to one last desperate gamble.",
+            "cast": [
+                "Lee Marvin",
+                "Joe Mantell",
+                "Chuck Hicks",
+                "Merritt Bohn",
+                "Frank London"
+            ],
+            "opening_narration": "Sports item, circa 1974: Battling Maxo, B2, heavyweight, accompanied by his manager and handler, arrives in Maynard, Kansas, for a scheduled six-round bout. Battling Maxo is a robot, or, to be exact, an android, definition: 'an automaton resembling a human being.' Only these automatons have been permitted in the ring since prizefighting was legally abolished in 1968. This is the story of that scheduled six-round bout, more specifically the story of two men shortly to face that remorseless truth: that no law can be passed which will abolish cruelty or desperate need - nor, for that matter, blind animal courage. Location for the facing of said truth: a small, smoke-filled arena just this side of the Twilight Zone.",
+            "closing_narration": "Portrait of a losing side, proof positive that you can't outpunch machinery. Proof also of something else: that no matter what the future brings, man's capacity to rise to the occasion will remain unaltered. His potential for tenacity and optimism continues, as always, to outfight, outpoint and outlive any and all changes made by his society, for which three cheers and a unanimous decision rendered from the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/c/c5/Man.jpg"
+        },
+        {
+            "id": 123,
+            "title": "Nightmare at 20,000 Feet",
+            "season": "5",
+            "episode": "3",
+            "directed_by": "Richard Donner",
+            "written_by": "Richard Matheson",
+            "air_year": "1963",
+            "air_date": "10-11-1963",
+            "storyline": "A man, newly recovered from a nervous breakdown, becomes convinced that a monster only he sees is damaging the plane he's flying in.",
+            "cast": [
+                "William Shatner",
+                "Christine White",
+                "Edward Kemmer",
+                "Asa Maynor",
+                "Nick Cravat"
+            ],
+            "opening_narration": "Portrait of a frightened man: Mr. Robert Wilson, thirty-seven, husband, father and salesman on sick leave. Mr. Wilson has just been discharged from a sanitarium where he spent the last six months recovering from a nervous breakdown, the onset of which took place on an evening not dissimilar to this one, on an airliner very much like the one in which Mr. Wilson is about to be flown home - the difference being that, on that evening half a year ago, Mr. Wilson's flight was terminated by the onslaught of his mental breakdown. Tonight, he's traveling all the way to his appointed destination, which, contrary to Mr. Wilson's plan, happens to be in the darkest corner of the Twilight Zone.",
+            "closing_narration": "The flight of Mr. Robert Wilson has ended now, a flight not only from point A to point B, but also from the fear of recurring mental breakdown. Mr. Wilson has that fear no longer... though, for the moment, he is, as he has said, alone in this assurance. Happily, his conviction will not remain isolated too much longer, for happily, tangible manifestation is very often left as evidence of trespass, even from so intangible a quarter as the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/b/b1/Origin-Gremlin_look.jpg"
+        },
+        {
+            "id": 124,
+            "title": "A Kind of a Stopwatch",
+            "season": "5",
+            "episode": "4",
+            "directed_by": "John Rich",
+            "written_by": "Rod Serling (teleplay by)",
+            "air_year": "1963",
+            "air_date": "10-18-1963",
+            "storyline": "A man is given a stopwatch that halts time.",
+            "cast": [
+                "Richard Erdman",
+                "Herbie Faye",
+                "Leon Belasco",
+                "Doris Singleton",
+                "Roy Roberts",
+                "Richard Wessel",
+                "Ray Kellog",
+                "Ken Drake"
+            ],
+            "opening_narration": "Submitted for your approval or at least your analysis: one Patrick Thomas McNulty, who, at age forty-one, is the biggest bore on Earth. He holds a ten-year record for the most meaningless words spewed out during a coffee break. And it's very likely that, as of this moment, he would have gone through life in precisely this manner, a dull, argumentative bigmouth who sets back the art of conversation a thousand years. I say he very likely would have except for something that will soon happen to him, something that will considerably alter his existence - and ours. Now you think about that now, because this is The Twilight Zone.",
+            "closing_narration": "Mr. Patrick Thomas McNulty, who had a gift of time. He used it and he misused it, and now he's just been handed the bill. Tonight's tale of motion and McNulty - in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2018/05/The-Twilight-Zone-A-Kind-of-a-Stopwatch-3.jpg"
         }
     ]
 }

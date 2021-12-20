@@ -3192,6 +3192,73 @@
             "opening_narration": "This is the face of terror. Anne Marie Henderson, 18 years of age, her young existence suddenly marred by a savage and wholly unanticipated pursuit by a strange, nightmarish figure of a woman in black, who has appeared as if from nowhere and now, at driving gallop, chases the terrified girl across the countryside, as if she means to ride her down and kill her, and then suddenly and inexplicably stops to watch in malignant silence as her prey takes flight. Miss Henderson has no idea whatever as to the motive for this pursuit. Worse, not the vaguest notion regarding the identity of her pursuer. Soon enough, she will be given the solution to this twofold mystery, but in a manner far beyond her present capacity to understand, a manner enigmatically bizarre in terms of time and space - which is to say, an answer from... the Twilight Zone.",
             "closing_narration": "This is the face of terror. Anne Marie Mitchell, 43 years of age, her desolate existence once more afflicted by the hope of altering her past mistake - a hope which is unfortunately doomed to disappointment. For warnings from the future to the past must be taken in the past. Today may change tomorrow but once today is gone, tomorrow can only look back in sorrow that the warning was ignored. Said warning as of now stamped 'Not Accepted' - and stored away in the dead file, in the recording office... of the Twilight Zone.",
             "img": "https://midnitereviews.com/wp-content/uploads/2019/05/The-Twilight-Zone-Spur-of-the-Moment.jpg"
+        },
+        {
+            "id": 142,
+            "title": "An Occurrence at Owl Creek Bridge",
+            "season": "5",
+            "episode": "22",
+            "directed_by": "Robert Enrico",
+            "written_by": "Robert Enrico",
+            "air_year": "1962 (release date)",
+            "air_date": "02-28-1964",
+            "storyline": "During the American Civil War in 1862, a condemned Confederate prisoner, Peyton Farquhar, is due to be hanged by Union troops.",
+            "cast": [
+                "Roger Jacquet",
+                "Anne Cornaly",
+                "Anker Larsen",
+                "Stéphane Fey",
+                "Jean-François Zeller",
+                "Pierre Danny",
+                "Louis Adelin"
+            ],
+            "opening_narration": "Tonight a presentation so special and unique that, for the first time in the five years we've been presenting The Twilight Zone, we're offering a film shot in France by others. Winner of the Cannes Film Festival of 1962, as well as other international awards, here is a haunting study of the incredible, from the past master of the incredible, Ambrose Bierce. Here is the French production of 'An Occurrence at Owl Creek Bridge.'",
+            "closing_narration": "An occurrence at Owl Creek Bridge - in two forms, as it was dreamed, and as it was lived and died. This is the stuff of fantasy, the thread of imagination... the ingredients of the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2019/06/The-Twilight-Zone-An-Occurrence-at-Owl-Creek-Bridge-2.jpg"
+        },
+        {
+            "id": 143,
+            "title": "Queen of the Nile",
+            "season": "5",
+            "episode": "23",
+            "directed_by": "John Brahm",
+            "written_by": "Jerry Sohl (credited to Charles Beaumont)",
+            "air_year": "1964",
+            "air_date": "03-06-1964",
+            "storyline": "A reporter interviews a Hollywood movie queen who has a secret to her eternal beauty.",
+            "cast": [
+                "Ann Blyth",
+                "Lee Philips",
+                "Celia Lovsky",
+                "Ruth Phillips",
+                "Frank Ferguson",
+                "James Tyler"
+            ],
+            "opening_narration": "Jordan Herrick, syndicated columnist, whose work appears in more than a hundred newspapers. By nature a cynic, a disbeliever, caught for the moment by a lovely vision. He knows the vision he's seen is no dream; she is Pamela Morris, renowned movie star, whose name is a household word and whose face is known to millions. What Mr. Herrick does not know is that he has also just looked into the face - of the Twilight Zone.",
+            "closing_narration": "Everyone knows Pamela Morris, the beautiful and eternally young movie star. Or does she have another name, even more famous, an Egyptian name from centuries past? It's best not to be too curious, lest you wind up like Jordan Herrick, a pile of dust and old clothing discarded in the endless eternity of the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2019/07/The-Twilight-Zone-Queen-of-the-Nile-2.jpg"
+        },
+        {
+            "id": 144,
+            "title": "What's in the Box",
+            "season": "5",
+            "episode": "24",
+            "directed_by": "Richard L. Bare",
+            "written_by": "Martin Goldsmith",
+            "air_year": "1964",
+            "air_date": "03-13-1964",
+            "storyline": "Philanderer Joe Britt sees his indiscretions shown on his own TV set after it was worked on by a unique repairman.",
+            "cast": [
+                "Joan Blondell",
+                "William Demarest",
+                "Sterling Holloway",
+                "Herbert Lytton",
+                "Sandra Gould",
+                "Howard Wright"
+            ],
+            "opening_narration": "Portrait of a TV fan. Name: Joe Britt. Occupation: cab driver. Tonight, Mr. Britt is going to watch \"a really big show,\" something special for the cabbie who's seen everything. Joe Britt doesn't know it, but his flag is down and his meter's running and he's in high gear - on his way to the Twilight Zone.",
+            "closing_narration": "The next time your TV set is on the blink, when you're in the need of a first-rate repairman, may we suggest our own specialist? Factory-trained, prompt, honest, twenty-four hour service. You won't find him in the phone book, but his office is conveniently located - in the Twilight Zone.",
+            "img": "https://midnitereviews.com/wp-content/uploads/2019/08/The-Twilight-Zone-Whats-in-the-Box.jpg"
         }
     ]
 }

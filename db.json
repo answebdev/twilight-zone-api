@@ -3457,6 +3457,67 @@
             "opening_narration": "These are the players - with or without a scorecard. In one corner a machine; in the other, one Wallace V. Whipple, man. And the game? It happens to be the historical battle between flesh and steel, between the brain of man and the product of man's brain. We don't make book on this one and predict no winner...but we can tell you for this particular contest, there is standing room only - in the Twilight Zone.",
             "closing_narration": "There are many bromides applicable here: 'too much of a good thing', 'tiger by the tail', 'as you sow so shall you reap'. The point is that, too often, Man becomes clever instead of becoming wise; he becomes inventive and not thoughtful; and sometimes, as in the case of Mr. Whipple, he can create himself right out of existence. As in tonight's tale of oddness and obsolescence, in the Twilight Zone.",
             "img": "https://static.wikia.nocookie.net/twilightzone/images/6/6b/Robby64b.jpg"
+        },
+        {
+            "id": 154,
+            "title": "Come Wander with Me",
+            "season": "5",
+            "episode": "34",
+            "directed_by": "Richard Donner",
+            "written_by": "Anthony Wilson",
+            "air_year": "1964",
+            "air_date": "05-22-1964",
+            "storyline": "Singer Floyd Burney searches the backwoods for new songs and finds Mary Rachel and much more deep in the Twilight Zone.",
+            "cast": [
+                "Gary Crosby",
+                "Bonnie Beecher",
+                "John Bolt",
+                "Hank Patterson"
+            ],
+            "opening_narration": "Mr. Floyd Burney, a gentleman songster in search of song, is about to answer the age-old question of whether a man can be in two places at the same time. As far as his folk song is concerned, we can assure Mr. Burney he'll find everything he's looking for, although the lyrics may not be all to his liking. But that's sometimes the case - when the words and music are recorded in the Twilight Zone.",
+            "closing_narration": "In retrospect, it may be said of Mr. Floyd Burney that he achieved that final dream of the performer: eternal top-name billing, not on the fleeting billboards of the entertainment world, but forever recorded among the folk songs of the Twilight Zone.",
+            "img": "https://i.postimg.cc/FsTgWGq7/come-wander-with-me.png"
+        },
+        {
+            "id": 155,
+            "title": "The Fear",
+            "season": "5",
+            "episode": "35",
+            "directed_by": "Ted Post",
+            "written_by": "Rod Serling",
+            "air_year": "1964",
+            "air_date": "05-29-1964",
+            "storyline": "Charlotte Scott and state trooper Robert Franklin seem to be stalked by giants.",
+            "cast": [
+                "Peter Mark Richman",
+                "Hazel Court"
+            ],
+            "opening_narration": "The major ingredient of any recipe for fear is the unknown. And here are two characters about to partake of the meal: Miss Charlotte Scott, a fashion editor, and Mr. Robert Franklin, a state trooper. And the third member of the party: the unknown, that has just landed a few hundred yards away. This person or thing is soon to be met. This is a mountain cabin, but it is also a clearing in the shadows known as the Twilight Zone.",
+            "closing_narration": "Fear, of course, is extremely relative. It depends on who can look down and who must look up. It depends on other vagaries, like the time, the mood, the darkness. But it's been said before, with great validity, that the worst thing there is to fear is fear itself. Tonight's tale of terror and tiny people on the Twilight Zone.",
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/b/bc/Twilight-zone-the-fear2-large.jpg"
+        },
+        {
+            "id": 156,
+            "title": "The Bewitchin' Pool",
+            "season": "5",
+            "episode": "36",
+            "directed_by": "Joseph M. Newman",
+            "written_by": "Earl Hamner Jr.",
+            "air_year": "1964",
+            "air_date": "06-19-1964",
+            "storyline": "Two children escape their bickering parents through a portal in the bottom of their swimming pool to a magical land watched over by a kindly old woman the children call Aunt T.",
+            "cast": [
+                "Mary Badham",
+                "June Foray",
+                "Kim Hector",
+                "Dee Hartford",
+                "Jeffrey Byron",
+                "Georgia Simmons",
+                "Tod Andrews"
+            ],
+            "opening_narration": "A swimming pool not unlike any other pool, a structure built of tile and cement and money, a backyard toy for the affluent, wet entertainment for the well-to-do. But to Jeb and Sport Sharewood, this pool holds mysteries not dreamed of by the building contractor, not guaranteed in any sales brochure. For this pool has a secret exit that leads to a never-neverland, a place designed for junior citizens who need a long voyage away from reality, into the bottomless regions of the Twilight Zone. Introduction to a perfect setting: Colonial mansion, spacious grounds, heated swimming pool. All the luxuries money can buy. Introduction to two children: brother and sister, names Jeb and Sport. Healthy, happy, normal youngsters. Introduction to a mother: Gloria Sharewood by name, glamorous by nature. Introduction to a father: Gil Sharewood, handsome, prosperous, the picture of success. A man who has achieved every man's ambition. Beautiful children, beautiful home, beautiful wife. Idyllic? Obviously. But don't look too carefully, don't peek behind the façade. The idyll may have feet of clay.",
+            "closing_narration": "A brief epilogue for concerned parents. Of course, there isn't any such place as the gingerbread house of Aunt T, and we grownups know there's no door at the bottom of a swimming pool that leads to a secret place. But who can say how real the fantasy world of lonely children can become? For Jeb and Sport Sharewood, the need for love turned fantasy into reality; they found a secret place - in the Twilight Zone.",
+            "img": "https://i.postimg.cc/LsDyzffp/the-bewitchin-pool.png"
         }
     ]
 }

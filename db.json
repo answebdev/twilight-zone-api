@@ -18,7 +18,9 @@
             ],
             "opening_narration": "The place is here. The time is now, and the journey into the shadows that we are about to watch, could be our journey.",
             "closing_narration": "The barrier of loneliness: The palpable, desperate need of the human animal to be with his fellow man. Up there, up there in the vastness of space, in the void that is sky, up there is an enemy known as isolation. It sits there in the stars waiting, waiting with the patience of eons, forever waiting... in The Twilight Zone.",
-            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Earl_Holliman_Twilight_Zone_1959.jpg/300px-Earl_Holliman_Twilight_Zone_1959.jpg"
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Earl_Holliman_Twilight_Zone_1959.jpg/300px-Earl_Holliman_Twilight_Zone_1959.jpg",
+            "wikipedia": "https://en.wikipedia.org/wiki/Where_Is_Everybody%3F",
+            "imdb": "https://www.imdb.com/title/tt0734692/"
         },
         {
             "id": 2,
@@ -37,7 +39,9 @@
             ],
             "opening_narration": "Street scene: Summer. The present. Man on a sidewalk named Lew Bookman, age sixtyish. Occupation: pitchman. Lew Bookman, a fixture of the summer, a rather minor component to a hot July, a nondescript, commonplace little man whose life is a treadmill built out of sidewalks. And in just a moment, Lew Bookman will have to concern himself with survival - because as of three o'clock this hot July afternoon, he'll be stalked by Mr. Death.",
             "closing_narration": "Lewis J. Bookman, age sixtyish. Occupation: pitchman. Formerly a fixture of the summer, formerly a rather minor component to a hot July. But, throughout his life, a man beloved by the children, and therefore, a most important man. Couldn't happen, you say? Probably not in most places - but it did happen in the Twilight Zone.",
-            "img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ed_Wynn_Twilight_Zone_1959.jpg"
+            "img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ed_Wynn_Twilight_Zone_1959.jpg",
+            "wikipedia": "https://en.wikipedia.org/wiki/One_for_the_Angels",
+            "imdb": "https://www.imdb.com/title/tt0734609/"
         },
         {
             "id": 3,
@@ -60,7 +64,9 @@
             ],
             "opening_narration": "Portrait of a town drunk named Al Denton. This is a man who's begun his dying early — a long, agonizing route through a maze of bottles. Al Denton, who would probably give an arm or a leg or a part of his soul to have another chance, to be able to rise up and shake the dirt from his body and the bad dreams that infest his consciousness. In the parlance of the times, this is a peddler, a rather fanciful-looking little man in a black frock coat. And this is the third principal character of our story. Its function: perhaps to give Mr. Al Denton his second chance.",
             "closing_narration": "Mr. Henry Fate, dealer in utensils and pots and pans, liniments and potions. A fanciful little man in a black frock coat who can help a man climbing out of a pit — or another man from falling into one. Because, you see, fate can work that way, in the Twilight Zone.",
-            "img": "https://static.wikia.nocookie.net/twilightzone/images/3/3c/Mr._Denton_on_Doomsday.jpg"
+            "img": "https://static.wikia.nocookie.net/twilightzone/images/3/3c/Mr._Denton_on_Doomsday.jpg",
+            "wikipedia": "https://en.wikipedia.org/wiki/Mr._Denton_on_Doomsday",
+            "imdb": "https://www.imdb.com/title/tt0734592/"
         },
         {
             "id": 4,

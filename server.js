@@ -7,6 +7,4 @@ const port = process.env.PORT || 3000;
 server.use(middlewares);
 server.use(router);
 
-// console.log('Server is running');
-
 server.listen(port);

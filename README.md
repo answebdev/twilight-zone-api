@@ -48,13 +48,16 @@ fetch('https://the-twilight-zone-api.herokuapp.com/episodes')
 
 Example request by episode id. In this example, episode with an id of 1 is being requested.
 
-`fetch('https://the-twilight-zone-api.herokuapp.com/episodes/1')
+```
+fetch('https://the-twilight-zone-api.herokuapp.com/episodes/1')
   .then(response => response.json())
-  .then(json => console.log(json))`
+  .then(json => console.log(json))
+```
 
 Running this script will return the following data.
 
-`{
+```
+{
     "id": 1,
     "title": "Where Is Everybody?",
     "season": "1",
@@ -74,7 +77,8 @@ Running this script will return the following data.
     "img": "https://i.postimg.cc/DycfzqTJ/where-is-everybody.png",
     "wikipedia": "https://en.wikipedia.org/wiki/Where_Is_Everybody%3F",
     "imdb": "https://www.imdb.com/title/tt0734692/"
-}`
+}
+```
 
 ### Get all episodes by season
 

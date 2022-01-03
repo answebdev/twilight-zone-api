@@ -38,9 +38,11 @@ Endpoint to retrieve information from all episodes.
 
 The request for all of the episodes looks like this.
 
-`fetch('https://the-twilight-zone-api.herokuapp.com/episodes')
+```
+fetch('https://the-twilight-zone-api.herokuapp.com/episodes')
   .then(response => response.json())
-  .then(json => console.log(json))`
+  .then(json => console.log(json))
+```
 
 ### Get a single episode
 

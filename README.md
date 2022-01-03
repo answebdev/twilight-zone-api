@@ -1,4 +1,4 @@
-## The Twilight Zone API
+# The Twilight Zone API
 
 ![api-image](https://user-images.githubusercontent.com/36783010/147991253-c189846a-0ce1-400d-824b-179c574f05c5.png)
 

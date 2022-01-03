@@ -12,7 +12,7 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 
 ### Episode Attributes
 
-| Left-aligned | Center-aligned | Right-aligned |
+| Attribute | Type | Description |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |

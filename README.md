@@ -14,5 +14,18 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 
 | Attribute | Type | Description |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| id   | integer     | Unique id per episode    |
+| title     | string       | Episode title      |
+| season   | string     | Season number    |
+| episode     | string       | Episode number      |
+| directed_by   | string     | Episode director(s)    |
+| written_by     | string       | Episode writer      |
+| air_year   | string     | Original year episode aired    |
+| air_date     | string       | Original air date      |
+| storyline   | string     | Brief overview of episode    |
+| cast     | array       | Episode actor(s)      |
+| opening_narration   | string     | Narration at opening of episode    |
+| closing_narration     | string       | Narration at closing of episode      |
+| img   | string     | Image from episode    |
+| wikipedia     | string       | Link to episode Wikipedia page      |
+| imdb   | string     | Link to episode IMDb page    |

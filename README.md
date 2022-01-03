@@ -10,6 +10,7 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 
 `https://the-twilight-zone-api.herokuapp.com/`
 
+
 ### Episode Attributes
 
 | Attribute | Type | Description |
@@ -30,6 +31,7 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 | wikipedia     | string       | Link to episode Wikipedia page      |
 | imdb   | string     | Link to episode IMDb page    |
 
+
 ### Get all episodes
 
 Endpoint to retrieve information from all episodes.
@@ -44,6 +46,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/episodes')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
+
 
 ### Get a single episode
 
@@ -81,6 +84,7 @@ Running this script will return the following data.
 }
 ```
 
+
 ### Get all episodes by season
 
 Endpoint to retrieve information from all episodes by season. To indicate the season, add the season number (1-5) at the end.
@@ -95,6 +99,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/season1')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
+
 
 ### Get a single episode of a particular season
 
@@ -131,6 +136,7 @@ Running this script will return the following data.
     "imdb": "https://www.imdb.com/title/tt0734596/"
 }
 ```
+
 
 ## Resources
 

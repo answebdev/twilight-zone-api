@@ -88,21 +88,26 @@ Endpoint to retrieve information from all episodes by season. To indicate the se
 
 The request for all of the episodes from season 1 looks like this.
 
-`fetch('https://the-twilight-zone-api.herokuapp.com/season1')
+```
+fetch('https://the-twilight-zone-api.herokuapp.com/season1')
   .then(response => response.json())
-  .then(json => console.log(json))`
+  .then(json => console.log(json))
+```
 
 ### Get a single episode of a particular season
 
 Example request by episode id from a particular season. In this example, episode with an id of 39 from season 2 is being requested.
 
-`fetch('https://the-twilight-zone-api.herokuapp.com/season2/39')
+```
+fetch('https://the-twilight-zone-api.herokuapp.com/season2/39')
   .then(response => response.json())
-  .then(json => console.log(json))`
+  .then(json => console.log(json))
+```
 
 Running this script will return the following data.
 
-`{
+```
+{
     "id": 39,
     "title": "Nervous Man in a Four Dollar Room",
     "season": "2",
@@ -121,7 +126,8 @@ Running this script will return the following data.
     "img": "https://i.postimg.cc/vZpzZWWb/nervous-man-in-a-four-dollar-room.png",
     "wikipedia": "https://en.wikipedia.org/wiki/Nervous_Man_in_a_Four_Dollar_Room",
     "imdb": "https://www.imdb.com/title/tt0734596/"
-}`
+}
+```
 
 ## Resources
 

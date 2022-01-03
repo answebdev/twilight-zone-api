@@ -9,3 +9,10 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 ### Base Url
 
 `https://the-twilight-zone-api.herokuapp.com/`
+
+### Episode Attributes
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |

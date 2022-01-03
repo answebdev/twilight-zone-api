@@ -36,6 +36,7 @@ Endpoint to retrieve information from all episodes.
 
 `/episodes`
 
+
 The request for all of the episodes looks like this.
 
 ```
@@ -86,6 +87,7 @@ Endpoint to retrieve information from all episodes by season. To indicate the se
 
 `/season1`
 
+
 The request for all of the episodes from season 1 looks like this.
 
 ```
@@ -103,6 +105,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/season2/39')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
+
 
 Running this script will return the following data.
 

@@ -30,7 +30,6 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 | img   | string     | Image from episode    |
 | wikipedia     | string       | Link to episode Wikipedia page      |
 | imdb   | string     | Link to episode IMDb page    |
-
 &nbsp;
 ### Get all episodes
 

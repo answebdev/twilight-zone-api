@@ -11,7 +11,7 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 
 `https://the-twilight-zone-api.herokuapp.com/`
 
-
+&nbsp;
 ### Episode Attributes
 
 | Attribute | Type | Description |

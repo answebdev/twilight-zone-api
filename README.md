@@ -5,7 +5,7 @@
 &nbsp;
 ## Documentation
 
-Welcome to the Twilight Zone API. This documentation should provide with you all the information you need to start making your HTTP requests. This API is free. Feel free to use it in your projects.
+Welcome to the Twilight Zone API. This documentation should provide you with all the information you need to start making your HTTP requests. This API is free. Feel free to use it in your projects.
 
 ### Base Url
 

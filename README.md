@@ -2,6 +2,7 @@
 
 ![banner](https://user-images.githubusercontent.com/36783010/147993445-4deaea94-b39f-48a5-9dd8-8df6f0ef5ddb.png)
 
+&nbsp;
 ## Documentation
 
 Welcome to the Twilight Zone API. This documentation should provide with you all the information you need to start making your HTTP requests. This API is free. Feel free to use it in your projects.

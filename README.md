@@ -30,6 +30,7 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 | img   | string     | Image from episode    |
 | wikipedia     | string       | Link to episode Wikipedia page      |
 | imdb   | string     | Link to episode IMDb page    |
+
 &nbsp;
 ### Get all episodes
 
@@ -37,7 +38,7 @@ Endpoint to retrieve information from all episodes.
 
 `/episodes`
 
-
+&nbsp;
 The request for all of the episodes looks like this.
 
 ```
@@ -46,7 +47,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/episodes')
   .then(json => console.log(json))
 ```
 
-
+&nbsp;
 ### Get a single episode
 
 Example request by episode id. In this example, episode with an id of 1 is being requested.
@@ -83,14 +84,14 @@ Running this script will return the following data.
 }
 ```
 
-
+&nbsp;
 ### Get all episodes by season
 
 Endpoint to retrieve information from all episodes by season. To indicate the season, add the season number (1-5) at the end.
 
 `/season1`
 
-
+&nbsp;
 The request for all of the episodes from season 1 looks like this.
 
 ```
@@ -99,7 +100,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/season1')
   .then(json => console.log(json))
 ```
 
-
+&nbsp;
 ### Get a single episode of a particular season
 
 Example request by episode id from a particular season. In this example, episode with an id of 39 from season 2 is being requested.
@@ -110,7 +111,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/season2/39')
   .then(json => console.log(json))
 ```
 
-
+&nbsp;
 Running this script will return the following data.
 
 ```
@@ -136,7 +137,7 @@ Running this script will return the following data.
 }
 ```
 
-
+&nbsp;
 ## Resources
 
 The Twilight Zone API comes with a set of 6 common resources:

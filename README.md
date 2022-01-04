@@ -59,8 +59,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/episodes/1')
   .then(json => console.log(json))
 ```
 
-&nbsp;
-&nbsp;
+
 Running this script will return the following data.
 
 ```

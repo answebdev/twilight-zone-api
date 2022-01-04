@@ -1,10 +1,10 @@
 # The Twilight Zone API
 
-![api-image](https://user-images.githubusercontent.com/36783010/147991253-c189846a-0ce1-400d-824b-179c574f05c5.png)
+![banner](https://user-images.githubusercontent.com/36783010/147993445-4deaea94-b39f-48a5-9dd8-8df6f0ef5ddb.png)
 
 ## Documentation
 
-Welcome to the Twilight Zone API. This documentation should provide with you all the information you need to start making your HTTP requests. This API is free. Feel free to use it on your projects.
+Welcome to the Twilight Zone API. This documentation should provide with you all the information you need to start making your HTTP requests. This API is free. Feel free to use it in your projects.
 
 ### Base Url
 
@@ -14,7 +14,7 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 ### Episode Attributes
 
 | Attribute | Type | Description |
-| :---         |     :---:      |          ---: |
+| :---         |     :---      |          :--- |
 | id   | integer     | Unique id per episode    |
 | title     | string       | Episode title      |
 | season   | string     | Season number    |

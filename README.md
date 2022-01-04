@@ -31,7 +31,7 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 | wikipedia     | string       | Link to episode Wikipedia page      |
 | imdb   | string     | Link to episode IMDb page    |
 
-
+&nbsp;
 ### Get all episodes
 
 Endpoint to retrieve information from all episodes.

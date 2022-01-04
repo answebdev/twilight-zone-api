@@ -14,7 +14,7 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 ### Episode Attributes
 
 | Attribute | Type | Description |
-| :---         |     :---:      |          ---: |
+| :---         |     :---      |          :--- |
 | id   | integer     | Unique id per episode    |
 | title     | string       | Episode title      |
 | season   | string     | Season number    |

@@ -1,4 +1,4 @@
-// const base = require('../routes/base');
+const base = require('../routes/base');
 const episodes = require('../routes/episodes');
 const season1 = require('../routes/season1');
 const season2 = require('../routes/season2');
@@ -14,7 +14,7 @@ app.use(cors());
 
 const PORT = process.env.PORT || 5000;
 
-// app.use('/', base);
+app.use('/', base);
 app.use('/episodes', episodes);
 app.use('/season1', season1);
 app.use('/season2', season2);

@@ -2,15 +2,16 @@
 
 ![banner](https://user-images.githubusercontent.com/36783010/147993445-4deaea94-b39f-48a5-9dd8-8df6f0ef5ddb.png)
 
+&nbsp;
 ## Documentation
 
-Welcome to the Twilight Zone API. This documentation should provide with you all the information you need to start making your HTTP requests. This API is free. Feel free to use it in your projects.
+Welcome to the Twilight Zone API. This documentation should provide you with all the information you need to start making your HTTP requests. This API is free. Feel free to use it in your projects.
 
 ### Base Url
 
 `https://the-twilight-zone-api.herokuapp.com/`
 
-
+&nbsp;
 ### Episode Attributes
 
 | Attribute | Type | Description |
@@ -31,14 +32,14 @@ Welcome to the Twilight Zone API. This documentation should provide with you all
 | wikipedia     | string       | Link to episode Wikipedia page      |
 | imdb   | string     | Link to episode IMDb page    |
 
-
+&nbsp;
 ### Get all episodes
 
 Endpoint to retrieve information from all episodes.
 
 `/episodes`
 
-
+&nbsp;
 The request for all of the episodes looks like this.
 
 ```
@@ -47,7 +48,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/episodes')
   .then(json => console.log(json))
 ```
 
-
+&nbsp;
 ### Get a single episode
 
 Example request by episode id. In this example, episode with an id of 1 is being requested.
@@ -57,6 +58,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/episodes/1')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
+
 
 Running this script will return the following data.
 
@@ -84,14 +86,14 @@ Running this script will return the following data.
 }
 ```
 
-
+&nbsp;
 ### Get all episodes by season
 
 Endpoint to retrieve information from all episodes by season. To indicate the season, add the season number (1-5) at the end.
 
 `/season1`
 
-
+&nbsp;
 The request for all of the episodes from season 1 looks like this.
 
 ```
@@ -100,7 +102,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/season1')
   .then(json => console.log(json))
 ```
 
-
+&nbsp;
 ### Get a single episode of a particular season
 
 Example request by episode id from a particular season. In this example, episode with an id of 39 from season 2 is being requested.
@@ -111,7 +113,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/season2/39')
   .then(json => console.log(json))
 ```
 
-
+&nbsp;
 Running this script will return the following data.
 
 ```
@@ -137,7 +139,7 @@ Running this script will return the following data.
 }
 ```
 
-
+&nbsp;
 ## Resources
 
 The Twilight Zone API comes with a set of 6 common resources:

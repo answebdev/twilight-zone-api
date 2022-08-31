@@ -1,4 +1,5 @@
 const rateLimit = require('express-rate-limit');
+const cors = require('cors');
 const base = require('../routes/base');
 const episodes = require('../routes/episodes');
 const season1 = require('../routes/season1');
@@ -11,13 +12,11 @@ const app = require('express')();
 
 // Rate Limiting
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
+  windowMs: 24 * 60 * 60 * 1000, // 24 hours
   max: 10000,
 });
 
 app.use(limiter);
-
-const cors = require('cors');
 
 app.use(cors());
 

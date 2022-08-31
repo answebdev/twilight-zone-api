@@ -1,3 +1,4 @@
+const rateLimit = require('express-rate-limit');
 const base = require('../routes/base');
 const episodes = require('../routes/episodes');
 const season1 = require('../routes/season1');
@@ -7,6 +8,16 @@ const season4 = require('../routes/season4');
 const season5 = require('../routes/season5');
 
 const app = require('express')();
+
+// Test: Max 5 requests allowed every 10 minutes
+const limiter = rateLimit({
+  windowMs: 100 * 60 * 1000, // 10 mins
+  max: 5,
+  message: '🙁',
+});
+
+// Apply the rate limiting middleware to all requests
+app.use(limiter);
 
 const cors = require('cors');
 

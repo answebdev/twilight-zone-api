@@ -9,10 +9,10 @@ const season5 = require('../routes/season5');
 
 const app = require('express')();
 
-// Test: Max 5 requests allowed every 10 minutes
+// Rate Limiting
 const limiter = rateLimit({
   windowMs: 100 * 60 * 1000, // 10 mins
-  max: 5,
+  max: 4,
   message: '🙁',
 });
 

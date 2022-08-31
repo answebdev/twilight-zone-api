@@ -12,7 +12,7 @@ const app = require('express')();
 // Rate Limiting
 const limiter = rateLimit({
   windowMs: 100 * 60 * 1000, // 10 mins
-  max: 4,
+  max: 5,
   message: '🙁',
 });
 

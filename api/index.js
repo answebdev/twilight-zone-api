@@ -11,12 +11,10 @@ const app = require('express')();
 
 // Rate Limiting
 const limiter = rateLimit({
-  windowMs: 100 * 60 * 1000, // 10 mins
-  max: 5,
-  message: '🙁',
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 10000,
 });
 
-// Apply the rate limiting middleware to all requests
 app.use(limiter);
 
 const cors = require('cors');

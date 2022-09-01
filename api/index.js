@@ -21,7 +21,7 @@ const app = require('express')();
 //   max: 10000,
 // });
 
-app.use(limiter);
+// app.use(limiter);
 
 app.use(cors());
 

@@ -28,7 +28,7 @@ app.use(limiter);
 app.use(cors());
 
 // Compress all responses
-// app.use(compression());
+app.use(compression());
 
 const PORT = process.env.PORT || 5000;
 

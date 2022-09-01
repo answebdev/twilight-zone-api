@@ -8,8 +8,6 @@ const season3 = require('../routes/season3');
 const season4 = require('../routes/season4');
 const season5 = require('../routes/season5');
 
-const compression = require('compression');
-
 const app = require('express')();
 
 // Rate Limiting
@@ -26,13 +24,6 @@ const limiter = rateLimit({
 app.use(limiter);
 
 app.use(cors());
-
-// Compress all responses
-app.use(
-  compression({
-    level: 6,
-  })
-);
 
 const PORT = process.env.PORT || 5000;
 

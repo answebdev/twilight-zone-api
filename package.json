@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "The Twilight Zone Episodes API",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./api/index.js"

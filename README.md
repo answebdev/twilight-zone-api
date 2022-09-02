@@ -9,7 +9,7 @@ Welcome to the Twilight Zone API. This documentation should provide you with all
 
 ### Base Url
 
-`https://the-twilight-zone-api.herokuapp.com/`
+`https://the-twilight-zone-api.vercel.app/`
 
 &nbsp;
 ### Episode Attributes

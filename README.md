@@ -43,7 +43,7 @@ Endpoint to retrieve information from all episodes.
 The request for all of the episodes looks like this.
 
 ```
-fetch('https://the-twilight-zone-api.herokuapp.com/episodes')
+fetch('https://the-twilight-zone-api.vercel.app/episodes')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
@@ -54,7 +54,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/episodes')
 Example request by episode id. In this example, episode with an id of 1 is being requested.
 
 ```
-fetch('https://the-twilight-zone-api.herokuapp.com/episodes/1')
+fetch('https://the-twilight-zone-api.vercel.app/episodes/1')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
@@ -97,7 +97,7 @@ Endpoint to retrieve information from all episodes by season. To indicate the se
 The request for all of the episodes from season 1 looks like this.
 
 ```
-fetch('https://the-twilight-zone-api.herokuapp.com/season1')
+fetch('https://the-twilight-zone-api.vercel.app/season1')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
@@ -108,7 +108,7 @@ fetch('https://the-twilight-zone-api.herokuapp.com/season1')
 Example request by episode id from a particular season. In this example, episode with an id of 39 from season 2 is being requested.
 
 ```
-fetch('https://the-twilight-zone-api.herokuapp.com/season2/39')
+fetch('https://the-twilight-zone-api.vercel.app/season2/39')
   .then(response => response.json())
   .then(json => console.log(json))
 ```
